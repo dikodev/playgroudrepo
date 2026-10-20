@@ -1,0 +1,27 @@
+﻿EquipmentID,EquipmentName,EquipmentType,Plant,ProductionLine,InstallDate,Manufacturer,Criticality
+EQ-ROB-101,Welding Robot 01,Welding Robot,Durban,Body Shop,2020-04-12,Contoso Robotics,High
+EQ-ROB-102,Welding Robot 02,Welding Robot,Durban Plant,Body Shop,2020-04-12,Contoso Robotics,High
+EQ-ROB-103,Welding Robot 03,welding robot,DBN,Body shop,2020/05/03,Contoso Robotics,HIGH
+EQ-ROB-104,Welding Robot 04,Welding Robot,Durban,Body Shop,2020-05-03,Contoso Robotics,High
+EQ-CNV-201,Body Conveyor 01,Conveyor,Durban,Body Shop,2019-08-21,Fabrikam Motion,High
+EQ-CNV-202,Body Conveyor 02,conveyor,Durban Plant,Body Shop,21-08-2019,Fabrikam Motion,high
+EQ-CNV-203,Paint Line Conveyor,Conveyor,DBN,Paint Shop,2019-11-14,Fabrikam Motion,Medium
+EQ-PNT-301,Paint Booth 01,Paint Booth,Durban,Paint Shop,2021-02-15,Northwind Industrial,High
+EQ-PNT-302,Paint Booth 02,Paint booth,Durban Plant,Paint shop,2021/02/18,Northwind Industrial,High
+EQ-PNT-303,Paint Mixing Unit,Mixer,Durban,Paint Shop,2021-03-05,Northwind Industrial,Medium
+EQ-TOR-401,Torque Station 01,Torque Tool,Durban,Final Assembly,2022-06-10,Adventure Works,Medium
+EQ-TOR-402,Torque Station 02,torque tool,DBN,Final Assembly,2022-06-11,Adventure Works,MEDIUM
+EQ-TOR-403,Torque Station 03,Torque Tool,Durban Plant,Final assembly,2022/06/12,Adventure Works,Medium
+EQ-ENG-501,Engine Hoist 01,Hoist,Durban,Final Assembly,2018-09-30,Tailspin Engineering,High
+EQ-ENG-502,Engine Hoist 02,Hoist,Durban,Final Assembly,,Tailspin Engineering,High
+EQ-PRS-601,Panel Press 01,Hydraulic Press,Durban Plant,Stamping,2017-01-20,Wide World Machinery,Critical
+EQ-PRS-602,Panel Press 02,Hydraulic press,DBN,Stamping,2017-01-20,Wide World Machinery,CRITICAL
+EQ-INS-701,Vision Inspection 01,Inspection Camera,Durban,Quality,2023-03-14,Litware Vision,Medium
+EQ-INS-702,Vision Inspection 02,Inspection Camera,Durban,Quality Assurance,2023-03-15,Litware Vision,Medium
+EQ-PKG-801,Packaging Robot 01,Packaging Robot,Durban Plant,Final Assembly,2021-10-09,Contoso Robotics,Low
+EQ-FLT-901,Forklift 01,Forklift,DBN,Warehouse,2019-06-25,Proseware Logistics,Medium
+EQ-FLT-902,Forklift 02,Fork Lift,Durban,Warehouse,2019-07-01,Proseware Logistics,
+EQ-CMP-1001,Air Compressor 01,Compressor,Durban,Utilities,2016-12-02,Woodgrove Systems,High
+EQ-CMP-1002,Air Compressor 02,Compressor,Durban Plant,Utilities,2016-12-02,Woodgrove Systems,High
+EQ-ROB-101,Welding Robot 01,Welding Robot,Durban,Body Shop,2020-04-12,Contoso Robotics,High
+ EQ-SCN-1101 ,Barcode Scanner 01,scanner,Durban,Warehouse,2024-01-08,,Low

@@ -1,0 +1,1310 @@
+﻿ProductionRecordID,ProductionDate,Plant,ProductionLine,Shift,TargetUnits,ActualUnits,RejectedUnits,DowntimeMinutes
+PRD-1001,2026-07-01,Durban,Body Shop,Morning,215,208,5,3
+PRD-1002,2026-07-01,Durban,Body Shop,Afternoon,219,203,1,10
+PRD-1003,2026-07-01,Durban,Body Shop,Night,215,197,5,24
+PRD-1004,2026-07-01,Durban,Paint Shop,Morning,194,185,3,21
+PRD-1005,2026-07-01,Durban,Paint Shop,Afternoon,192,186,1,5
+PRD-1006,2026-07-01,Durban,Paint Shop,Night,208,191,0,22
+PRD-1007,2026-07-01,Durban,Final Assembly,Morning,208,187,5,25
+PRD-1008,2026-07-01,Durban,Final Assembly,Afternoon,215,201,3,10
+PRD-1009,2026-07-01,Durban,Final Assembly,Night,210,199,6,28
+PRD-1010,2026-07-01,Durban,Stamping,Morning,227,212,3,25
+PRD-1011,2026-07-01,Durban,Stamping,Afternoon,230,214,1,7
+PRD-1012,2026-07-01,Durban,Stamping,Night,232,222,0,6
+PRD-1013,2026-07-02,Durban,Body Shop,Morning,215,204,6,14
+PRD-1014,2026-07-02,Durban,Body Shop,Afternoon,220,198,0,28
+PRD-1015,2026-07-02,Durban,Body Shop,Night,226,211,0,20
+PRD-1016,2026-07-02,Durban,Paint Shop,Morning,194,175,2,20
+PRD-1017,2026-07-02,Durban,Paint Shop,Afternoon,203,183,1,21
+PRD-1018,2026-07-02,Durban,Paint Shop,Night,194,188,5,4
+PRD-1019,2026-07-02,Durban,Final Assembly,Morning,211,205,6,5
+PRD-1020,2026-07-02,Durban,Final Assembly,Afternoon,205,191,2,15
+PRD-1021,2026-07-02,Durban,Final Assembly,Night,213,204,2,8
+PRD-1022,2026-07-02,Durban,Stamping,Morning,228,207,2,24
+PRD-1023,2026-07-02,Durban,Stamping,Afternoon,224,213,5,22
+PRD-1024,2026-07-02,Durban,Stamping,Night,229,219,3,8
+PRD-1025,2026-07-03,Durban,Body Shop,Morning,220,202,5,23
+PRD-1026,2026-07-03,Durban,Body Shop,Afternoon,219,197,2,24
+PRD-1027,2026-07-03,Durban,Body Shop,Night,213,208,6,10
+PRD-1028,2026-07-03,Durban,Paint Shop,Morning,202,194,2,15
+PRD-1029,2026-07-03,Durban,Paint Shop,Afternoon,198,184,5,21
+PRD-1030,2026-07-03,Durban,Paint Shop,Night,198,182,3,23
+PRD-1031,2026-07-03,Durban,Final Assembly,Morning,216,210,2,7
+PRD-1032,2026-07-03,Durban Plant,Final Assembly,Afternoon,209,190,4,26
+PRD-1033,2026-07-03,Durban,Final Assembly,Night,210,193,4,26
+PRD-1034,2026-07-03,Durban,Stamping,Morning,234,226,1,14
+PRD-1035,2026-07-03,Durban,Stamping,Afternoon,238,218,0,18
+PRD-1036,2026-07-03,Durban,Stamping,Night,223,209,1,6
+PRD-1037,2026-07-04,Durban,Body Shop,Morning,217,200,5,28
+PRD-1038,2026-07-04,Durban,Body Shop,Afternoon,214,198,3,15
+PRD-1039,2026-07-04,Durban,Body Shop,Night,226,210,2,19
+PRD-1040,2026-07-04,Durban,Paint Shop,Morning,192,181,5,24
+PRD-1041,2026-07-04,Durban,Paint Shop,Afternoon,200,184,5,27
+PRD-1042,2026-07-04,Durban,Paint Shop,Night,195,187,3,12
+PRD-1043,2026-07-04,Durban,Final Assembly,Morning,216,202,5,3
+PRD-1044,2026-07-04,Durban,Final Assembly,Afternoon,210,200,6,19
+PRD-1045,2026-07-04,Durban,Final Assembly,Night,218,204,6,6
+PRD-1046,2026-07-04,Durban,Stamping,Morning,231,212,4,23
+PRD-1047,2026-07-04,Durban,Stamping,Afternoon,228,212,2,7
+PRD-1048,2026-07-04,Durban,Stamping,Night,227,210,6,20
+PRD-1049,2026-07-05,Durban,Body Shop,Morning,212,196,2,22
+PRD-1050,2026-07-05,Durban,Body Shop,Afternoon,212,196,2,6
+PRD-1051,2026-07-05,Durban,Body Shop,Night,221,213,0,10
+PRD-1052,2026-07-05,Durban,Paint Shop,Morning,194,184,5,5
+PRD-1053,2026-07-05,Durban,Paint Shop,Afternoon,194,171,4,27
+PRD-1054,2026-07-05,Durban,Paint Shop,Night,196,185,5,7
+PRD-1055,2026-07-05,Durban,Final Assembly,Morning,207,193,4,11
+PRD-1056,2026-07-05,Durban,Final Assembly,Afternoon,215,198,4,9
+PRD-1057,2026-07-05,Durban,Final Assembly,Night,208,192,2,25
+PRD-1058,2026-07-05,Durban,Stamping,Morning,233,219,4,17
+PRD-1059,2026-07-05,Durban,Stamping,Afternoon,225,219,1,10
+PRD-1060,2026-07-05,Durban,Stamping,Night,232,221,4,3
+PRD-1061,2026-07-06,Durban,Body Shop,Morning,219,210,1,21
+PRD-1062,2026-07-06,Durban,Body Shop,Afternoon,214,204,5,25
+PRD-1063,2026-07-06,Durban,Body Shop,Night,219,211,0,5
+PRD-1064,2026-07-06,Durban,Paint Shop,Morning,194,182,1,19
+PRD-1065,2026-07-06,Durban,Paint Shop,Afternoon,207,200,4,9
+PRD-1066,2026-07-06,Durban,Paint Shop,Night,207,195,6,10
+PRD-1067,2026-07-06,Durban,Final Assembly,Morning,215,209,0,9
+PRD-1068,2026-07-06,Durban,Final Assembly,Afternoon,215,203,3,14
+PRD-1069,2026-07-06,Durban,Final Assembly,Night,216,195,0,26
+PRD-1070,2026-07-06,Durban,Stamping,Morning,225,211,3,4
+PRD-1071,2026-07-06,Durban,Stamping,Afternoon,232,220,6,28
+PRD-1072,2026-07-06,Durban,Stamping,Night,229,216,1,9
+PRD-1073,2026-07-07,Durban,Body Shop,Morning,226,220,3,7
+PRD-1074,2026-07-07,Durban,Body Shop,Afternoon,220,212,1,17
+PRD-1075,2026-07-07,Durban,Body Shop,Night,226,207,6,28
+PRD-1076,2026-07-07,Durban,Paint Shop,Morning,195,184,5,4
+PRD-1077,2026-07-07,Durban,Paint Shop,Afternoon,192,186,6,5
+PRD-1078,2026-07-07,Durban,Paint Shop,Night,197,183,3,16
+PRD-1079,2026-07-07,Durban,Final Assembly,Morning,208,199,0,15
+PRD-1080,2026-07-07,Durban,Final Assembly,Afternoon,214,207,3,3
+PRD-1081,2026-07-07,Durban,Final Assembly,Night,216,199,3,12
+PRD-1082,2026-07-07,Durban,Stamping,Morning,237,229,1,7
+PRD-1083,2026-07-07,Durban,Stamping,Afternoon,228,214,4,4
+PRD-1084,2026-07-07,Durban,Stamping,Night,223,212,2,26
+PRD-1085,2026-07-08,Durban,Body Shop,Morning,213,196,3,21
+PRD-1086,2026-07-08,Durban,Body Shop,Afternoon,228,216,0,8
+PRD-1087,2026-07-08,Durban,Body Shop,Night,214,201,0,8
+PRD-1088,2026-07-08,Durban,Paint Shop,Morning,194,181,6,24
+PRD-1089,2026-07-08,Durban,Paint Shop,Afternoon,204,197,4,6
+PRD-1090,2026-07-08,Durban,Paint Shop,Night,193,178,0,22
+PRD-1091,2026-07-08,Durban,Final Assembly,Morning,218,209,2,13
+PRD-1092,2026-07-08,Durban,Final Assembly,Afternoon,212,201,2,10
+PRD-1093,2026-07-08,Durban,Final Assembly,Night,206,192,5,24
+PRD-1094,2026-07-08,Durban,Stamping,Morning,236,229,6,13
+PRD-1095,2026-07-08,Durban,Stamping,Afternoon,222,206,4,17
+PRD-1096,2026-07-08,Durban,Stamping,Night,225,219,4,5
+PRD-1097,2026-07-09,Durban,Body Shop,Morning,228,218,1,11
+PRD-1098,2026-07-09,Durban,Body Shop,Afternoon,214,205,2,10
+PRD-1099,2026-07-09,Durban,Body Shop,Night,217,202,6,17
+PRD-1100,2026-07-09,Durban,Paint Shop,Morning,201,182,6,22
+PRD-1101,2026-07-09,Durban,Paint Shop,Afternoon,208,197,5,3
+PRD-1102,2026-07-09,Durban,Paint Shop,Night,201,189,0,24
+PRD-1103,2026-07-09,Durban,Final Assembly,Morning,210,195,0,6
+PRD-1104,2026-07-09,Durban,Final Assembly,Afternoon,206,192,2,11
+PRD-1105,2026-07-09,Durban,Final Assembly,Night,208,195,2,25
+PRD-1106,2026-07-09,Durban,stamping,Morning,230,218,3,19
+PRD-1107,2026-07-09,Durban,Stamping,Afternoon,223,214,5,5
+PRD-1108,2026-07-09,Durban,Stamping,Night,230,222,0,4
+PRD-1109,2026-07-10,Durban,Body Shop,Morning,216,204,2,23
+PRD-1110,2026-07-10,Durban,Body Shop,Afternoon,226,211,5,20
+PRD-1111,2026-07-10,Durban,Body Shop,Night,212,197,0,6
+PRD-1112,2026-07-10,Durban,Paint Shop,Morning,196,182,0,20
+PRD-1113,2026-07-10,Durban,Paint Shop,Afternoon,196,189,1,16
+PRD-1114,2026-07-10,Durban,Paint Shop,Night,201,195,6,14
+PRD-1115,2026-07-10,Durban,Final Assembly,Morning,213,205,5,9
+PRD-1116,2026-07-10,Durban,Final Assembly,Afternoon,205,191,6,14
+PRD-1117,2026-07-10,Durban,Final Assembly,Night,215,204,5,22
+PRD-1118,2026-07-10,Durban,Stamping,Morning,229,213,6,8
+PRD-1119,2026-07-10,Durban,Stamping,Afternoon,227,218,0,16
+PRD-1120,2026-07-10,Durban,Stamping,Night,232,209,3,28
+PRD-1121,2026-07-11,Durban,Body Shop,Morning,219,202,1,11
+PRD-1122,2026-07-11,Durban,Body Shop,Afternoon,215,208,6,15
+PRD-1123,2026-07-11,Durban,Body Shop,Night,227,215,1,10
+PRD-1124,2026-07-11,Durban,Paint Shop,Morning,203,185,6,12
+PRD-1125,2026-07-11,Durban,Paint Shop,Afternoon,199,184,0,10
+PRD-1126,2026-07-11,Durban,Paint Shop,Night,198,187,2,15
+PRD-1127,2026-07-11,Durban,Final Assembly,Morning,204,188,2,27
+PRD-1128,2026-07-11,Durban,Final Assembly,Afternoon,218,203,5,15
+PRD-1129,2026-07-11,Durban,Final Assembly,Night,212,205,0,3
+PRD-1130,2026-07-11,Durban,Stamping,Morning,227,218,2,21
+PRD-1131,2026-07-11,Durban,Stamping,Afternoon,225,211,3,22
+PRD-1132,2026-07-11,Durban,Stamping,Night,232,217,4,16
+PRD-1133,2026-07-12,Durban,Body Shop,Morning,215,205,4,15
+PRD-1134,2026-07-12,Durban,Body Shop,Afternoon,220,211,5,4
+PRD-1135,2026-07-12,Durban,Body Shop,Night,212,196,6,19
+PRD-1136,2026-07-12,Durban,Paint Shop,Morning,198,191,3,14
+PRD-1137,2026-07-12,Durban,Paint Shop,Afternoon,202,183,2,22
+PRD-1138,2026-07-12,Durban,Paint Shop,Night,195,176,2,26
+PRD-1139,2026-07-12,Durban,Final Assembly,Morning,211,196,3,24
+PRD-1140,2026-07-12,Durban,Final Assembly,Afternoon,214,196,2,25
+PRD-1141,2026-07-12,Durban,Final Assembly,Night,206,191,3,9
+PRD-1142,2026-07-12,Durban,Stamping,Morning,234,222,5,24
+PRD-1143,2026-07-12,Durban,Stamping,Afternoon,231,224,4,15
+PRD-1144,2026-07-12,Durban,Stamping,Night,231,219,1,12
+PRD-1145,2026-07-13,Durban,Body Shop,Morning,222,208,3,17
+PRD-1146,2026-07-13,Durban,Body Shop,Afternoon,218,198,3,19
+PRD-1147,2026-07-13,Durban,Body Shop,Night,217,203,0,24
+PRD-1148,2026-07-13,Durban,Paint Shop,Morning,208,189,5,24
+PRD-1149,2026-07-13,Durban,Paint Shop,Afternoon,202,187,6,5
+PRD-1150,2026-07-13,Durban,Paint Shop,Night,199,186,2,24
+PRD-1151,2026-07-13,Durban,Final Assembly,Morning,208,204,0,7
+PRD-1152,2026-07-13,Durban,Final Assembly,Afternoon,209,189,4,18
+PRD-1153,2026-07-13,Durban,Final Assembly,Night,204,187,3,17
+PRD-1154,2026-07-13,Durban,Stamping,Morning,228,212,5,25
+PRD-1155,2026-07-13,Durban,Stamping,Afternoon,237,228,1,15
+PRD-1156,2026-07-13,Durban,Stamping,Night,222,199,6,27
+PRD-1157,2026-07-14,Durban,Body Shop,Morning,215,201,3,27
+PRD-1158,2026-07-14,Durban,Body Shop,Afternoon,217,198,5,28
+PRD-1159,2026-07-14,Durban,Body Shop,Night,226,220,4,4
+PRD-1160,2026-07-14,Durban,Paint Shop,Morning,195,176,1,17
+PRD-1161,2026-07-14,Durban,Paint Shop,Afternoon,206,188,4,24
+PRD-1162,2026-07-14,Durban,Paint Shop,Night,202,182,3,27
+PRD-1163,2026-07-14,Durban,Final Assembly,Morning,218,203,6,16
+PRD-1164,2026-07-14,Durban,Final Assembly,Afternoon,216,205,5,8
+PRD-1165,2026-07-14,Durban,Final Assembly,Night,216,208,6,11
+PRD-1166,2026-07-14,Durban,Stamping,Morning,230,211,6,27
+PRD-1167,2026-07-14,Durban,Stamping,Afternoon,237,223,1,23
+PRD-1168,2026-07-14,Durban,Stamping,Night,236,229,5,5
+PRD-1169,2026-07-15,Durban,Body Shop,Morning,219,209,2,11
+PRD-1170,2026-07-15,Durban,Body Shop,Afternoon,214,207,1,7
+PRD-1171,2026-07-15,Durban,Body Shop,Night,224,203,1,25
+PRD-1172,2026-07-15,Durban,Paint Shop,Morning,198,189,3,5
+PRD-1173,2026-07-15,Durban,Paint Shop,Afternoon,202,187,3,20
+PRD-1174,2026-07-15,Durban,Paint Shop,Night,193,182,6,9
+PRD-1175,2026-07-15,Durban,Final Assembly,Morning,214,192,4,27
+PRD-1176,2026-07-15,Durban,Final Assembly,Afternoon,202,185,4,27
+PRD-1177,2026-07-15,Durban,Final Assembly,Night,217,210,2,3
+PRD-1178,2026-07-15,Durban,Stamping,Morning,234,216,4,16
+PRD-1179,2026-07-15,Durban,Stamping,Afternoon,229,217,1,18
+PRD-1180,2026-07-15,Durban,Stamping,Night,235,221,0,18
+PRD-1181,2026-07-16,Durban,Body Shop,Morning,222,200,5,24
+PRD-1182,2026-07-16,Durban,Body Shop,Afternoon,224,206,1,26
+PRD-1183,2026-07-16,Durban,Body Shop,Night,216,207,4,22
+PRD-1184,2026-07-16,Durban,Paint Shop,Morning,204,185,4,21
+PRD-1185,2026-07-16,Durban,Paint Shop,Afternoon,192,183,5,5
+PRD-1186,2026-07-16,Durban,Paint Shop,Night,196,189,1,17
+PRD-1187,2026-07-16,Durban,Final Assembly,Morning,210,200,2,15
+PRD-1188,2026-07-16,Durban,Final Assembly,Afternoon,216,198,2,13
+PRD-1189,2026-07-16,Durban,Final Assembly,Night,214,203,6,11
+PRD-1190,2026-07-16,Durban,Stamping,Morning,230,227,3,5
+PRD-1191,2026-07-16,Durban,Stamping,Afternoon,223,207,1,14
+PRD-1192,2026-07-16,Durban,Stamping,Night,224,213,5,27
+PRD-1193,2026-07-17,Durban,Body Shop,Morning,212,207,1,10
+PRD-1194,2026-07-17,Durban,Body Shop,Afternoon,216,204,1,10
+PRD-1195,2026-07-17,Durban,Body Shop,Night,215,199,1,21
+PRD-1196,2026-07-17,Durban,Paint Shop,Morning,200,187,2,27
+PRD-1197,2026-07-17,Durban,Paint Shop,Afternoon,195,182,6,27
+PRD-1198,2026-07-17,Durban,Paint Shop,Night,201,197,4,6
+PRD-1199,2026-07-17,Durban,Final Assembly,Morning,211,196,5,21
+PRD-1200,2026-07-17,Durban,Final Assembly,Afternoon,214,203,1,25
+PRD-1201,2026-07-17,Durban,Final Assembly,Night,209,193,5,6
+PRD-1202,2026-07-17,Durban,Stamping,Morning,231,209,4,24
+PRD-1203,2026-07-17,Durban,Stamping,Afternoon,225,202,4,28
+PRD-1204,2026-07-17,Durban,Stamping,Night,223,211,4,14
+PRD-1205,2026-07-18,Durban,Body Shop,Morning,223,210,4,5
+PRD-1206,2026-07-18,Durban,Body Shop,Afternoon,222,213,6,3
+PRD-1207,2026-07-18,Durban,Body Shop,Night,227,218,3,6
+PRD-1208,2026-07-18,Durban,Paint Shop,Morning,206,190,1,25
+PRD-1209,2026-07-18,Durban,Paint Shop,Afternoon,197,176,4,26
+PRD-1210,2026-07-18,Durban,Paint Shop,Night,200,183,6,22
+PRD-1211,2026-07-18,Durban,Final Assembly,Morning,217,199,3,17
+PRD-1212,2026-07-18,Durban,Final Assembly,Afternoon,210,201,6,13
+PRD-1213,2026-07-18,Durban,Final Assembly,Night,204,196,3,11
+PRD-1214,2026-07-18,Durban,Stamping,Morning,236,217,4,21
+PRD-1215,2026-07-18,Durban,Stamping,Afternoon,234,221,0,13
+PRD-1216,2026-07-18,Durban,Stamping,Night,232,225,3,8
+PRD-1217,2026-07-19,Durban,Body Shop,Morning,223,207,2,28
+PRD-1218,2026-07-19,Durban,Body Shop,Afternoon,220,207,5,22
+PRD-1219,2026-07-19,Durban,Body Shop,Night,212,203,1,19
+PRD-1220,2026-07-19,Durban,Paint Shop,Morning,199,181,3,26
+PRD-1221,2026-07-19,Durban,Paint Shop,Afternoon,199,179,3,25
+PRD-1222,2026-07-19,Durban,Paint Shop,Night,207,200,6,17
+PRD-1223,2026-07-19,Durban,Final Assembly,Morning,204,192,1,12
+PRD-1224,2026-07-19,Durban,Final Assembly,Afternoon,209,194,5,12
+PRD-1225,2026-07-19,Durban,Final Assembly,Night,213,197,4,18
+PRD-1226,2026-07-19,Durban,Stamping,Morning,233,218,5,16
+PRD-1227,2026-07-19,Durban,Stamping,Afternoon,232,219,5,14
+PRD-1228,2026-07-19,Durban,Stamping,Night,230,221,2,12
+PRD-1229,2026-07-20,Durban,Body Shop,Morning,215,199,1,26
+PRD-1230,2026-07-20,Durban,Body Shop,Afternoon,215,192,4,26
+PRD-1231,2026-07-20,Durban,Body Shop,Night,217,201,1,9
+PRD-1232,2026-07-20,Durban,Paint Shop,Morning,207,193,5,11
+PRD-1233,2026-07-20,Durban,Paint Shop,Afternoon,208,198,2,22
+PRD-1234,2026-07-20,DBN,Paint Shop,Night,198,187,1,12
+PRD-1235,2026-07-20,Durban,Final Assembly,Morning,207,190,0,12
+PRD-1236,2026-07-20,Durban,Final Assembly,Afternoon,206,201,0,11
+PRD-1237,2026-07-20,Durban,Final Assembly,Night,211,191,1,25
+PRD-1238,2026-07-20,Durban,Stamping,Morning,237,233,6,6
+PRD-1239,2026-07-20,Durban,Stamping,Afternoon,231,216,3,18
+PRD-1240,2026-07-20,Durban,Stamping,Night,232,224,0,8
+PRD-1241,2026-07-21,Durban,Body Shop,Morning,227,222,6,6
+PRD-1242,2026-07-21,Durban,Body Shop,Afternoon,224,207,0,18
+PRD-1243,2026-07-21,Durban,Body Shop,Night,213,197,1,7
+PRD-1244,2026-07-21,Durban,Paint Shop,Morning,201,197,1,5
+PRD-1245,2026-07-21,Durban,Paint Shop,Afternoon,205,184,4,22
+PRD-1246,2026-07-21,Durban,Paint Shop,Night,199,182,4,27
+PRD-1247,2026-07-21,Durban,Final Assembly,Morning,216,200,2,17
+PRD-1248,2026-07-21,Durban,Final Assembly,Afternoon,215,200,4,12
+PRD-1249,2026-07-21,Durban,Final Assembly,Night,203,193,5,22
+PRD-1250,2026-07-21,Durban,Stamping,Morning,228,214,1,23
+PRD-1251,2026-07-21,Durban,Stamping,Afternoon,224,218,1,8
+PRD-1252,2026-07-21,Durban,Stamping,Night,224,214,0,8
+PRD-1253,2026-07-22,Durban,Body Shop,Morning,226,209,4,25
+PRD-1254,2026-07-22,Durban,Body Shop,Afternoon,221,214,1,4
+PRD-1255,2026-07-22,Durban,Body Shop,Night,221,204,6,25
+PRD-1256,2026-07-22,Durban,Paint Shop,Morning,194,180,1,24
+PRD-1257,2026-07-22,Durban,Paint Shop,Afternoon,198,183,0,16
+PRD-1258,2026-07-22,Durban,Paint Shop,Night,199,185,1,23
+PRD-1259,2026-07-22,Durban,Final Assembly,Morning,206,201,0,5
+PRD-1260,2026-07-22,Durban,Final Assembly,Afternoon,211,193,5,22
+PRD-1261,2026-07-22,Durban,Final Assembly,Night,211,197,0,17
+PRD-1262,2026-07-22,Durban,Stamping,Morning,231,217,3,25
+PRD-1263,2026-07-22,Durban,Stamping,Afternoon,238,222,3,20
+PRD-1264,2026-07-22,Durban,Stamping,Night,224,209,0,22
+PRD-1265,2026-07-23,Durban,Body Shop,Morning,222,213,2,22
+PRD-1266,2026-07-23,Durban,Body Shop,Afternoon,214,200,5,10
+PRD-1267,2026-07-23,Durban,Body Shop,Night,212,197,5,27
+PRD-1268,2026-07-23,Durban,Paint Shop,Morning,193,180,6,27
+PRD-1269,2026-07-23,Durban,Paint Shop,Afternoon,207,192,5,19
+PRD-1270,2026-07-23,Durban,Paint Shop,Night,200,190,4,8
+PRD-1271,2026-07-23,Durban,Final Assembly,Morning,217,209,3,5
+PRD-1272,2026-07-23,Durban,Final Assembly,Afternoon,215,199,2,13
+PRD-1273,2026-07-23,Durban,Final Assembly,Night,205,195,2,8
+PRD-1274,2026-07-23,Durban,Stamping,Morning,237,225,5,12
+PRD-1275,2026-07-23,Durban,Stamping,Afternoon,223,211,0,17
+PRD-1276,2026-07-23,Durban,Stamping,Night,230,212,0,13
+PRD-1277,2026-07-24,Durban,Body Shop,Morning,224,216,6,19
+PRD-1278,2026-07-24,Durban,Body Shop,Afternoon,226,216,0,16
+PRD-1279,2026-07-24,Durban,Body Shop,Night,228,210,4,14
+PRD-1280,2026-07-24,Durban,Paint Shop,Morning,207,185,3,23
+PRD-1281,2026-07-24,Durban,Paint Shop,Afternoon,193,180,2,9
+PRD-1282,2026-07-24,Durban,Paint Shop,Night,196,179,3,12
+PRD-1283,2026-07-24,Durban,Final Assembly,Morning,217,203,0,6
+PRD-1284,2026-07-24,Durban,Final Assembly,Afternoon,209,195,1,25
+PRD-1285,2026-07-24,Durban,Final Assembly,Night,202,192,3,20
+PRD-1286,2026-07-24,Durban,Stamping,Morning,229,224,3,6
+PRD-1287,2026-07-24,Durban,Stamping,Afternoon,226,214,5,18
+PRD-1288,2026-07-24,Durban,Stamping,Night,238,222,2,25
+PRD-1289,2026-07-25,Durban,Body Shop,Morning,227,212,1,18
+PRD-1290,2026-07-25,Durban,Body Shop,Afternoon,216,200,1,15
+PRD-1291,2026-07-25,Durban,Body Shop,Night,228,216,1,26
+PRD-1292,2026-07-25,Durban,Paint Shop,Morning,200,183,6,27
+PRD-1293,2026-07-25,Durban,Paint Shop,Afternoon,202,187,4,28
+PRD-1294,2026-07-25,Durban,Paint Shop,Night,192,182,5,12
+PRD-1295,2026-07-25,Durban,Final Assembly,Morning,217,205,3,7
+PRD-1296,2026-07-25,Durban,Final Assembly,Afternoon,217,203,2,14
+PRD-1297,2026-07-25,Durban,Final Assembly,Night,214,204,2,17
+PRD-1298,2026-07-25,Durban,Stamping,Morning,229,217,3,21
+PRD-1299,2026-07-25,Durban,Stamping,Afternoon,235,221,2,4
+PRD-1300,2026-07-25,Durban,Stamping,Night,237,221,6,25
+PRD-1301,2026-07-26,Durban,Body Shop,Morning,224,204,6,24
+PRD-1302,2026-07-26,Durban,Body Shop,Afternoon,216,206,0,18
+PRD-1303,2026-07-26,Durban,Body Shop,Night,228,218,2,21
+PRD-1304,2026-07-26,Durban,Paint Shop,Morning,206,195,4,6
+PRD-1305,2026-07-26,Durban,Paint Shop,Afternoon,192,175,1,26
+PRD-1306,2026-07-26,Durban,Paint Shop,Night,196,181,3,5
+PRD-1307,2026-07-26,Durban,Final Assembly,Morning,210,193,4,13
+PRD-1308,2026-07-26,Durban,Final Assembly,Afternoon,214,199,0,23
+PRD-1309,2026-07-26,Durban,Final Assembly,Night,214,197,5,13
+PRD-1310,2026-07-26,Durban,Stamping,Morning,237,219,0,20
+PRD-1311,2026-07-26,Durban,Stamping,Afternoon,224,209,5,10
+PRD-1312,2026-07-26,Durban,Stamping,Night,231,225,5,10
+PRD-1313,2026-07-27,Durban,Body Shop,Morning,225,211,6,6
+PRD-1314,2026-07-27,Durban,Body Shop,Afternoon,215,197,1,17
+PRD-1315,2026-07-27,Durban,Body Shop,Night,221,213,0,3
+PRD-1316,2026-07-27,Durban,Paint Shop,Morning,193,182,2,12
+PRD-1317,2026-07-27,Durban,Paint Shop,Afternoon,205,193,1,7
+PRD-1318,2026-07-27,Durban,Paint Shop,Night,205,184,5,21
+PRD-1319,2026-07-27,Durban,Final Assembly,Morning,207,202,1,8
+PRD-1320,2026-07-27,Durban,Final Assembly,Afternoon,214,202,5,22
+PRD-1321,2026-07-27,Durban,Final Assembly,Night,217,205,1,21
+PRD-1322,2026-07-27,Durban,Stamping,Morning,236,219,2,23
+PRD-1323,2026-07-27,Durban,Stamping,Afternoon,230,208,0,24
+PRD-1324,2026-07-27,Durban,Stamping,Night,236,222,5,12
+PRD-1325,2026-07-28,Durban,Body Shop,Morning,217,209,3,5
+PRD-1326,2026-07-28,Durban,Body Shop,Afternoon,221,200,3,23
+PRD-1327,2026-07-28,Durban,Body Shop,Night,220,209,6,17
+PRD-1328,2026-07-28,Durban,Paint Shop,Morning,198,184,6,15
+PRD-1329,2026-07-28,Durban,Paint Shop,Afternoon,195,181,3,10
+PRD-1330,2026-07-28,Durban,Paint Shop,Night,203,183,2,21
+PRD-1331,2026-07-28,Durban,Final Assembly,Morning,211,198,6,3
+PRD-1332,2026-07-28,Durban,Final Assembly,Afternoon,214,200,0,11
+PRD-1333,2026-07-28,Durban,Final Assembly,Night,203,187,5,22
+PRD-1334,2026-07-28,Durban,Stamping,Morning,231,217,6,27
+PRD-1335,2026-07-28,Durban,Stamping,Afternoon,233,225,5,10
+PRD-1336,2026-07-28,Durban,Stamping,Night,230,209,6,24
+PRD-1337,2026-07-29,Durban,Body Shop,Morning,216,196,0,23
+PRD-1338,2026-07-29,Durban,Body Shop,Afternoon,213,200,6,12
+PRD-1339,2026-07-29,Durban,Body Shop,Night,213,193,2,21
+PRD-1340,2026-07-29,Durban,Paint Shop,Morning,196,188,2,5
+PRD-1341,2026-07-29,Durban,Paint Shop,Afternoon,205,199,1,8
+PRD-1342,2026-07-29,Durban,Paint Shop,Night,203,191,4,19
+PRD-1343,2026-07-29,Durban,Final Assembly,Morning,207,195,6,11
+PRD-1344,2026-07-29,Durban,Final Assembly,Afternoon,211,195,6,26
+PRD-1345,2026-07-29,Durban,Final Assembly,Night,205,196,0,17
+PRD-1346,2026-07-29,Durban,Stamping,Morning,229,209,5,24
+PRD-1347,2026-07-29,Durban,Stamping,Afternoon,234,218,4,28
+PRD-1348,2026-07-29,Durban,Stamping,Night,224,213,3,28
+PRD-1349,2026-07-30,Durban,Body Shop,Morning,220,204,0,20
+PRD-1350,2026-07-30,Durban,Body Shop,Afternoon,223,203,5,24
+PRD-1351,2026-07-30,Durban,Body Shop,Night,220,201,3,21
+PRD-1352,2026-07-30,Durban,Paint Shop,Morning,203,196,5,6
+PRD-1353,2026-07-30,Durban,Paint Shop,Afternoon,207,196,4,3
+PRD-1354,2026-07-30,Durban,Paint Shop,Night,202,183,1,22
+PRD-1355,2026-07-30,Durban,Final Assembly,Morning,204,187,6,23
+PRD-1356,2026-07-30,Durban,Final Assembly,Afternoon,211,200,3,23
+PRD-1357,2026-07-30,Durban,Final Assembly,Night,206,199,0,4
+PRD-1358,2026-07-30,Durban,Stamping,Morning,237,230,0,6
+PRD-1359,2026-07-30,Durban,Stamping,Afternoon,226,214,3,15
+PRD-1360,2026-07-30,Durban,Stamping,Night,235,215,5,21
+PRD-1361,2026-07-31,Durban,Body Shop,Morning,216,208,5,16
+PRD-1362,2026-07-31,Durban,Body Shop,Afternoon,227,214,3,22
+PRD-1363,2026-07-31,Durban,Body Shop,Night,213,200,2,25
+PRD-1364,2026-07-31,Durban,Paint Shop,Morning,206,194,1,17
+PRD-1365,2026-07-31,Durban,Paint Shop,Afternoon,195,177,2,24
+PRD-1366,2026-07-31,Durban,Paint Shop,Night,203,196,3,4
+PRD-1367,2026-07-31,Durban,Final Assembly,Morning,208,197,6,6
+PRD-1368,2026-07-31,Durban,Final Assembly,Afternoon,204,184,1,24
+PRD-1369,2026-07-31,Durban,Final Assembly,Night,202,194,6,4
+PRD-1370,2026-07-31,Durban,Stamping,Morning,229,216,6,7
+PRD-1371,2026-07-31,Durban,Stamping,Afternoon,228,213,6,5
+PRD-1372,2026-07-31,Durban,Stamping,Night,228,216,1,21
+PRD-1373,2026-08-01,Durban,Body Shop,Morning,222,199,1,27
+PRD-1374,2026-08-01,Durban,Body Shop,Afternoon,212,205,6,11
+PRD-1375,2026-08-01,Durban,Body Shop,Night,216,195,2,20
+PRD-1376,2026-08-01,Durban,Paint Shop,Morning,197,193,5,6
+PRD-1377,2026-08-01,Durban,Paint Shop,Afternoon,196,181,2,3
+PRD-1378,2026-08-01,Durban,Paint Shop,Night,199,190,2,21
+PRD-1379,2026-08-01,Durban,Final Assembly,Morning,207,200,0,11
+PRD-1380,2026-08-01,Durban,Final Assembly,Afternoon,215,196,0,19
+PRD-1381,2026-08-01,Durban,Final Assembly,Night,204,184,3,18
+PRD-1382,2026-08-01,Durban,Stamping,Morning,233,224,4,19
+PRD-1383,2026-08-01,Durban,Stamping,Afternoon,236,219,1,19
+PRD-1384,2026-08-01,Durban,Stamping,Night,223,202,6,26
+PRD-1385,2026-08-02,Durban,Body Shop,Morning,228,212,3,12
+PRD-1386,2026-08-02,Durban,Body Shop,Afternoon,212,203,3,4
+PRD-1387,2026-08-02,Durban,Body Shop,Night,225,208,0,24
+PRD-1388,2026-08-02,Durban,Paint Shop,Morning,206,198,0,5
+PRD-1389,2026-08-02,Durban,Paint Shop,Afternoon,196,189,1,5
+PRD-1390,2026-08-02,Durban,Paint Shop,Night,202,187,4,15
+PRD-1391,2026-08-02,Durban,Final Assembly,Morning,211,195,4,17
+PRD-1392,2026-08-02,Durban,Final Assembly,Afternoon,215,200,6,6
+PRD-1393,2026-08-02,Durban,Final Assembly,Night,205,183,5,23
+PRD-1394,2026-08-02,Durban,Stamping,Morning,228,218,3,16
+PRD-1395,2026-08-02,Durban,Stamping,Afternoon,235,222,6,13
+PRD-1396,2026-08-02,Durban,Stamping,Night,234,226,5,16
+PRD-1397,2026-08-03,Durban,Body Shop,Morning,222,205,2,16
+PRD-1398,2026-08-03,Durban,Body Shop,Afternoon,220,204,1,14
+PRD-1399,2026-08-03,Durban,Body Shop,Night,227,223,0,5
+PRD-1400,2026-08-03,Durban,Paint Shop,Morning,194,176,0,16
+PRD-1401,2026-08-03,Durban,Paint Shop,Afternoon,203,184,1,28
+PRD-1402,2026-08-03,Durban,Paint Shop,Night,193,176,4,21
+PRD-1403,2026-08-03,Durban,Final Assembly,Morning,212,196,0,24
+PRD-1404,2026-08-03,Durban,Final Assembly,Afternoon,213,197,6,24
+PRD-1405,2026-08-03,Durban,Final Assembly,Night,203,193,4,12
+PRD-1406,2026-08-03,Durban,Stamping,Morning,233,221,4,6
+PRD-1407,2026-08-03,Durban,Stamping,Afternoon,228,217,5,7
+PRD-1408,2026-08-03,Durban,Stamping,Night,229,217,2,6
+PRD-1409,2026-08-04,Durban,Body Shop,Morning,223,215,6,6
+PRD-1410,2026-08-04,Durban,Body Shop,Afternoon,219,200,3,28
+PRD-1411,2026-08-04,Durban,Body Shop,Night,212,192,5,22
+PRD-1412,2026-08-04,Durban,Paint Shop,Morning,200,193,1,3
+PRD-1413,2026-08-04,Durban,Paint Shop,Afternoon,201,195,,13
+PRD-1414,2026-08-04,Durban,Paint Shop,Night,197,183,4,7
+PRD-1415,2026-08-04,Durban,Final Assembly,Morning,214,200,1,5
+PRD-1416,2026-08-04,Durban,Final Assembly,Afternoon,202,191,5,5
+PRD-1417,2026-08-04,Durban,Final Assembly,Night,208,194,3,15
+PRD-1418,2026-08-04,Durban,Stamping,Morning,232,224,2,8
+PRD-1419,2026-08-04,Durban,Stamping,Afternoon,232,212,4,27
+PRD-1420,2026-08-04,Durban,Stamping,Night,224,219,1,4
+PRD-1421,2026-08-05,Durban,Body Shop,Morning,213,199,0,24
+PRD-1422,2026-08-05,Durban,Body Shop,Afternoon,226,209,3,24
+PRD-1423,2026-08-05,Durban,Body Shop,Night,226,216,2,16
+PRD-1424,2026-08-05,Durban,Paint Shop,Morning,208,198,2,6
+PRD-1425,2026-08-05,Durban,Paint Shop,Afternoon,195,179,5,12
+PRD-1426,2026-08-05,Durban,Paint Shop,Night,207,195,5,19
+PRD-1427,2026-08-05,Durban,Final Assembly,Morning,203,189,3,10
+PRD-1428,2026-08-05,Durban,Final Assembly,Afternoon,203,196,1,3
+PRD-1429,2026-08-05,Durban,Final Assembly,Night,208,185,1,27
+PRD-1430,2026-08-05,Durban,Stamping,Morning,230,223,2,12
+PRD-1431,2026-08-05,Durban,Stamping,Afternoon,222,208,5,18
+PRD-1432,2026-08-05,Durban,Stamping,Night,227,215,3,7
+PRD-1433,2026-08-06,Durban,Body Shop,Morning,219,201,4,19
+PRD-1434,2026-08-06,Durban,Body Shop,Afternoon,223,209,3,5
+PRD-1435,2026-08-06,Durban,Body Shop,Night,213,199,0,16
+PRD-1436,2026-08-06,Durban,Paint Shop,Morning,194,182,4,13
+PRD-1437,2026-08-06,Durban,Paint Shop,Afternoon,204,188,5,25
+PRD-1438,2026-08-06,Durban,Paint Shop,Night,201,197,3,6
+PRD-1439,2026-08-06,Durban,Final Assembly,Morning,212,199,6,8
+PRD-1440,2026-08-06,Durban,Final Assembly,Afternoon,216,205,2,25
+PRD-1441,2026-08-06,Durban,Final Assembly,Night,215,205,1,6
+PRD-1442,2026-08-06,Durban,Stamping,Morning,234,220,0,19
+PRD-1443,2026-08-06,Durban,Stamping,Afternoon,231,217,2,26
+PRD-1444,2026-08-06,Durban,Stamping,Night,232,220,1,27
+PRD-1445,2026-08-07,Durban,Body Shop,Morning,228,210,0,23
+PRD-1446,2026-08-07,Durban,Body Shop,Afternoon,228,218,6,9
+PRD-1447,2026-08-07,Durban,Body Shop,Night,223,202,6,26
+PRD-1448,2026-08-07,Durban,Paint Shop,Morning,196,189,0,10
+PRD-1449,2026-08-07,Durban,Paint Shop,Afternoon,200,186,1,9
+PRD-1450,2026-08-07,Durban,Paint Shop,Night,196,175,6,27
+PRD-1451,2026-08-07,Durban,Final Assembly,Morning,204,190,6,8
+PRD-1452,2026-08-07,Durban,Final Assembly,Afternoon,217,201,6,17
+PRD-1453,2026-08-07,Durban,Final Assembly,Night,216,196,4,24
+PRD-1454,2026-08-07,Durban,Stamping,Morning,232,220,2,23
+PRD-1455,2026-08-07,Durban,Stamping,Afternoon,236,226,3,5
+PRD-1456,2026-08-07,Durban,Stamping,Night,231,211,2,28
+PRD-1457,2026-08-08,Durban,Body Shop,Morning,213,206,4,14
+PRD-1458,2026-08-08,Durban,Body Shop,Afternoon,221,214,3,17
+PRD-1459,2026-08-08,Durban,Body Shop,Night,213,203,6,14
+PRD-1460,2026-08-08,Durban,Paint Shop,Morning,194,183,6,23
+PRD-1461,2026-08-08,Durban,Paint Shop,Afternoon,208,192,3,15
+PRD-1462,2026-08-08,Durban,Paint Shop,Night,193,177,6,17
+PRD-1463,2026-08-08,Durban,Final Assembly,Morning,208,195,4,13
+PRD-1464,2026-08-08,Durban,Final Assembly,Afternoon,218,207,0,7
+PRD-1465,2026-08-08,Durban,Final Assembly,Night,205,189,6,28
+PRD-1466,2026-08-08,Durban,Stamping,Morning,224,214,5,19
+PRD-1467,2026-08-08,Durban,Stamping,Afternoon,223,211,5,10
+PRD-1468,2026-08-08,Durban,Stamping,Night,236,219,4,19
+PRD-1469,2026-08-09,Durban,Body Shop,Morning,217,207,2,14
+PRD-1470,2026-08-09,Durban,Body Shop,Afternoon,224,212,6,16
+PRD-1471,2026-08-09,Durban,Body Shop,Night,213,192,5,28
+PRD-1472,2026-08-09,Durban,Paint Shop,Morning,202,198,2,5
+PRD-1473,2026-08-09,Durban,Paint Shop,Afternoon,204,187,2,12
+PRD-1474,2026-08-09,Durban,Paint Shop,Night,196,181,0,13
+PRD-1475,2026-08-09,Durban,Final Assembly,Morning,206,190,2,14
+PRD-1476,2026-08-09,Durban,Final Assembly,Afternoon,214,199,4,7
+PRD-1477,2026-08-09,Durban,Final Assembly,Night,204,192,4,12
+PRD-1478,2026-08-09,Durban,Stamping,Morning,232,217,5,7
+PRD-1479,2026-08-09,Durban,Stamping,Afternoon,238,225,5,5
+PRD-1480,2026-08-09,Durban,Stamping,Night,235,227,2,19
+PRD-1481,2026-08-10,Durban,Body Shop,Morning,223,214,1,12
+PRD-1482,2026-08-10,Durban,Body Shop,Afternoon,222,208,3,27
+PRD-1483,2026-08-10,Durban,Body Shop,Night,219,214,1,7
+PRD-1484,2026-08-10,Durban,Paint Shop,Morning,201,182,0,28
+PRD-1485,2026-08-10,Durban,Paint Shop,Afternoon,208,200,5,4
+PRD-1486,2026-08-10,Durban,Paint Shop,Night,196,185,3,22
+PRD-1487,2026-08-10,Durban,Final Assembly,Morning,207,192,6,8
+PRD-1488,2026-08-10,Durban,Final Assembly,Afternoon,207,196,3,26
+PRD-1489,2026-08-10,Durban,Final Assembly,Night,215,198,5,14
+PRD-1490,2026-08-10,Durban,Stamping,Morning,229,218,4,17
+PRD-1491,2026-08-10,Durban,Stamping,Afternoon,236,228,4,10
+PRD-1492,2026-08-10,Durban,Stamping,Night,231,213,6,28
+PRD-1493,2026-08-11,Durban,Body Shop,Morning,218,203,5,14
+PRD-1494,2026-08-11,Durban,Body Shop,Afternoon,226,215,6,17
+PRD-1495,2026-08-11,Durban,Body Shop,Night,224,210,4,19
+PRD-1496,2026-08-11,Durban,Paint Shop,Morning,197,183,6,9
+PRD-1497,2026-08-11,Durban,Paint Shop,Afternoon,196,181,0,11
+PRD-1498,2026-08-11,Durban,Paint Shop,Night,207,200,4,14
+PRD-1499,2026-08-11,Durban,Final Assembly,Morning,218,213,2,6
+PRD-1500,2026-08-11,Durban,Final Assembly,Afternoon,207,194,3,11
+PRD-1501,2026-08-11,Durban,Final Assembly,Night,206,196,0,16
+PRD-1502,2026-08-11,Durban,Stamping,Morning,236,224,0,14
+PRD-1503,2026-08-11,Durban,Stamping,Afternoon,223,211,4,15
+PRD-1504,2026-08-11,Durban,Stamping,Night,229,217,0,15
+PRD-1505,2026-08-12,Durban,Body Shop,Morning,219,215,2,3
+PRD-1506,2026-08-12,Durban,Body Shop,Afternoon,222,209,1,28
+PRD-1507,2026-08-12,Durban,Body Shop,Night,213,200,6,12
+PRD-1508,2026-08-12,Durban,Paint Shop,Morning,196,178,5,27
+PRD-1509,2026-08-12,Durban,Paint Shop,Afternoon,206,196,0,22
+PRD-1510,2026-08-12,Durban,Paint Shop,Night,192,185,1,11
+PRD-1511,2026-08-12,Durban,Final Assembly,Morning,218,199,0,16
+PRD-1512,2026-08-12,Durban,Final Assembly,Afternoon,211,205,2,10
+PRD-1513,2026-08-12,Durban,Final Assembly,Night,203,188,3,10
+PRD-1514,2026-08-12,Durban,Stamping,Morning,236,226,0,5
+PRD-1515,2026-08-12,Durban,Stamping,Afternoon,222,203,4,23
+PRD-1516,2026-08-12,Durban,Stamping,Night,229,215,1,25
+PRD-1517,2026-08-13,Durban,Body Shop,Morning,225,217,4,3
+PRD-1518,2026-08-13,Durban,Body Shop,Afternoon,219,208,3,21
+PRD-1519,2026-08-13,Durban,Body Shop,Night,214,205,2,19
+PRD-1520,2026-08-13,Durban,paint shop,Morning,208,187,4,20
+PRD-1521,2026-08-13,Durban,Paint Shop,Afternoon,208,193,0,20
+PRD-1522,2026-08-13,Durban,Paint Shop,Night,207,198,5,4
+PRD-1523,2026-08-13,Durban,Final Assembly,Morning,213,208,5,11
+PRD-1524,2026-08-13,Durban,Final Assembly,Afternoon,213,197,0,28
+PRD-1525,2026-08-13,Durban,Final Assembly,Night,209,188,5,26
+PRD-1526,2026-08-13,Durban,Stamping,Morning,225,203,4,27
+PRD-1527,2026-08-13,Durban,Stamping,Afternoon,232,223,0,7
+PRD-1528,2026-08-13,Durban,Stamping,Night,232,210,1,23
+PRD-1529,2026-08-14,Durban,Body Shop,Morning,226,206,3,25
+PRD-1530,2026-08-14,Durban,Body Shop,Afternoon,217,205,1,28
+PRD-1531,2026-08-14,Durban,Body Shop,Night,226,220,2,4
+PRD-1532,2026-08-14,Durban,Paint Shop,Morning,193,182,1,28
+PRD-1533,2026-08-14,Durban,Paint Shop,Afternoon,202,190,4,12
+PRD-1534,2026-08-14,Durban,Paint Shop,Night,207,190,0,11
+PRD-1535,2026-08-14,Durban,Final Assembly,Morning,208,190,2,12
+PRD-1536,2026-08-14,Durban,Final Assembly,Afternoon,203,189,2,23
+PRD-1537,2026-08-14,Durban,Final Assembly,Night,205,188,2,28
+PRD-1538,2026-08-14,Durban,Stamping,Morning,234,217,3,26
+PRD-1539,2026-08-14,Durban,Stamping,Afternoon,232,217,3,8
+PRD-1540,2026-08-14,Durban,Stamping,Night,237,223,6,14
+PRD-1541,2026-08-15,Durban,Body Shop,Morning,220,198,0,28
+PRD-1542,2026-08-15,Durban,Body Shop,Afternoon,225,213,3,5
+PRD-1543,2026-08-15,Durban,Body Shop,Night,217,203,2,20
+PRD-1544,2026-08-15,Durban,Paint Shop,Morning,195,182,2,5
+PRD-1545,2026-08-15,Durban,Paint Shop,Afternoon,201,186,3,12
+PRD-1546,2026-08-15,Durban,Paint Shop,Night,205,194,5,8
+PRD-1547,2026-08-15,Durban,Final Assembly,Morning,213,195,0,17
+PRD-1548,2026-08-15,Durban,Final Assembly,Afternoon,213,200,3,22
+PRD-1549,2026-08-15,Durban,Final Assembly,Night,203,190,5,5
+PRD-1550,2026-08-15,Durban,Stamping,Morning,234,216,4,14
+PRD-1551,2026-08-15,Durban,Stamping,Afternoon,227,215,1,3
+PRD-1552,2026-08-15,Durban,Stamping,Night,236,232,1,4
+PRD-1553,2026-08-16,Durban,Body Shop,Morning,219,203,5,27
+PRD-1554,2026-08-16,Durban,Body Shop,Afternoon,223,216,4,15
+PRD-1555,2026-08-16,Durban,Body Shop,Night,216,201,3,24
+PRD-1556,2026-08-16,Durban,Paint Shop,Morning,203,195,6,17
+PRD-1557,2026-08-16,Durban,Paint Shop,Afternoon,196,182,2,19
+PRD-1558,2026-08-16,Durban,Paint Shop,Night,202,189,2,23
+PRD-1559,2026-08-16,Durban,Final Assembly,Morning,205,200,5,3
+PRD-1560,2026-08-16,Durban,Final Assembly,Afternoon,217,201,3,19
+PRD-1561,2026-08-16,Durban,Final Assembly,Night,205,196,6,11
+PRD-1562,2026-08-16,Durban,Stamping,Morning,236,227,4,9
+PRD-1563,2026-08-16,Durban,Stamping,Afternoon,237,230,0,9
+PRD-1564,2026-08-16,Durban,Stamping,Night,224,206,1,17
+PRD-1565,2026-08-17,Durban,Body Shop,Morning,226,213,6,5
+PRD-1566,2026-08-17,Durban,Body Shop,Afternoon,222,201,2,24
+PRD-1567,2026-08-17,Durban,Body Shop,Night,214,201,4,20
+PRD-1568,2026-08-17,Durban,Paint Shop,Morning,201,186,5,8
+PRD-1569,2026-08-17,Durban,Paint Shop,Afternoon,197,178,2,28
+PRD-1570,2026-08-17,Durban,Paint Shop,Night,199,183,1,6
+PRD-1571,2026-08-17,Durban,Final Assembly,Morning,206,194,6,10
+PRD-1572,2026-08-17,Durban,Final Assembly,Afternoon,202,187,4,14
+PRD-1573,2026-08-17,Durban,Final Assembly,Night,213,198,6,17
+PRD-1574,2026-08-17,Durban,Stamping,Morning,226,216,0,22
+PRD-1575,2026-08-17,Durban,Stamping,Afternoon,231,213,5,15
+PRD-1576,2026-08-17,Durban,Stamping,Night,237,217,3,19
+PRD-1577,2026-08-18,Durban,Body Shop,Morning,225,214,0,21
+PRD-1578,2026-08-18,Durban,Body Shop,Afternoon,222,205,0,23
+PRD-1579,2026-08-18,Durban,Body Shop,Night,226,211,4,24
+PRD-1580,2026-08-18,Durban,Paint Shop,Morning,196,175,4,27
+PRD-1581,2026-08-18,Durban,Paint Shop,Afternoon,197,180,1,27
+PRD-1582,2026-08-18,Durban,Paint Shop,Night,208,204,6,4
+PRD-1583,2026-08-18,Durban,Final Assembly,Morning,218,212,2,7
+PRD-1584,2026-08-18,Durban,Final Assembly,Afternoon,207,198,5,13
+PRD-1585,2026-08-18,Durban,Final Assembly,Night,213,204,2,19
+PRD-1586,2026-08-18,Durban,Stamping,Morning,230,217,5,9
+PRD-1587,2026-08-18,Durban,Stamping,Afternoon,230,222,5,7
+PRD-1588,2026-08-18,Durban,Stamping,Night,224,214,5,19
+PRD-1589,2026-08-19,Durban,Body Shop,Morning,216,203,5,8
+PRD-1590,2026-08-19,Durban,Body Shop,Afternoon,222,213,0,21
+PRD-1591,2026-08-19,Durban,Body Shop,Night,214,199,5,4
+PRD-1592,2026-08-19,Durban,Paint Shop,Morning,200,178,1,23
+PRD-1593,2026-08-19,Durban,Paint Shop,Afternoon,205,196,5,22
+PRD-1594,2026-08-19,Durban,Paint Shop,Night,207,193,4,23
+PRD-1595,2026-08-19,Durban,Final Assembly,Morning,211,191,1,18
+PRD-1596,2026-08-19,Durban,Final Assembly,Afternoon,214,207,3,12
+PRD-1597,2026-08-19,Durban,Final Assembly,Night,203,193,3,8
+PRD-1598,2026-08-19,Durban,Stamping,Morning,237,225,1,17
+PRD-1599,2026-08-19,Durban,Stamping,Afternoon,226,209,6,13
+PRD-1600,2026-08-19,Durban,Stamping,Night,232,216,6,26
+PRD-1601,2026-08-20,Durban,Body Shop,Morning,224,215,6,7
+PRD-1602,2026-08-20,Durban,Body Shop,Afternoon,228,214,0,20
+PRD-1603,2026-08-20,Durban,Body Shop,Night,219,208,0,17
+PRD-1604,2026-08-20,Durban,Paint Shop,Morning,206,200,1,10
+PRD-1605,2026-08-20,Durban,Paint Shop,Afternoon,193,178,3,12
+PRD-1606,2026-08-20,Durban,Paint Shop,Night,205,198,6,10
+PRD-1607,2026-08-20,Durban,Final Assembly,Morning,212,198,5,21
+PRD-1608,2026-08-20,Durban,Final Assembly,Afternoon,208,190,1,27
+PRD-1609,2026-08-20,Durban,Final Assembly,Night,218,207,3,17
+PRD-1610,2026-08-20,Durban,Stamping,Morning,237,228,0,3
+PRD-1611,2026-08-20,Durban,Stamping,Afternoon,238,228,1,17
+PRD-1612,2026-08-20,Durban,Stamping,Night,233,226,0,4
+PRD-1613,2026-08-21,Durban,Body Shop,Morning,227,208,6,22
+PRD-1614,2026-08-21,Durban,Body Shop,Afternoon,227,221,4,12
+PRD-1615,2026-08-21,Durban,Body Shop,Night,215,204,1,16
+PRD-1616,2026-08-21,Durban,Paint Shop,Morning,203,187,3,27
+PRD-1617,2026-08-21,Durban,Paint Shop,Afternoon,193,177,0,15
+PRD-1618,2026-08-21,Durban,Paint Shop,Night,198,188,4,14
+PRD-1619,2026-08-21,Durban,Final Assembly,Morning,204,190,4,15
+PRD-1620,2026-08-21,Durban,Final Assembly,Afternoon,210,192,5,22
+PRD-1621,2026-08-21,Durban,Final Assembly,afternoon,205,195,0,7
+PRD-1622,2026-08-21,Durban,Stamping,Morning,233,214,2,28
+PRD-1623,2026-08-21,Durban,Stamping,Afternoon,233,219,1,27
+PRD-1624,2026-08-21,Durban,Stamping,Night,238,231,4,15
+PRD-1625,2026-08-22,Durban,Body Shop,Morning,213,199,1,4
+PRD-1626,2026-08-22,Durban,Body Shop,Afternoon,222,203,3,28
+PRD-1627,2026-08-22,Durban,Body Shop,Night,226,214,4,7
+PRD-1628,2026-08-22,Durban,Paint Shop,Morning,196,185,4,13
+PRD-1629,2026-08-22,Durban,Paint Shop,Afternoon,197,179,4,15
+PRD-1630,2026-08-22,Durban,Paint Shop,Night,201,184,2,21
+PRD-1631,2026-08-22,Durban,Final Assembly,Morning,218,198,3,20
+PRD-1632,2026-08-22,Durban,Final Assembly,Afternoon,211,203,6,18
+PRD-1633,2026-08-22,Durban,Final Assembly,Night,213,206,5,13
+PRD-1634,2026-08-22,Durban,Stamping,Morning,235,214,2,21
+PRD-1635,2026-08-22,Durban,Stamping,Afternoon,222,209,3,22
+PRD-1636,2026-08-22,Durban,Stamping,Night,229,209,0,26
+PRD-1637,2026-08-23,Durban,Body Shop,Morning,227,213,4,8
+PRD-1638,2026-08-23,Durban,Body Shop,Afternoon,224,210,6,7
+PRD-1639,2026-08-23,Durban,Body Shop,Night,219,205,4,4
+PRD-1640,2026-08-23,Durban,Paint Shop,Morning,195,183,0,9
+PRD-1641,2026-08-23,Durban,Paint Shop,Afternoon,202,189,1,16
+PRD-1642,2026-08-23,Durban,Paint Shop,Night,198,179,4,16
+PRD-1643,2026-08-23,Durban,Final Assembly,Morning,217,206,5,26
+PRD-1644,2026-08-23,Durban,Final Assembly,Afternoon,206,190,1,19
+PRD-1645,2026-08-23,Durban,Final Assembly,Night,212,194,3,24
+PRD-1646,2026-08-23,Durban,Stamping,Morning,234,221,1,13
+PRD-1647,2026-08-23,Durban,Stamping,Afternoon,232,213,2,20
+PRD-1648,2026-08-23,Durban,Stamping,Night,230,218,3,22
+PRD-1649,2026-08-24,Durban,Body Shop,Morning,219,210,4,11
+PRD-1650,2026-08-24,Durban,Body Shop,Afternoon,219,209,6,12
+PRD-1651,2026-08-24,Durban,Body Shop,Night,218,201,5,25
+PRD-1652,2026-08-24,Durban,Paint Shop,Morning,202,186,2,18
+PRD-1653,2026-08-24,Durban,Paint Shop,Afternoon,200,185,0,12
+PRD-1654,2026-08-24,Durban,Paint Shop,Night,204,192,6,15
+PRD-1655,2026-08-24,Durban,Final Assembly,Morning,206,196,0,12
+PRD-1656,2026-08-24,Durban,Final Assembly,Afternoon,204,188,3,14
+PRD-1657,2026-08-24,Durban,Final Assembly,Night,210,196,3,26
+PRD-1658,2026-08-24,Durban,Stamping,Morning,228,211,2,20
+PRD-1659,2026-08-24,Durban,Stamping,Afternoon,230,217,0,7
+PRD-1660,2026-08-24,Durban,Stamping,Night,229,214,0,10
+PRD-1661,2026-08-25,Durban,Body Shop,Morning,228,220,5,10
+PRD-1662,2026-08-25,Durban,Body Shop,Afternoon,213,204,3,6
+PRD-1663,2026-08-25,Durban,Body Shop,Night,227,211,5,6
+PRD-1664,2026-08-25,Durban,Paint Shop,Morning,196,191,4,3
+PRD-1665,2026-08-25,Durban,Paint Shop,Afternoon,205,188,3,23
+PRD-1666,2026-08-25,Durban,Paint Shop,Night,198,182,2,27
+PRD-1667,2026-08-25,Durban,Final Assembly,Morning,211,189,0,23
+PRD-1668,2026-08-25,Durban,Final Assembly,Afternoon,204,191,4,23
+PRD-1669,2026-08-25,Durban,Final Assembly,Night,203,197,3,8
+PRD-1670,2026-08-25,Durban,Stamping,Morning,223,209,6,15
+PRD-1671,2026-08-25,Durban,Stamping,Afternoon,227,212,6,26
+PRD-1672,2026-08-25,Durban,Stamping,Night,223,211,2,3
+PRD-1673,2026-08-26,Durban,Body Shop,Morning,215,202,2,13
+PRD-1674,2026-08-26,Durban,Body Shop,Afternoon,228,212,1,18
+PRD-1675,2026-08-26,Durban,Body Shop,Night,226,209,1,11
+PRD-1676,2026-08-26,Durban,Paint Shop,Morning,195,178,1,13
+PRD-1677,2026-08-26,Durban,Paint Shop,Afternoon,206,185,2,23
+PRD-1678,2026-08-26,Durban,Paint Shop,Night,197,189,5,3
+PRD-1679,2026-08-26,Durban,Final Assembly,Morning,211,190,5,21
+PRD-1680,2026-08-26,Durban,Final Assembly,Afternoon,208,194,4,8
+PRD-1681,2026-08-26,Durban,Final Assembly,Night,214,202,4,16
+PRD-1682,2026-08-26,Durban,Stamping,Morning,224,216,5,15
+PRD-1683,2026-08-26,Durban,Stamping,Afternoon,227,218,3,7
+PRD-1684,2026-08-26,Durban,Stamping,Night,229,220,2,3
+PRD-1685,2026-08-27,Durban,Body Shop,Morning,219,208,6,17
+PRD-1686,2026-08-27,Durban,Body Shop,Afternoon,222,205,4,12
+PRD-1687,2026-08-27,Durban,Body Shop,Night,212,202,5,11
+PRD-1688,2026-08-27,Durban,Paint Shop,Morning,199,195,5,4
+PRD-1689,2026-08-27,Durban,Paint Shop,Afternoon,206,194,1,12
+PRD-1690,2026-08-27,Durban,Paint Shop,Night,208,194,6,25
+PRD-1691,2026-08-27,Durban,Final Assembly,Morning,205,190,2,23
+PRD-1692,2026-08-27,Durban,Final Assembly,Afternoon,209,197,1,10
+PRD-1693,2026-08-27,Durban,Final Assembly,Night,206,190,5,17
+PRD-1694,2026-08-27,Durban,Stamping,Morning,233,218,5,16
+PRD-1695,2026-08-27,Durban,Stamping,Afternoon,237,214,4,27
+PRD-1696,2026-08-27,Durban,Stamping,Night,228,207,1,27
+PRD-1697,2026-08-28,Durban,Body Shop,Morning,214,198,3,19
+PRD-1698,2026-08-28,Durban,Body Shop,Afternoon,223,219,4,5
+PRD-1699,2026-08-28,Durban,Body Shop,Night,213,201,4,20
+PRD-1700,2026-08-28,Durban,Paint Shop,Morning,196,184,2,8
+PRD-1701,2026-08-28,Durban,Paint Shop,Afternoon,206,199,5,6
+PRD-1702,2026-08-28,Durban Plant,Paint Shop,Night,207,197,4,5
+PRD-1703,2026-08-28,Durban,Final Assembly,Morning,203,188,1,17
+PRD-1704,2026-08-28,Durban,Final Assembly,Afternoon,215,208,4,17
+PRD-1705,2026-08-28,Durban,Final Assembly,Night,216,202,6,24
+PRD-1706,2026-08-28,Durban,Stamping,Morning,222,215,2,15
+PRD-1707,2026-08-28,Durban,Stamping,Afternoon,228,219,0,21
+PRD-1708,2026-08-28,Durban,Stamping,Night,235,228,5,14
+PRD-1709,2026-08-29,Durban,Body Shop,Morning,213,210,3,5
+PRD-1710,2026-08-29,Durban,Body Shop,Afternoon,221,202,1,16
+PRD-1711,2026-08-29,Durban,Body Shop,Night,216,194,5,27
+PRD-1712,2026-08-29,Durban,Paint Shop,Morning,205,192,3,14
+PRD-1713,2026-08-29,Durban,Paint Shop,Afternoon,204,187,0,15
+PRD-1714,2026-08-29,Durban,Paint Shop,Night,196,181,6,23
+PRD-1715,2026-08-29,Durban,Final Assembly,Morning,205,195,4,8
+PRD-1716,2026-08-29,Durban,Final Assembly,Afternoon,218,211,5,7
+PRD-1717,2026-08-29,Durban,Final Assembly,Night,202,187,0,27
+PRD-1718,2026-08-29,Durban,Stamping,Morning,236,218,5,24
+PRD-1719,2026-08-29,Durban,Stamping,Afternoon,235,223,3,20
+PRD-1720,2026-08-29,Durban,Stamping,Night,229,220,2,17
+PRD-1721,2026-08-30,Durban,Body Shop,Morning,220,203,5,9
+PRD-1722,2026-08-30,Durban,Body Shop,Afternoon,215,202,6,4
+PRD-1723,2026-08-30,Durban,Body Shop,Night,225,216,6,22
+PRD-1724,2026-08-30,Durban,Paint Shop,Morning,199,193,0,9
+PRD-1725,2026-08-30,Durban,Paint Shop,Afternoon,193,176,4,17
+PRD-1726,2026-08-30,Durban,Paint Shop,Night,193,188,5,10
+PRD-1727,2026-08-30,Durban,Final Assembly,Morning,214,199,1,17
+PRD-1728,2026-08-30,Durban,Final Assembly,Afternoon,208,185,6,27
+PRD-1729,2026-08-30,Durban,Final Assembly,Night,203,195,4,7
+PRD-1730,2026-08-30,Durban,Stamping,Morning,229,213,4,26
+PRD-1731,2026-08-30,Durban,Stamping,Afternoon,232,225,2,10
+PRD-1732,2026-08-30,Durban,Stamping,Night,238,229,3,10
+PRD-1733,2026-08-31,Durban,Body Shop,Morning,220,208,4,4
+PRD-1734,2026-08-31,Durban,Body Shop,Afternoon,217,201,5,23
+PRD-1735,2026-08-31,Durban,Body Shop,Night,227,214,2,4
+PRD-1736,2026-08-31,Durban,Paint Shop,Morning,204,188,4,28
+PRD-1737,2026-08-31,Durban,Paint Shop,Afternoon,205,194,1,16
+PRD-1738,2026-08-31,Durban,Paint Shop,Night,204,192,6,8
+PRD-1739,2026-08-31,Durban,Final Assembly,Morning,217,209,6,10
+PRD-1740,2026-08-31,Durban,Final Assembly,Afternoon,211,189,1,25
+PRD-1741,2026-08-31,Durban,Final Assembly,Night,216,207,4,4
+PRD-1742,2026-08-31,Durban,Stamping,Morning,235,224,4,20
+PRD-1743,2026-08-31,Durban,Stamping,Afternoon,234,226,2,10
+PRD-1744,2026-08-31,Durban,Stamping,Night,232,215,0,23
+PRD-1745,2026-09-01,Durban,Body Shop,Morning,223,197,7,70
+PRD-1746,2026-09-01,Durban,Body Shop,Afternoon,220,197,13,62
+PRD-1747,2026-09-01,Durban,Body Shop,Night,214,176,13,72
+PRD-1748,2026-09-01,Durban,Paint Shop,Morning,198,185,1,18
+PRD-1749,2026-09-01,Durban,Paint Shop,Afternoon,201,195,1,3
+PRD-1750,2026-09-01,Durban,Paint Shop,Night,195,177,6,26
+PRD-1751,2026-09-01,Durban,Final Assembly,Morning,209,188,4,25
+PRD-1752,2026-09-01,Durban,Final Assembly,Afternoon,208,193,1,15
+PRD-1753,2026-09-01,Durban,Final Assembly,Night,212,195,2,27
+PRD-1754,2026-09-01,Durban,Stamping,Morning,236,222,5,20
+PRD-1755,2026-09-01,Durban,Stamping,Afternoon,231,218,2,11
+PRD-1756,2026-09-01,Durban,Stamping,Night,237,218,0,17
+PRD-1757,2026-09-02,Durban,Body Shop,Morning,227,205,7,44
+PRD-1758,2026-09-02,Durban,Body Shop,Afternoon,222,188,7,60
+PRD-1759,2026-09-02,Durban,Body Shop,Night,216,185,13,59
+PRD-1760,2026-09-02,Durban,Paint Shop,Morning,205,196,1,12
+PRD-1761,2026-09-02,Durban,Paint Shop,Afternoon,202,188,3,10
+PRD-1762,2026-09-02,Durban,Paint Shop,Night,199,181,4,18
+PRD-1763,2026-09-02,Durban,Final Assembly,Morning,212,200,6,11
+PRD-1764,2026-09-02,Durban,Final Assembly,Afternoon,217,199,1,17
+PRD-1765,2026-09-02,Durban,Final Assembly,Night,213,198,1,8
+PRD-1766,2026-09-02,Durban,Stamping,Morning,237,223,4,8
+PRD-1767,2026-09-02,Durban,Stamping,Afternoon,223,214,0,19
+PRD-1768,2026-09-02,Durban,Stamping,Night,223,206,0,27
+PRD-1769,2026-09-03,Durban,Body Shop,Morning,216,205,6,28
+PRD-1770,2026-09-03,Durban,Body Shop,Afternoon,218,191,4,47
+PRD-1771,2026-09-03,Durban,Body Shop,Night,227,209,4,25
+PRD-1772,2026-09-03,Durban,Paint Shop,Morning,205,194,0,3
+PRD-1773,2026-09-03,Durban,Paint Shop,Afternoon,200,191,2,20
+PRD-1774,2026-09-03,Durban,Paint Shop,Night,208,192,5,25
+PRD-1775,2026-09-03,Durban,Final Assembly,Morning,207,195,0,6
+PRD-1776,2026-09-03,Durban,Final Assembly,Afternoon,206,192,1,10
+PRD-1777,2026-09-03,Durban,Final Assembly,Night,218,208,6,11
+PRD-1778,2026-09-03,Durban,Stamping,Morning,230,218,3,28
+PRD-1779,2026-09-03,Durban,Stamping,Afternoon,233,217,3,15
+PRD-1780,2026-09-03,Durban,Stamping,Night,229,215,1,25
+PRD-1781,2026-09-04,Durban,Body Shop,Morning,214,189,4,65
+PRD-1782,2026-09-04,Durban,Body Shop,Afternoon,224,202,11,59
+PRD-1783,2026-09-04,Durban,Body Shop,Night,212,194,11,29
+PRD-1784,2026-09-04,Durban,Paint Shop,Morning,202,192,6,21
+PRD-1785,2026-09-04,Durban,Paint Shop,Afternoon,208,202,1,4
+PRD-1786,2026-09-04,Durban,Paint Shop,Night,207,201,0,11
+PRD-1787,2026-09-04,Durban,Final Assembly,Morning,210,191,4,20
+PRD-1788,2026-09-04,Durban,Final Assembly,Afternoon,203,194,6,8
+PRD-1789,2026-09-04,Durban,Final Assembly,Night,202,195,4,9
+PRD-1790,2026-09-04,Durban,Stamping,Morning,234,229,2,5
+PRD-1791,2026-09-04,Durban,Stamping,Afternoon,229,214,6,21
+PRD-1792,2026-09-04,Durban,Stamping,Night,232,214,6,15
+PRD-1793,2026-09-05,Durban,Body Shop,Morning,216,182,5,70
+PRD-1794,2026-09-05,Durban,Body Shop,Afternoon,223,203,7,51
+PRD-1795,2026-09-05,Durban,Body Shop,Night,222,192,13,63
+PRD-1796,2026-09-05,Durban,Paint Shop,Morning,202,195,5,3
+PRD-1797,2026-09-05,Durban,Paint Shop,Afternoon,206,193,1,18
+PRD-1798,2026-09-05,Durban,Paint Shop,Night,204,187,1,16
+PRD-1799,2026-09-05,Durban,Final Assembly,Morning,214,202,6,5
+PRD-1800,2026-09-05,Durban,Final Assembly,Afternoon,211,189,1,28
+PRD-1801,2026-09-05,Durban,Final Assembly,Night,204,199,2,5
+PRD-1802,2026-09-05,Durban,Stamping,Morning,234,214,6,25
+PRD-1803,2026-09-05,Durban,Stamping,Afternoon,226,210,3,26
+PRD-1804,2026-09-05,Durban,Stamping,Night,233,229,0,6
+PRD-1805,2026-09-06,Durban,Body Shop,Morning,221,193,8,72
+PRD-1806,2026-09-06,Durban,Body Shop,Afternoon,216,189,11,51
+PRD-1807,2026-09-06,Durban,Body Shop,Night,228,213,5,25
+PRD-1808,2026-09-06,Durban,Paint Shop,Morning,194,173,4,22
+PRD-1809,2026-09-06,Durban,Paint Shop,Afternoon,202,191,0,15
+PRD-1810,2026-09-06,Durban,Paint Shop,Night,205,197,6,15
+PRD-1811,2026-09-06,Durban,Final Assembly,Morning,209,198,4,21
+PRD-1812,09/06/2026,Durban,Final Assembly,Afternoon,214,206,1,8
+PRD-1813,2026-09-06,Durban,Final Assembly,Night,211,204,3,11
+PRD-1814,2026-09-06,Durban,Stamping,Morning,224,216,3,8
+PRD-1815,2026-09-06,Durban,Stamping,Afternoon,235,217,3,12
+PRD-1816,2026-09-06,Durban,Stamping,Night,224,215,2,14
+PRD-1817,2026-09-07,Durban,Body Shop,Morning,227,212,11,36
+PRD-1818,2026-09-07,Durban,Body Shop,Afternoon,216,188,9,49
+PRD-1819,2026-09-07,Durban,Body Shop,Night,224,202,11,45
+PRD-1820,2026-09-07,Durban,Paint Shop,Morning,205,193,4,23
+PRD-1821,2026-09-07,Durban,Paint Shop,Afternoon,201,184,4,13
+PRD-1822,2026-09-07,Durban,Paint Shop,Night,198,188,2,18
+PRD-1823,2026-09-07,Durban,Final Assembly,Morning,214,197,2,13
+PRD-1824,2026-09-07,Durban,Final Assembly,Afternoon,217,205,6,21
+PRD-1825,2026-09-07,Durban,Final Assembly,Night,212,193,2,15
+PRD-1826,2026-09-07,Durban,Stamping,Morning,234,219,0,14
+PRD-1827,2026-09-07,Durban,Stamping,Afternoon,228,217,4,21
+PRD-1828,2026-09-07,Durban,Stamping,Night,222,200,3,26
+PRD-1829,2026-09-08,Durban,Body Shop,Morning,218,190,5,42
+PRD-1830,2026-09-08,Durban,Body Shop,Afternoon,225,209,8,32
+PRD-1831,2026-09-08,Durban,Body Shop,Night,220,182,10,69
+PRD-1832,2026-09-08,Durban,Paint Shop,Morning,204,192,3,5
+PRD-1833,2026-09-08,Durban,Paint Shop,Afternoon,207,190,3,21
+PRD-1834,2026-09-08,Durban,Paint Shop,Night,208,190,3,25
+PRD-1835,2026-09-08,Durban,Final Assembly,Morning,203,181,2,28
+PRD-1836,2026-09-08,Durban,Final Assembly,Afternoon,204,197,6,6
+PRD-1837,2026-09-08,Durban,Final Assembly,Night,213,200,5,8
+PRD-1838,2026-09-08,Durban,Stamping,Morning,223,204,5,21
+PRD-1839,2026-09-08,Durban,Stamping,Afternoon,234,211,2,27
+PRD-1840,2026-09-08,Durban,Stamping,Night,235,230,0,6
+PRD-1841,2026-09-09,Durban,Body Shop,Morning,220,186,12,71
+PRD-1842,2026-09-09,Durban,Body Shop,Afternoon,219,188,11,49
+PRD-1843,2026-09-09,Durban,Body Shop,Night,228,217,11,25
+PRD-1844,2026-09-09,Durban,Paint Shop,Morning,201,193,0,16
+PRD-1845,2026-09-09,Durban,Paint Shop,Afternoon,196,185,2,14
+PRD-1846,2026-09-09,Durban,Paint Shop,Night,206,187,1,28
+PRD-1847,2026-09-09,Durban,Final Assembly,Morning,217,210,3,14
+PRD-1848,2026-09-09,Durban,Final Assembly,Afternoon,216,198,5,26
+PRD-1849,2026-09-09,Durban,Final Assembly,Night,212,209,2,5
+PRD-1850,2026-09-09,Durban,Stamping,Morning,225,217,6,3
+PRD-1851,2026-09-09,Durban,Stamping,Afternoon,225,213,6,24
+PRD-1852,2026-09-09,Durban,Stamping,Night,229,213,1,19
+PRD-1853,2026-09-10,Durban,Body Shop,Morning,217,195,11,51
+PRD-1854,2026-09-10,Durban,Body Shop,Afternoon,224,204,10,35
+PRD-1855,2026-09-10,Durban,Body Shop,Night,212,189,11,36
+PRD-1856,2026-09-10,Durban,Paint Shop,Morning,205,187,0,15
+PRD-1857,2026-09-10,Durban,Paint Shop,Afternoon,198,181,2,9
+PRD-1858,2026-09-10,Durban,Paint Shop,Night,194,173,0,21
+PRD-1859,2026-09-10,Durban,Final Assembly,Morning,207,198,2,14
+PRD-1860,2026-09-10,Durban,Final Assembly,Afternoon,216,202,2,6
+PRD-1861,2026-09-10,Durban,Final Assembly,Night,217,204,5,19
+PRD-1862,2026-09-10,Durban,Stamping,Morning,234,216,3,22
+PRD-1863,2026-09-10,Durban,Stamping,Afternoon,225,212,2,14
+PRD-1864,2026-09-10,Durban,Stamping,Night,227,205,5,24
+PRD-1865,2026-09-11,Durban,Body Shop,Morning,221,204,6,29
+PRD-1866,2026-09-11,Durban,Body Shop,Afternoon,215,198,6,31
+PRD-1867,2026-09-11,Durban,Body Shop,Night,216,195,13,50
+PRD-1868,2026-09-11,Durban,Paint Shop,Morning,204,190,1,16
+PRD-1869,2026-09-11,Durban,Paint Shop,Afternoon,197,181,1,20
+PRD-1870,2026-09-11,Durban,Paint Shop,Night,201,192,1,7
+PRD-1871,2026-09-11,Durban,Final Assembly,Morning,216,202,0,22
+PRD-1872,2026-09-11,Durban,Final Assembly,Afternoon,202,191,1,18
+PRD-1873,2026-09-11,Durban,Final Assembly,Night,214,195,4,20
+PRD-1874,2026-09-11,Durban,Stamping,Morning,237,223,5,16
+PRD-1875,2026-09-11,Durban,Stamping,Afternoon,235,218,6,25
+PRD-1876,2026-09-11,Durban,Stamping,Night,237,224,0,8
+PRD-1877,2026-09-12,Durban,Body Shop,Morning,212,197,8,38
+PRD-1878,2026-09-12,Durban,Body Shop,Afternoon,220,192,6,42
+PRD-1879,2026-09-12,Durban,Body Shop,Night,226,197,12,55
+PRD-1880,2026-09-12,Durban,Paint Shop,Morning,195,182,0,21
+PRD-1881,2026-09-12,Durban,Paint Shop,Afternoon,203,182,6,20
+PRD-1882,2026-09-12,Durban,Paint Shop,Night,193,175,5,27
+PRD-1883,2026-09-12,Durban,Final Assembly,Morning,208,190,0,16
+PRD-1884,2026-09-12,Durban,Final Assembly,Afternoon,209,203,6,12
+PRD-1885,2026-09-12,Durban,Final Assembly,Night,216,210,2,11
+PRD-1886,2026-09-12,Durban,Stamping,Morning,236,220,6,6
+PRD-1887,2026-09-12,Durban,Stamping,Afternoon,229,213,6,9
+PRD-1888,2026-09-12,Durban,Stamping,Night,233,213,4,25
+PRD-1889,2026-09-13,Durban,Body Shop,Morning,225,209,7,32
+PRD-1890,2026-09-13,Durban,Body Shop,Afternoon,213,182,8,58
+PRD-1891,2026-09-13,Durban,Body Shop,Night,217,192,8,42
+PRD-1892,2026-09-13,Durban,Paint Shop,Morning,200,191,5,19
+PRD-1893,2026-09-13,Durban,Paint Shop,Afternoon,196,179,6,27
+PRD-1894,2026-09-13,Durban,Paint Shop,Night,193,178,6,11
+PRD-1895,2026-09-13,Durban,Final Assembly,Morning,206,194,6,25
+PRD-1896,2026-09-13,Durban,Final Assembly,Afternoon,209,200,5,7
+PRD-1897,2026-09-13,Durban,Final Assembly,Night,209,188,6,27
+PRD-1898,2026-09-13,Durban,Stamping,Morning,234,217,1,18
+PRD-1899,2026-09-13,Durban,Stamping,Afternoon,230,214,3,23
+PRD-1900,2026-09-13,Durban,Stamping,Night,236,221,5,5
+PRD-1901,2026-09-14,Durban,Body Shop,Morning,214,177,8,71
+PRD-1902,2026-09-14,Durban,Body Shop,Afternoon,223,206,13,44
+PRD-1903,2026-09-14,Durban,Body Shop,Night,214,189,9,64
+PRD-1904,2026-09-14,Durban,Paint Shop,Morning,204,196,3,9
+PRD-1905,2026-09-14,Durban,Paint Shop,Afternoon,207,198,2,11
+PRD-1906,2026-09-14,Durban,Paint Shop,Night,202,191,4,20
+PRD-1907,2026-09-14,Durban,Final Assembly,Morning,217,196,2,28
+PRD-1908,2026-09-14,Durban,Final Assembly,Afternoon,203,190,0,4
+PRD-1909,2026-09-14,Durban,Final Assembly,Night,216,211,0,3
+PRD-1910,2026-09-14,Durban,Stamping,Morning,236,223,0,17
+PRD-1911,2026-09-14,Durban,Stamping,Afternoon,228,208,1,25
+PRD-1912,2026-09-14,Durban,Stamping,Night,231,223,6,8
+PRD-1913,2026-09-15,Durban,Body Shop,Morning,214,193,5,40
+PRD-1914,2026-09-15,Durban,Body Shop,Afternoon,217,182,8,64
+PRD-1915,2026-09-15,Durban,Body Shop,Night,219,207,5,29
+PRD-1916,2026-09-15,Durban,Paint Shop,Morning,198,188,0,18
+PRD-1917,2026-09-15,Durban,Paint Shop,Afternoon,199,184,5,19
+PRD-1918,2026-09-15,Durban,Paint Shop,Night,192,184,5,3
+PRD-1919,2026-09-15,Durban,Final Assembly,Morning,205,196,5,16
+PRD-1920,2026-09-15,Durban,Final Assembly,Afternoon,217,208,1,5
+PRD-1921,2026-09-15,Durban,Final Assembly,Night,204,192,6,26
+PRD-1922,2026-09-15,Durban,Stamping,Morning,225,215,2,13
+PRD-1923,2026-09-15,Durban,Stamping,Afternoon,226,207,6,15
+PRD-1924,2026-09-15,Durban,Stamping,Night,226,214,5,23
+PRD-1925,2026-09-16,Durban,Body Shop,Morning,214,194,13,24
+PRD-1926,2026-09-16,Durban,Body Shop,Afternoon,217,181,7,70
+PRD-1927,2026-09-16,Durban,Body Shop,Night,216,188,11,67
+PRD-1928,2026-09-16,Durban,Paint Shop,Morning,194,178,1,6
+PRD-1929,2026-09-16,Durban,Paint Shop,Afternoon,195,180,5,21
+PRD-1930,2026-09-16,Durban,Paint Shop,Night,203,184,2,16
+PRD-1931,2026-09-16,Durban,Final Assembly,Morning,206,191,2,10
+PRD-1932,2026-09-16,Durban,Final Assembly,Afternoon,204,190,4,10
+PRD-1933,2026-09-16,Durban,Final Assembly,Night,211,200,5,27
+PRD-1934,2026-09-16,Durban,Stamping,Morning,231,217,4,9
+PRD-1935,2026-09-16,Durban,Stamping,Afternoon,238,227,5,9
+PRD-1936,2026-09-16,Durban,Stamping,Night,231,209,0,23
+PRD-1937,2026-09-17,Durban,Body Shop,Morning,219,200,7,31
+PRD-1938,2026-09-17,Durban,Body Shop,Afternoon,214,194,9,47
+PRD-1939,2026-09-17,Durban,Body Shop,Night,224,196,12,47
+PRD-1940,2026-09-17,Durban,Paint Shop,Morning,197,174,3,27
+PRD-1941,2026-09-17,Durban,Paint Shop,Afternoon,194,190,4,3
+PRD-1942,2026-09-17,Durban,Paint Shop,Night,192,187,1,11
+PRD-1943,2026-09-17,Durban,Final Assembly,Morning,203,184,3,28
+PRD-1944,2026-09-17,Durban,Final Assembly,Afternoon,211,193,5,23
+PRD-1945,2026-09-17,Durban,Final Assembly,Night,215,202,5,16
+PRD-1946,2026-09-17,Durban,Stamping,Morning,224,206,4,23
+PRD-1947,2026-09-17,Durban,Stamping,Afternoon,226,217,0,11
+PRD-1948,2026-09-17,Durban,Stamping,Night,224,204,1,19
+PRD-1949,2026-09-18,Durban,Body Shop,Morning,216,187,13,49
+PRD-1950,2026-09-18,Durban,Body Shop,Afternoon,214,195,7,51
+PRD-1951,2026-09-18,Durban,Body Shop,Night,219,198,11,31
+PRD-1952,2026-09-18,Durban,Paint Shop,Morning,193,176,5,12
+PRD-1953,2026-09-18,Durban,Paint Shop,Afternoon,197,182,0,6
+PRD-1954,2026-09-18,Durban,Paint Shop,Night,196,184,0,25
+PRD-1955,2026-09-18,Durban,Final Assembly,Morning,217,203,4,14
+PRD-1956,2026-09-18,Durban,Final Assembly,Afternoon,210,204,2,
+PRD-1957,2026-09-18,Durban,Final Assembly,Night,210,187,0,26
+PRD-1958,2026-09-18,Durban,Stamping,Morning,222,210,6,13
+PRD-1959,2026-09-18,Durban,Stamping,Afternoon,230,218,0,19
+PRD-1960,2026-09-18,Durban,Stamping,Night,224,208,3,18
+PRD-1961,2026-09-19,Durban,Body Shop,Morning,223,195,6,60
+PRD-1962,2026-09-19,Durban,Body Shop,Afternoon,217,195,13,30
+PRD-1963,2026-09-19,Durban,Body Shop,Night,215,194,4,56
+PRD-1964,2026-09-19,Durban,Paint Shop,Morning,192,180,0,10
+PRD-1965,2026-09-19,Durban,Paint Shop,Afternoon,203,194,1,15
+PRD-1966,2026-09-19,Durban,Paint Shop,Night,193,173,6,20
+PRD-1967,2026-09-19,Durban,Final Assembly,Morning,215,207,2,10
+PRD-1968,2026-09-19,Durban,Final Assembly,Afternoon,215,200,2,26
+PRD-1969,2026-09-19,Durban,Final Assembly,Night,204,194,2,21
+PRD-1970,2026-09-19,Durban,Stamping,Morning,238,226,0,24
+PRD-1971,2026-09-19,Durban,Stamping,Afternoon,229,218,4,28
+PRD-1972,2026-09-19,Durban,Stamping,Night,234,227,3,5
+PRD-1973,2026-09-20,Durban,Body Shop,Morning,221,199,11,59
+PRD-1974,2026-09-20,Durban,Body Shop,Afternoon,223,189,8,60
+PRD-1975,2026-09-20,Durban,Body Shop,Night,219,184,11,61
+PRD-1976,2026-09-20,Durban,Paint Shop,Morning,198,175,4,26
+PRD-1977,2026-09-20,Durban,Paint Shop,Afternoon,199,189,0,7
+PRD-1978,2026-09-20,Durban,Paint Shop,Night,192,182,4,10
+PRD-1979,2026-09-20,Durban,Final Assembly,Morning,202,184,0,13
+PRD-1980,2026-09-20,Durban,Final Assembly,Afternoon,214,199,5,26
+PRD-1981,2026-09-20,Durban,Final Assembly,Night,205,197,4,9
+PRD-1982,2026-09-20,Durban,Stamping,Morning,235,225,0,18
+PRD-1983,2026-09-20,Durban,Stamping,Afternoon,230,224,0,5
+PRD-1984,2026-09-20,Durban,Stamping,Night,238,226,5,16
+PRD-1985,2026-09-21,Durban,Body Shop,Morning,226,195,5,61
+PRD-1986,2026-09-21,Durban,Body Shop,Afternoon,216,188,5,49
+PRD-1987,2026-09-21,Durban,Body Shop,Night,213,196,7,32
+PRD-1988,2026-09-21,Durban,Paint Shop,Morning,200,188,6,13
+PRD-1989,2026-09-21,Durban,Paint Shop,Afternoon,202,192,3,13
+PRD-1990,2026-09-21,Durban,Paint Shop,Night,199,194,1,5
+PRD-1991,2026-09-21,Durban,Final Assembly,Morning,205,199,0,7
+PRD-1992,2026-09-21,Durban,Final Assembly,Afternoon,216,203,2,17
+PRD-1993,2026-09-21,Durban,Final Assembly,Night,205,184,2,20
+PRD-1994,2026-09-21,Durban,Stamping,Morning,228,214,2,17
+PRD-1995,2026-09-21,Durban,Stamping,Afternoon,230,224,0,6
+PRD-1996,2026-09-21,Durban,Stamping,Night,231,212,5,25
+PRD-1997,2026-09-22,Durban,Body Shop,Morning,213,195,6,44
+PRD-1998,2026-09-22,Durban,Body Shop,Afternoon,219,188,4,56
+PRD-1999,2026-09-22,Durban,Body Shop,Night,221,201,4,35
+PRD-2000,2026-09-22,Durban,Paint Shop,Morning,206,189,5,20
+PRD-2001,2026-09-22,Durban,Paint Shop,Afternoon,199,194,3,6
+PRD-2002,2026-09-22,Durban,Paint Shop,Night,196,192,0,6
+PRD-2003,2026-09-22,Durban,Final Assembly,Morning,209,199,1,7
+PRD-2004,2026-09-22,Durban,Final Assembly,Afternoon,213,193,5,24
+PRD-2005,2026-09-22,Durban,Final Assembly,Night,204,191,4,21
+PRD-2006,2026-09-22,Durban,Stamping,Morning,224,218,0,3
+PRD-2007,2026-09-22,Durban,Stamping,Afternoon,236,224,1,28
+PRD-2008,2026-09-22,Durban,Stamping,Night,232,221,0,6
+PRD-2009,2026-09-23,Durban,Body Shop,Morning,213,187,10,51
+PRD-2010,2026-09-23,Durban,Body Shop,Afternoon,212,188,6,51
+PRD-2011,2026-09-23,Durban,Body Shop,Night,218,200,11,41
+PRD-2012,2026-09-23,Durban,Paint Shop,Morning,193,175,4,22
+PRD-2013,2026-09-23,Durban,Paint Shop,Afternoon,199,182,2,23
+PRD-2014,2026-09-23,Durban,Paint Shop,Night,205,196,3,20
+PRD-2015,2026-09-23,Durban,Final Assembly,Morning,204,197,3,11
+PRD-2016,2026-09-23,Durban,Final Assembly,Afternoon,215,198,5,9
+PRD-2017,2026-09-23,Durban,Final Assembly,Night,218,201,5,10
+PRD-2018,2026-09-23,Durban,Stamping,Morning,222,204,6,15
+PRD-2019,2026-09-23,Durban,Stamping,Afternoon,233,213,4,18
+PRD-2020,2026-09-23,Durban,Stamping,Night,237,223,4,14
+PRD-2021,2026-09-24,Durban,Body Shop,Morning,222,203,4,35
+PRD-2022,2026-09-24,Durban,Body Shop,Afternoon,219,191,4,41
+PRD-2023,2026-09-24,Durban,Body Shop,Night,227,202,7,61
+PRD-2024,2026-09-24,Durban,Paint Shop,Morning,195,187,5,10
+PRD-2025,2026-09-24,Durban,Paint Shop,Afternoon,200,179,6,20
+PRD-2026,2026-09-24,Durban,Paint Shop,Night,193,173,1,27
+PRD-2027,2026-09-24,Durban,Final Assembly,Morning,214,206,6,14
+PRD-2028,2026-09-24,Durban,Final Assembly,Afternoon,207,197,4,10
+PRD-2029,2026-09-24,Durban,Final Assembly,Night,213,193,0,21
+PRD-2030,2026-09-24,Durban,Stamping,Morning,233,222,4,21
+PRD-2031,2026-09-24,Durban,Stamping,Afternoon,228,209,3,28
+PRD-2032,2026-09-24,Durban,Stamping,Night,231,227,3,8
+PRD-2033,2026-09-25,Durban,Body Shop,Morning,214,191,7,62
+PRD-2034,2026-09-25,Durban,Body Shop,Afternoon,228,208,13,45
+PRD-2035,2026-09-25,Durban,Body Shop,Night,216,202,9,35
+PRD-2036,2026-09-25,Durban,Paint Shop,Morning,192,177,4,7
+PRD-2037,2026-09-25,Durban,Paint Shop,Afternoon,196,177,0,27
+PRD-2038,2026-09-25,Durban,Paint Shop,Night,203,189,2,5
+PRD-2039,2026-09-25,Durban,Final Assembly,Morning,214,200,0,21
+PRD-2040,2026-09-25,Durban,Final Assembly,Afternoon,211,203,1,13
+PRD-2041,2026-09-25,Durban,Final Assembly,Night,215,197,5,28
+PRD-2042,2026-09-25,Durban,Stamping,Morning,232,220,5,8
+PRD-2043,2026-09-25,Durban,Stamping,Afternoon,233,219,5,10
+PRD-2044,2026-09-25,Durban,Stamping,Night,227,209,2,15
+PRD-2045,2026-09-26,Durban,Body Shop,Morning,221,184,4,70
+PRD-2046,2026-09-26,Durban,Body Shop,Afternoon,224,204,6,26
+PRD-2047,2026-09-26,Durban,Body Shop,Night,222,206,13,38
+PRD-2048,2026-09-26,Durban,Paint Shop,Morning,207,192,2,7
+PRD-2049,2026-09-26,Durban,Paint Shop,Afternoon,194,184,2,10
+PRD-2050,2026-09-26,Durban,Paint Shop,Night,197,176,0,23
+PRD-2051,2026-09-26,Durban,Final Assembly,Morning,212,201,0,17
+PRD-2052,2026-09-26,Durban,Final Assembly,Afternoon,208,202,5,10
+PRD-2053,2026-09-26,Durban,Final Assembly,Night,213,207,6,11
+PRD-2054,2026-09-26,Durban,Stamping,Morning,222,212,3,4
+PRD-2055,2026-09-26,Durban,Stamping,Afternoon,235,224,3,8
+PRD-2056,2026-09-26,Durban,Stamping,Night,234,222,4,14
+PRD-2057,2026-09-27,Durban,Body Shop,Morning,215,190,7,60
+PRD-2058,2026-09-27,Durban,Body Shop,Afternoon,226,215,8,26
+PRD-2059,2026-09-27,Durban,Body Shop,Night,222,209,9,28
+PRD-2060,2026-09-27,Durban,Paint Shop,Morning,204,199,5,8
+PRD-2061,2026-09-27,Durban,Paint Shop,Afternoon,194,179,4,13
+PRD-2062,2026-09-27,Durban,Paint Shop,Night,207,191,0,25
+PRD-2063,2026-09-27,Durban,Final Assembly,Morning,207,196,3,22
+PRD-2064,2026-09-27,Durban,Final Assembly,Afternoon,203,196,2,6
+PRD-2065,2026-09-27,Durban,Final Assembly,Night,208,193,5,16
+PRD-2066,2026-09-27,Durban,Stamping,Morning,230,216,2,24
+PRD-2067,2026-09-27,Durban,Stamping,Afternoon,229,219,0,6
+PRD-2068,2026-09-27,Durban,Stamping,Night,237,228,0,7
+PRD-2069,2026-09-28,Durban,Body Shop,Morning,212,189,13,42
+PRD-2070,2026-09-28,Durban,Body Shop,Afternoon,218,194,6,37
+PRD-2071,2026-09-28,Durban,Body Shop,Night,221,197,8,31
+PRD-2072,2026-09-28,Durban,Paint Shop,Morning,204,186,3,18
+PRD-2073,2026-09-28,Durban,Paint Shop,Afternoon,200,189,5,5
+PRD-2074,2026-09-28,Durban,Paint Shop,Night,204,194,2,8
+PRD-2075,2026-09-28,Durban,Final Assembly,Morning,213,209,3,8
+PRD-2076,2026-09-28,Durban,Final Assembly,Afternoon,210,199,3,17
+PRD-2077,2026-09-28,Durban,Final Assembly,Night,209,204,4,11
+PRD-2078,2026-09-28,Durban,Stamping,Morning,226,205,5,27
+PRD-2079,2026-09-28,Durban,Stamping,Afternoon,225,217,5,5
+PRD-2080,2026-09-28,Durban,Stamping,Night,235,221,4,27
+PRD-2081,2026-09-29,Durban,Body Shop,Morning,213,184,10,57
+PRD-2082,2026-09-29,Durban,Body Shop,Afternoon,227,206,8,54
+PRD-2083,2026-09-29,Durban,Body Shop,Night,224,195,13,56
+PRD-2084,2026-09-29,Durban,Paint Shop,Morning,196,185,6,6
+PRD-2085,2026-09-29,Durban,Paint Shop,Afternoon,197,181,1,8
+PRD-2086,2026-09-29,Durban,Paint Shop,Night,198,188,0,7
+PRD-2087,2026-09-29,Durban,Final Assembly,Morning,204,191,3,24
+PRD-2088,2026-09-29,Durban,Final Assembly,Afternoon,206,192,2,22
+PRD-2089,2026-09-29,Durban,Final Assembly,Night,204,193,3,5
+PRD-2090,2026-09-29,Durban,Stamping,Morning,234,221,2,20
+PRD-2091,2026-09-29,Durban,Stamping,Afternoon,238,231,6,17
+PRD-2092,2026-09-29,Durban,Stamping,Night,238,226,3,28
+PRD-2093,2026-09-30,Durban,Body Shop,Morning,225,193,13,60
+PRD-2094,2026-09-30,Durban,Body Shop,Afternoon,215,195,8,30
+PRD-2095,2026-09-30,Durban,Body Shop,Night,223,196,11,48
+PRD-2096,2026-09-30,Durban,Paint Shop,Morning,207,200,1,4
+PRD-2097,2026-09-30,Durban,Paint Shop,Afternoon,204,191,4,7
+PRD-2098,2026-09-30,Durban,Paint Shop,Night,204,196,3,4
+PRD-2099,2026-09-30,Durban,Final Assembly,Morning,209,199,5,4
+PRD-2100,2026-09-30,Durban,Final Assembly,Afternoon,210,199,0,14
+PRD-2101,2026-09-30,Durban,Final Assembly,Night,211,198,2,12
+PRD-2102,2026-09-30,Durban,Stamping,Morning,225,216,1,10
+PRD-2103,2026-09-30,Durban,Stamping,Afternoon,236,220,6,27
+PRD-2104,2026-09-30,Durban,Stamping,Night,230,210,3,26
+PRD-2105,2026-10-01,Durban,Body Shop,Morning,214,189,10,37
+PRD-2106,2026-10-01,Durban,Body Shop,Afternoon,227,201,4,47
+PRD-2107,2026-10-01,Durban,Body Shop,Night,217,185,12,69
+PRD-2108,2026-10-01,Durban,Paint Shop,Morning,196,177,6,27
+PRD-2109,2026-10-01,Durban,Paint Shop,Afternoon,192,185,1,8
+PRD-2110,2026-10-01,Durban,Paint Shop,Night,193,181,0,10
+PRD-2111,2026-10-01,Durban,Final Assembly,Morning,203,194,5,14
+PRD-2112,2026-10-01,Durban,Final Assembly,Afternoon,210,197,6,14
+PRD-2113,2026-10-01,Durban,Final Assembly,Night,218,210,5,15
+PRD-2114,2026-10-01,Durban,Stamping,Morning,222,210,2,10
+PRD-2115,2026-10-01,Durban,Stamping,Afternoon,236,225,6,8
+PRD-2116,2026-10-01,Durban,Stamping,Night,233,223,1,14
+PRD-2117,2026-10-02,Durban,Body Shop,Morning,214,194,4,48
+PRD-2118,2026-10-02,Durban,Body Shop,Afternoon,218,199,7,38
+PRD-2119,2026-10-02,Durban,Body Shop,Night,225,193,4,67
+PRD-2120,2026-10-02,Durban,Paint Shop,Morning,196,177,1,23
+PRD-2121,2026-10-02,Durban,Paint Shop,Afternoon,192,178,2,10
+PRD-2122,2026-10-02,Durban,Paint Shop,Night,201,181,5,25
+PRD-2123,2026-10-02,Durban,Final Assembly,Morning,210,198,3,16
+PRD-2124,2026-10-02,Durban,Final Assembly,Afternoon,216,204,1,11
+PRD-2125,2026-10-02,Durban,Final Assembly,Night,211,192,4,24
+PRD-2126,2026-10-02,Durban,Stamping,Morning,234,225,0,21
+PRD-2127,2026-10-02,Durban,Stamping,Afternoon,238,223,6,24
+PRD-2128,2026-10-02,Durban,Stamping,Night,231,224,5,12
+PRD-2129,2026-10-03,Durban,Body Shop,Morning,227,207,9,41
+PRD-2130,2026-10-03,Durban,Body Shop,Afternoon,220,193,8,65
+PRD-2131,2026-10-03,Durban,Body Shop,Night,216,189,4,39
+PRD-2132,2026-10-03,Durban,Paint Shop,Morning,204,184,2,24
+PRD-2133,2026-10-03,Durban,Paint Shop,Afternoon,196,175,0,26
+PRD-2134,2026-10-03,Durban,Paint Shop,Night,207,195,2,12
+PRD-2135,2026-10-03,Durban,Final Assembly,Morning,214,207,5,15
+PRD-2136,2026-10-03,Durban,Final Assembly,Afternoon,208,191,5,13
+PRD-2137,2026-10-03,Durban,Final Assembly,Night,209,189,4,24
+PRD-2138,2026-10-03,Durban,Stamping,Morning,237,219,2,24
+PRD-2139,2026-10-03,Durban,Stamping,Afternoon,231,217,6,8
+PRD-2140,2026-10-03,Durban,Stamping,Night,227,214,0,12
+PRD-2141,2026-10-04,Durban,Body Shop,Morning,216,178,12,70
+PRD-2142,2026-10-04,Durban,Body Shop,Afternoon,217,190,5,65
+PRD-2143,2026-10-04,Durban,Body Shop,Night,223,194,10,43
+PRD-2144,2026-10-04,Durban,Paint Shop,Morning,202,187,2,14
+PRD-2145,2026-10-04,Durban,Paint Shop,Afternoon,201,193,6,17
+PRD-2146,2026-10-04,Durban,Paint Shop,Night,207,194,6,4
+PRD-2147,2026-10-04,Durban,Final Assembly,Morning,204,188,1,18
+PRD-2148,2026-10-04,Durban,Final Assembly,Afternoon,205,187,3,24
+PRD-2149,2026-10-04,Durban,Final Assembly,Night,211,202,0,16
+PRD-2150,2026-10-04,Durban,Stamping,Morning,226,215,2,9
+PRD-2151,2026-10-04,Durban,Stamping,Afternoon,236,221,2,7
+PRD-2152,2026-10-04,Durban,Stamping,Night,227,209,0,27
+PRD-2153,2026-10-05,Durban,Body Shop,Morning,222,205,4,44
+PRD-2154,2026-10-05,Durban,Body Shop,Afternoon,226,190,6,72
+PRD-2155,2026-10-05,Durban,Body Shop,Night,217,188,5,72
+PRD-2156,2026-10-05,Durban,Paint Shop,Morning,205,189,3,23
+PRD-2157,2026-10-05,Durban,Paint Shop,Afternoon,205,197,3,18
+PRD-2158,2026-10-05,Durban,Paint Shop,Night,193,173,1,20
+PRD-2159,2026-10-05,Durban,Final Assembly,Morning,213,198,2,3
+PRD-2160,2026-10-05,Durban,Final Assembly,Afternoon,218,203,0,9
+PRD-2161,2026-10-05,Durban,Final Assembly,Night,202,189,5,23
+PRD-2162,2026-10-05,Durban,Stamping,Morning,229,215,2,25
+PRD-2163,2026-10-05,Durban,Stamping,Afternoon,226,214,3,6
+PRD-2164,2026-10-05,Durban,Stamping,Night,231,227,0,8
+PRD-2165,2026-10-06,Durban,Body Shop,Morning,221,186,12,70
+PRD-2166,2026-10-06,Durban,Body Shop,Afternoon,228,198,6,67
+PRD-2167,2026-10-06,Durban,Body Shop,Night,227,201,6,36
+PRD-2168,2026-10-06,Durban,Paint Shop,Morning,204,198,1,3
+PRD-2169,2026-10-06,Durban,Paint Shop,Afternoon,196,191,5,9
+PRD-2170,2026-10-06,Durban,Paint Shop,Night,208,199,0,8
+PRD-2171,2026-10-06,Durban,Final Assembly,Morning,203,192,5,15
+PRD-2172,2026-10-06,Durban,Final Assembly,Afternoon,203,184,0,22
+PRD-2173,2026-10-06,Durban,Final Assembly,Night,205,195,6,23
+PRD-2174,2026-10-06,Durban,Stamping,Morning,223,207,0,25
+PRD-2175,2026-10-06,Durban,Stamping,Afternoon,236,221,0,15
+PRD-2176,2026-10-06,Durban,Stamping,Night,230,220,5,18
+PRD-2177,2026-10-07,Durban,Body Shop,Morning,218,190,4,64
+PRD-2178,2026-10-07,Durban,Body Shop,Afternoon,225,196,12,66
+PRD-2179,2026-10-07,Durban,Body Shop,Night,216,193,12,30
+PRD-2180,2026-10-07,Durban,Paint Shop,Morning,195,177,0,12
+PRD-2181,2026-10-07,Durban,Paint Shop,Afternoon,195,178,1,18
+PRD-2182,2026-10-07,Durban,Paint Shop,Night,198,179,2,27
+PRD-2183,2026-10-07,Durban,Final Assembly,Morning,208,196,5,14
+PRD-2184,2026-10-07,Durban,Final Assembly,Afternoon,211,199,0,8
+PRD-2185,2026-10-07,Durban,Final Assembly,Night,217,205,5,9
+PRD-2186,2026-10-07,Durban,Stamping,Morning,232,227,0,10
+PRD-2187,2026-10-07,Durban,Stamping,Afternoon,224,211,6,6
+PRD-2188,2026-10-07,Durban,Stamping,Night,237,221,0,7
+PRD-2189,2026-10-08,Durban,Body Shop,Morning,228,198,5,70
+PRD-2190,2026-10-08,Durban,Body Shop,Afternoon,219,203,11,40
+PRD-2191,2026-10-08,Durban,Body Shop,Night,215,199,8,26
+PRD-2192,2026-10-08,Durban,Paint Shop,Morning,202,194,5,16
+PRD-2193,2026-10-08,Durban,Paint Shop,Afternoon,195,184,0,27
+PRD-2194,2026-10-08,Durban,Paint Shop,Night,196,184,5,24
+PRD-2195,2026-10-08,Durban,Final Assembly,Morning,212,197,3,14
+PRD-2196,2026-10-08,Durban,Final Assembly,Afternoon,210,194,0,26
+PRD-2197,2026-10-08,Durban,Final Assembly,Night,212,202,0,8
+PRD-2198,2026-10-08,Durban,Stamping,Morning,234,221,2,17
+PRD-2199,2026-10-08,Durban,Stamping,Afternoon,237,216,3,28
+PRD-2200,2026-10-08,Durban,Stamping,Night,227,212,1,6
+PRD-2201,2026-10-09,Durban,Body Shop,Morning,213,187,13,50
+PRD-2202,2026-10-09,Durban,Body Shop,Afternoon,226,199,9,48
+PRD-2203,2026-10-09,Durban,Body Shop,Night,212,179,6,70
+PRD-2204,2026-10-09,Durban,Paint Shop,Morning,207,196,3,6
+PRD-2205,2026-10-09,Durban,Paint Shop,Afternoon,193,180,2,5
+PRD-2206,2026-10-09,Durban,Paint Shop,Night,202,189,5,3
+PRD-2207,2026-10-09,Durban,Final Assembly,Morning,218,198,5,27
+PRD-2208,2026-10-09,Durban,Final Assembly,Afternoon,209,194,6,24
+PRD-2209,2026-10-09,Durban,Final Assembly,Night,218,199,5,19
+PRD-2210,2026-10-09,Durban,Stamping,Morning,225,207,5,16
+PRD-2211,2026-10-09,Durban,Stamping,Afternoon,229,211,2,18
+PRD-2212,2026-10-09,Durban,Stamping,Night,234,222,6,7
+PRD-2213,2026-10-10,Durban,Body Shop,Morning,213,193,12,34
+PRD-2214,2026-10-10,Durban,Body Shop,Afternoon,227,195,11,72
+PRD-2215,2026-10-10,Durban,Body Shop,Night,219,205,12,27
+PRD-2216,2026-10-10,Durban,Paint Shop,Morning,204,194,6,15
+PRD-2217,2026-10-10,Durban,Paint Shop,Afternoon,194,175,3,17
+PRD-2218,2026-10-10,Durban,Paint Shop,Night,206,196,6,5
+PRD-2219,2026-10-10,Durban,Final Assembly,Morning,216,203,0,13
+PRD-2220,2026-10-10,Durban,Final Assembly,Afternoon,202,192,3,6
+PRD-2221,2026-10-10,Durban,Final Assembly,Night,203,194,4,20
+PRD-2222,2026-10-10,Durban,Stamping,Morning,224,204,4,28
+PRD-2223,2026-10-10,Durban,Stamping,Afternoon,231,220,4,19
+PRD-2224,2026-10-10,Durban,Stamping,Night,236,230,2,13
+PRD-2225,2026-10-11,Durban,Body Shop,Morning,219,188,13,59
+PRD-2226,2026-10-11,Durban,Body Shop,Afternoon,227,208,11,47
+PRD-2227,2026-10-11,Durban,Body Shop,Night,215,195,4,38
+PRD-2228,2026-10-11,Durban,Paint Shop,Morning,203,189,6,23
+PRD-2229,2026-10-11,Durban,Paint Shop,Afternoon,208,201,5,14
+PRD-2230,2026-10-11,Durban,Paint Shop,Night,193,187,3,8
+PRD-2231,2026-10-11,Durban,Final Assembly,Morning,215,202,2,6
+PRD-2232,2026-10-11,Durban,Final Assembly,Afternoon,208,197,0,9
+PRD-2233,2026-10-11,Durban,Final Assembly,Night,208,189,6,17
+PRD-2234,2026-10-11,Durban,Stamping,Morning,228,217,2,25
+PRD-2235,2026-10-11,Durban,Stamping,Afternoon,235,222,5,4
+PRD-2236,2026-10-11,Durban,Stamping,Night,225,207,3,27
+PRD-2237,2026-10-12,Durban,Body Shop,Morning,228,207,12,24
+PRD-2238,2026-10-12,Durban,Body Shop,Afternoon,213,182,11,61
+PRD-2239,2026-10-12,Durban,Body Shop,Night,217,202,6,35
+PRD-2240,2026-10-12,Durban,Paint Shop,Morning,204,185,4,24
+PRD-2241,2026-10-12,Durban,Paint Shop,Afternoon,202,188,3,19
+PRD-2242,2026-10-12,Durban,Paint Shop,Night,199,189,3,11
+PRD-2243,2026-10-12,Durban,Final Assembly,Morning,211,202,6,17
+PRD-2244,2026-10-12,Durban,Final Assembly,Afternoon,206,188,4,16
+PRD-2245,2026-10-12,Durban,Final Assembly,Night,218,201,6,12
+PRD-2246,2026-10-12,Durban,Stamping,Morning,232,214,5,25
+PRD-2247,2026-10-12,Durban,Stamping,Afternoon,228,214,1,9
+PRD-2248,2026-10-12,Durban,Stamping,Night,231,211,2,24
+PRD-2249,2026-10-13,Durban,Body Shop,Morning,216,194,12,35
+PRD-2250,2026-10-13,Durban,Body Shop,Afternoon,222,187,9,72
+PRD-2251,2026-10-13,Durban,Body Shop,Night,227,192,10,66
+PRD-2252,2026-10-13,Durban,Paint Shop,Morning,201,194,6,16
+PRD-2253,2026-10-13,Durban,Paint Shop,Afternoon,208,198,0,6
+PRD-2254,2026-10-13,Durban,Paint Shop,Night,196,193,5,4
+PRD-2255,2026-10-13,Durban,Final Assembly,Morning,208,191,6,11
+PRD-2256,2026-10-13,Durban,Final Assembly,Afternoon,207,197,5,12
+PRD-2257,2026-10-13,Durban,Final Assembly,Night,206,191,5,4
+PRD-2258,2026-10-13,Durban,Stamping,Morning,231,218,6,9
+PRD-2259,2026-10-13,Durban,Stamping,Afternoon,223,210,6,14
+PRD-2260,2026-10-13,Durban,Stamping,Night,225,206,6,22
+PRD-2261,2026-10-14,Durban,Body Shop,Morning,219,194,10,59
+PRD-2262,2026-10-14,Durban,Body Shop,Afternoon,228,192,8,68
+PRD-2263,2026-10-14,Durban,Body Shop,Night,213,186,9,50
+PRD-2264,2026-10-14,Durban,Paint Shop,Morning,193,186,5,3
+PRD-2265,2026-10-14,Durban,Paint Shop,Afternoon,198,177,6,22
+PRD-2266,2026-10-14,Durban,Paint Shop,Night,206,190,5,10
+PRD-2267,2026-10-14,Durban,Final Assembly,Morning,213,194,4,27
+PRD-2268,2026-10-14,Durban,Final Assembly,Afternoon,208,194,5,27
+PRD-2269,2026-10-14,Durban,Final Assembly,Night,211,194,1,17
+PRD-2270,2026-10-14,Durban,Stamping,Morning,224,209,1,8
+PRD-2271,2026-10-14,Durban,Stamping,Afternoon,238,234,3,6
+PRD-2272,2026-10-14,Durban,Stamping,Night,235,226,4,11
+PRD-2273,2026-10-15,Durban,Body Shop,Morning,216,195,4,40
+PRD-2274,2026-10-15,Durban,Body Shop,Afternoon,226,210,6,26
+PRD-2275,2026-10-15,Durban,Body Shop,Night,213,182,8,63
+PRD-2276,2026-10-15,Durban,Paint Shop,Morning,203,189,6,5
+PRD-2277,2026-10-15,Durban,Paint Shop,Afternoon,202,192,1,19
+PRD-2278,2026-10-15,Durban,Paint Shop,Night,208,197,6,5
+PRD-2279,2026-10-15,Durban,Final Assembly,Morning,207,192,4,16
+PRD-2280,2026-10-15,Durban,Final Assembly,Afternoon,214,208,2,5
+PRD-2281,2026-10-15,Durban,Final Assembly,Night,208,193,2,24
+PRD-2282,2026-10-15,Durban,Stamping,Morning,233,215,1,12
+PRD-2283,2026-10-15,Durban,Stamping,Afternoon,238,218,4,18
+PRD-2284,2026-10-15,Durban,Stamping,Night,222,213,5,6
+PRD-2285,2026-10-16,Durban,Body Shop,Morning,226,199,13,63
+PRD-2286,2026-10-16,Durban,Body Shop,Afternoon,213,189,5,48
+PRD-2287,2026-10-16,Durban,Body Shop,Night,220,196,4,42
+PRD-2288,2026-10-16,Durban,Paint Shop,Morning,203,187,6,19
+PRD-2289,2026-10-16,Durban,Paint Shop,Afternoon,206,194,0,18
+PRD-2290,2026-10-16,Durban,Paint Shop,Night,198,191,4,13
+PRD-2291,2026-10-16,Durban,Final Assembly,Morning,205,193,6,8
+PRD-2292,2026-10-16,Durban,Final Assembly,Afternoon,202,189,0,23
+PRD-2293,2026-10-16,Durban,Final Assembly,Night,208,197,3,24
+PRD-2294,2026-10-16,Durban,Stamping,Morning,228,208,6,20
+PRD-2295,2026-10-16,Durban,Stamping,Afternoon,235,224,6,23
+PRD-2296,2026-10-16,Durban,Stamping,Night,226,212,3,3
+PRD-2297,2026-10-17,Durban,Body Shop,Morning,222,209,4,28
+PRD-2298,2026-10-17,Durban,Body Shop,Afternoon,220,193,7,60
+PRD-2299,2026-10-17,Durban,Body Shop,Night,225,195,10,64
+PRD-2300,2026-10-17,Durban,Paint Shop,Morning,202,189,3,3
+PRD-2301,2026-10-17,Durban,Paint Shop,Afternoon,195,176,0,20
+PRD-2302,2026-10-17,Durban,Paint Shop,Night,194,174,5,27
+PRD-2303,2026-10-17,Durban,Final Assembly,Morning,203,192,6,25
+PRD-2304,2026-10-17,Durban,Final Assembly,Afternoon,213,201,0,19
+PRD-2305,2026-10-17,Durban,Final Assembly,Night,211,198,0,22
+PRD-2306,2026-10-17,Durban,Stamping,Morning,236,219,3,15
+PRD-2307,2026-10-17,Durban,Stamping,Afternoon,222,206,1,18
+PRD-2308,2026-10-17,Durban,Stamping,Night,229,219,5,7
+PRD-1209,2026-07-18,Durban,Paint Shop,Afternoon,197,176,4,26

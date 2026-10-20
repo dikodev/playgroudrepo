@@ -1,0 +1,182 @@
+﻿MaintenanceID,EquipmentID,MaintenanceDate,MaintenanceType,IssueCategory,IssueDescription,DowntimeMinutes,RepairCost,Technician,Status
+MNT-1001,EQ-TOR-401,2026-08-18,Preventive,Lubrication Required,Lubrication Required reported during shift checks,29,1950,N. Singh,Closed
+MNT-1002,EQ-ROB-101,2026-09-09,Corrective,Alignment Drift,Alignment Drift reported during shift checks,88,1200,L. Jacobs,Completed
+MNT-1003,EQ-CMP-1002,2026-07-20,Preventive,Unexpected Stop,Unexpected Stop reported during shift checks,44,2000,A. Naidoo,Completed
+MNT-1004,EQ-ENG-501,2026-10-09,Inspection,Motor Vibration,Motor Vibration reported during shift checks,18,350,N. Singh,Closed
+MNT-1005,EQ-INS-701,2026-10-02,Corrective,Routine Inspection,Routine Inspection reported during shift checks,11,600,N. Singh,Completed
+MNT-1006,EQ-PNT-302,2026-07-07,Preventive,Calibration Check,Calibration Check reported during shift checks,6,2050,P. Dlamini,Completed
+MNT-1007,EQ-ROB-102,2026-08-25,Preventive,Lubrication Required,Lubrication Required reported during shift checks,11,2250,A. Naidoo,Closed
+MNT-1008,EQ-FLT-902,2026-07-03,corrective,Sensor Warning,Sensor Warning reported during shift checks,19,200,A. Naidoo,Completed
+MNT-1009,EQ-ENG-502,2026-07-10,Inspection,Sensor Warning,Sensor Warning reported during shift checks,32,1850,N. Singh,Closed
+MNT-1010,EQ-ROB-101,2026-09-08,Corrective,Servo Overheat,Servo Overheat reported during shift checks,43,3700,A. Naidoo,In Progress
+MNT-1011,EQ-CMP-1002,2026-07-06,Inspection,Routine Inspection,Routine Inspection reported during shift checks,13,1450,N. Singh,In Progress
+MNT-1012,EQ-ROB-101,2026-10-04,Corrective,Alignment Drift,Alignment Drift reported during shift checks,62,2300,N. Singh,Closed
+MNT-1013,EQ-ENG-502,2026-09-26,Preventive,Motor Vibration,Motor Vibration reported during shift checks,22,1850,S. Mthembu,In Progress
+MNT-1014,EQ-PNT-302,2026-08-01,Corrective,Motor Vibration,Motor Vibration reported during shift checks,25,2100,L. Jacobs,Closed
+MNT-1015,EQ-ROB-103,2026-10-05,Preventive,Lubrication Required,Lubrication Required reported during shift checks,18,200,S. Mthembu,Completed
+MNT-1016,EQ-FLT-902,2026-08-30,Preventive,LUBRICATION REQUIRED,Lubrication Required reported during shift checks,40,1950,P. Dlamini,Completed
+MNT-1017,EQ-PNT-301,2026-09-02,Corrective,Airflow Warning,Airflow Warning reported during shift checks,12,1550,P. Dlamini,In Progress
+MNT-1018,EQ-ROB-101,2026-09-30,Corrective,Servo Overheat,Servo Overheat reported during shift checks,87,2300,A. Naidoo,Completed
+MNT-1019,EQ-CNV-201,2026-09-14,Corrective,Roller Wear,Roller Wear reported during shift checks,38,2200,S. Mthembu,Closed
+MNT-1020,EQ-ROB-103,2026-10-02,Preventive,Motor Vibration,Motor Vibration reported during shift checks,43,2350,T. Khumalo,Completed
+MNT-1021,EQ-PNT-303,2026-09-26,Preventive,Unexpected Stop,Unexpected Stop reported during shift checks,29,2100,S. Mthembu,Completed
+MNT-1022,EQ-ROB-101,2026-09-29,Corrective,Weld Tip Wear,Weld Tip Wear reported during shift checks,79,3900,S. Mthembu,Completed
+MNT-1023,EQ-ENG-502,2026-09-03,Preventive,Lubrication Required,Lubrication Required reported during shift checks,,1050,A. Naidoo,Completed
+MNT-1024,EQ-INS-702,2026-09-02,Corrective,Routine Inspection,Routine Inspection reported during shift checks,44,1850,A. Naidoo,In Progress
+MNT-1025,EQ-ENG-501,2026-07-26,Corrective,Unexpected Stop,Unexpected Stop reported during shift checks,28,2000,S. Mthembu,Closed
+MNT-1026,EQ-PNT-301,2026-07-03,Preventive,Airflow Warning,Airflow Warning reported during shift checks,37,1400,S. Mthembu,Completed
+MNT-1027,EQ-TOR-403,2026-09-22,Preventive,Unexpected Stop,Unexpected Stop reported during shift checks,44,200,P. Dlamini,In Progress
+MNT-1028,EQ-ROB-101,2026-10-02,Corrective,Alignment Drift,Alignment Drift reported during shift checks,72,2800,N. Singh,Completed
+MNT-1029,EQ-ROB-101,2026-09-01,Corrective,Alignment Drift,Alignment Drift reported during shift checks,46,2000,L. Jacobs,Completed
+MNT-1030,EQ-ENG-502,2026-10-05,Preventive,Unexpected Stop,Unexpected Stop reported during shift checks,11,1100,L. Jacobs,Completed
+MNT-1031,EQ-TOR-401,2026-09-08,Corrective,Motor Vibration,Motor Vibration reported during shift checks,28,1750,S. Mthembu,Completed
+MNT-1032,EQ-TOR-402,2026-07-10,Corrective,Lubrication Required,Lubrication Required reported during shift checks,34,700,T. Khumalo,Completed
+MNT-1033,EQ-ROB-103,2026-07-12,Corrective,Unexpected Stop,Unexpected Stop reported during shift checks,24,1150,T. Khumalo,Completed
+MNT-1034,EQ-ROB-102,2026-07-25,Inspection,Motor Vibration,Motor Vibration reported during shift checks,12,200,S. Mthembu,In Progress
+MNT-1035,EQ-PRS-602,2026-08-05,Corrective,Unexpected Stop,Unexpected Stop reported during shift checks,27,650,L. Jacobs,In Progress
+MNT-1036,EQ-PRS-601,2026-10-07,Corrective,Motor Vibration,Motor Vibration reported during shift checks,44,1850,N. Singh,Closed
+MNT-1037,EQ-PNT-301,2026-09-12,Corrective,Temperature Sensor,Temperature Sensor reported during shift checks,22,1800,A. Naidoo,Completed
+MNT-1038,EQ-PNT-303,2026-10-15,Preventive,Unexpected Stop,Unexpected Stop reported during shift checks,22,1050,A. Naidoo,Completed
+MNT-1039,EQ-INS-702,2026-08-03,Preventive,Sensor Warning,Sensor Warning reported during shift checks,39,1900,N. Singh,Completed
+MNT-1040,EQ-FLT-901,2026-08-17,Inspection,Unexpected Stop,Unexpected Stop reported during shift checks,31,2050,N. Singh,Closed
+MNT-1041,EQ-FLT-901,2026-08-23,Preventive,Lubrication Required,Lubrication Required reported during shift checks,8,1050,P. Dlamini,Closed
+MNT-1042,EQ-CNV-202,2026-07-03,Corrective,Motor Vibration,Motor Vibration reported during shift checks,10,1750,P. Dlamini,In Progress
+MNT-1043,EQ-PKG-801,2026-08-30,Preventive,Motor Vibration,Motor Vibration reported during shift checks,12,2150,L. Jacobs,Closed
+MNT-1044,EQ-ROB-101,2026-09-23,Corrective,Alignment Drift,Alignment Drift reported during shift checks,95,3300,P. Dlamini,Closed
+MNT-1045,EQ-ENG-501,2026-08-27,corrective,Routine Inspection,Routine Inspection reported during shift checks,14,2100,P. Dlamini,In Progress
+MNT-1046,EQ-INS-701,2026-07-12,Corrective,Unexpected Stop,Unexpected Stop reported during shift checks,35,750,T. Khumalo,In Progress
+MNT-1047,EQ-PRS-602,2026-09-14,Corrective,Lubrication Required,Lubrication Required reported during shift checks,23,800,S. Mthembu,In Progress
+MNT-1048,EQ-PNT-302,2026-08-04,Corrective,Motor Vibration,Motor Vibration reported during shift checks,10,900,P. Dlamini,Completed
+MNT-1049,EQ-ROB-101,2026-07-21,Corrective,Alignment Drift,Alignment Drift reported during shift checks,10,1000,T. Khumalo,Completed
+MNT-1050,EQ-CNV-201,2026-07-23,Inspection,Belt Misalignment,Belt Misalignment reported during shift checks,15,1250,P. Dlamini,Completed
+MNT-1051,EQ-ROB-103,2026-10-09,Preventive,Motor Vibration,Motor Vibration reported during shift checks,12,1250,N. Singh,Completed
+MNT-1052,EQ-CNV-203,2026-07-12,Inspection,Unexpected Stop,Unexpected Stop reported during shift checks,20,350,S. Mthembu,Closed
+MNT-1053,EQ-CNV-202,2026-07-11,Corrective,Lubrication Required,Lubrication Required reported during shift checks,34,900,P. Dlamini,Completed
+MNT-1054,EQ-PRS-601,2026-08-02,Preventive,Routine Inspection,Routine Inspection reported during shift checks,27,1750,L. Jacobs,Closed
+MNT-1055,EQ-ENG-502,2026-08-14,Corrective,Unexpected Stop,Unexpected Stop reported during shift checks,29,2100,T. Khumalo,Completed
+MNT-1056,EQ-ROB-101,2026-07-13,Corrective,Weld Tip Wear,Weld Tip Wear reported during shift checks,32,1650,L. Jacobs,Completed
+MNT-1057,EQ-TOR-401,2026-08-31,Preventive,Unexpected Stop,Unexpected Stop reported during shift checks,10,500,P. Dlamini,Closed
+MNT-1058,EQ-PNT-302,2026-08-06,Inspection,Unexpected Stop,Unexpected Stop reported during shift checks,18,150,P. Dlamini,In Progress
+MNT-1059,EQ-CMP-1002,2026-09-18,Inspection,Motor Vibration,Motor Vibration reported during shift checks,42,1500,A. Naidoo,In Progress
+MNT-1060,EQ-PNT-301,2026-09-28,Corrective,Airflow Warning,Airflow Warning reported during shift checks,32,600,L. Jacobs,In Progress
+MNT-1061,EQ-INS-701,2026-07-17,Inspection,Routine Inspection,Routine Inspection reported during shift checks,33,2050,S. Mthembu,Completed
+MNT-1062,EQ-TOR-401,2026-08-22,Inspection,Sensor Warning,Sensor Warning reported during shift checks,20,1450,L. Jacobs,Closed
+MNT-1063,EQ-TOR-403,2026-08-05,Preventive,Motor Vibration,Motor Vibration reported during shift checks,24,750,T. Khumalo,Completed
+MNT-1064,EQ-CNV-202,2026-09-26,Preventive,Unexpected Stop,Unexpected Stop reported during shift checks,41,,N. Singh,Completed
+MNT-1065,EQ-ROB-102,2026-08-30,Corrective,Sensor Warning,Sensor Warning reported during shift checks,31,1000,S. Mthembu,In Progress
+MNT-1066,EQ-ENG-502,2026-09-07,Corrective,Routine Inspection,Routine Inspection reported during shift checks,20,1650,P. Dlamini,Completed
+MNT-1067,EQ-CNV-203,2026-07-12,Preventive,Routine Inspection,Routine Inspection reported during shift checks,8,2250,T. Khumalo,In Progress
+MNT-1068,EQ-ROB-102,2026-09-26,Corrective,Sensor Warning,Sensor Warning reported during shift checks,26,950,T. Khumalo,Closed
+MNT-1069,EQ-ROB-103,2026-07-30,Inspection,Lubrication Required,Lubrication Required reported during shift checks,6,150,L. Jacobs,In Progress
+MNT-1070,EQ-ROB-101,2026-08-21,Corrective,Servo Overheat,Servo Overheat reported during shift checks,13,150,P. Dlamini,In Progress
+MNT-1071,EQ-FLT-901,2026-09-16,Corrective,Lubrication Required,Lubrication Required reported during shift checks,36,2250,L. Jacobs,Completed
+MNT-1072,EQ-ROB-103,2026-09-07,Corrective,Lubrication Required,Lubrication Required reported during shift checks,34,2250,S. Mthembu,In Progress
+MNT-1073,EQ-FLT-902,2026-07-27,Corrective,Routine Inspection,Routine Inspection reported during shift checks,29,550,S. Mthembu,Completed
+MNT-1074,EQ-ROB-101,2026-10-08,Corrective,Alignment Drift,Alignment Drift reported during shift checks,42,2400,T. Khumalo,Completed
+MNT-1075,EQ-PNT-302,2026-09-09,Preventive,Lubrication Required,Lubrication Required reported during shift checks,27,1000,L. Jacobs,Completed
+MNT-1076,EQ-ENG-502,2026-08-29,Preventive,Unexpected Stop,Unexpected Stop reported during shift checks,33,150,A. Naidoo,Completed
+MNT-1077,EQ-PRS-601,2026-08-25,Corrective,Calibration Check,Calibration Check reported during shift checks,38,1450,T. Khumalo,Completed
+MNT-1078,EQ-ROB-101,2026-08-03,Corrective,Weld Tip Wear,Weld Tip Wear reported during shift checks,5,2350,P. Dlamini,In Progress
+MNT-1079,EQ-CNV-201,2026-10-06,Inspection,Roller Wear,Roller Wear reported during shift checks,16,850,L. Jacobs,In Progress
+MNT-1080,EQ-CNV-202,2026-09-21,Corrective,Sensor Warning,Sensor Warning reported during shift checks,17,350,N. Singh,Completed
+MNT-1081,EQ-PNT-302,2026-07-20,Preventive,Motor Vibration,Motor Vibration reported during shift checks,18,1550,A. Naidoo,In Progress
+MNT-1082,EQ-PNT-303,2026-08-03,Corrective,Lubrication Required,Lubrication Required reported during shift checks,7,1600,N. Singh,Completed
+MNT-1083,EQ-FLT-901,2026-10-05,Preventive,Motor Vibration,Motor Vibration reported during shift checks,33,1100,N. Singh,In Progress
+MNT-1084,EQ-ROB-102,2026-08-23,Preventive,Calibration Check,Calibration Check reported during shift checks,19,2300,N. Singh,In Progress
+MNT-1085,EQ-PKG-801,2026-10-01,Corrective,Routine Inspection,Routine Inspection reported during shift checks,42,2000,A. Naidoo,In Progress
+MNT-1086,EQ-ROB-101,2026-08-14,Inspection,Weld Tip Wear,Weld Tip Wear reported during shift checks,34,2350,T. Khumalo,In Progress
+MNT-1087,EQ-PKG-801,2026-09-04,Corrective,Lubrication Required,Lubrication Required reported during shift checks,26,400,T. Khumalo,In Progress
+MNT-1088,EQ-CNV-203,2026-07-31,Corrective,LUBRICATION REQUIRED,Lubrication Required reported during shift checks,41,750,L. Jacobs,In Progress
+MNT-1089,EQ-ROB-101,2026-10-06,Corrective,Weld Tip Wear,Weld Tip Wear reported during shift checks,93,2400,P. Dlamini,In Progress
+MNT-1090,EQ-PNT-303,2026-07-11,Corrective,Calibration Check,Calibration Check reported during shift checks,22,200,L. Jacobs,In Progress
+MNT-1091,EQ-TOR-402,2026-07-06,Corrective,Motor Vibration,Motor Vibration reported during shift checks,33,2150,N. Singh,Closed
+MNT-1092,EQ-ROB-101,2026-09-06,Corrective,Alignment Drift,Alignment Drift reported during shift checks,70,1300,A. Naidoo,In Progress
+MNT-1093,EQ-ROB-101,2026-09-21,Corrective,Alignment Drift,Alignment Drift reported during shift checks,93,3200,N. Singh,Completed
+MNT-1094,EQ-ENG-501,2026-07-27,Corrective,Sensor Warning,Sensor Warning reported during shift checks,33,450,T. Khumalo,In Progress
+MNT-1095,EQ-PNT-302,2026-07-15,Preventive,Lubrication Required,Lubrication Required reported during shift checks,31,1250,L. Jacobs,Completed
+MNT-1096,EQ-INS-701,2026-09-09,Preventive,Routine Inspection,Routine Inspection reported during shift checks,42,800,P. Dlamini,In Progress
+MNT-1097,EQ-ROB-103,2026-08-02,Corrective,Unexpected Stop,Unexpected Stop reported during shift checks,6,2350,L. Jacobs,Completed
+MNT-1098,EQ-TOR-402,2026-09-23,Corrective,Routine Inspection,Routine Inspection reported during shift checks,10,2200,A. Naidoo,In Progress
+MNT-1099,EQ-CNV-203,09/14/2026,Corrective,Unexpected Stop,Unexpected Stop reported during shift checks,42,2200,S. Mthembu,Closed
+MNT-1100,EQ-CNV-202,2026-09-10,Corrective,Sensor Warning,Sensor Warning reported during shift checks,41,1400,N. Singh,Closed
+MNT-1101,EQ-ROB-101,2026-09-29,Corrective,Servo Overheat,Servo Overheat reported during shift checks,49,1800,L. Jacobs,Closed
+MNT-1102,EQ-CMP-1001,2026-08-19,Preventive,Sensor Warning,Sensor Warning reported during shift checks,19,1550,S. Mthembu,In Progress
+MNT-1103,EQ-TOR-403,2026-07-08,Corrective,Calibration Check,Calibration Check reported during shift checks,42,2100,T. Khumalo,Completed
+MNT-1104,EQ-CNV-202,2026-07-20,Corrective,Calibration Check,Calibration Check reported during shift checks,13,2350,A. Naidoo,In Progress
+MNT-1105,EQ-ROB-101,2026-10-06,Corrective,Servo Overheat,Servo Overheat reported during shift checks,61,1900,T. Khumalo,Completed
+MNT-1106,EQ-CNV-201,2026-10-15,Corrective,Drive Motor Warning,Drive Motor Warning reported during shift checks,39,1850,T. Khumalo,Completed
+MNT-1107,EQ-ROB-101,2026-09-24,Corrective,Weld Tip Wear,Weld Tip Wear reported during shift checks,62,2500,N. Singh,Closed
+MNT-1108,EQ-ROB-101,2026-09-24,Corrective,Alignment Drift,Alignment Drift reported during shift checks,48,3700,L. Jacobs,In Progress
+MNT-1109,EQ-ENG-501,2026-10-14,Preventive,Sensor Warning,Sensor Warning reported during shift checks,16,1100,S. Mthembu,Completed
+MNT-1110,EQ-TOR-403,2026-08-17,Corrective,Sensor Warning,Sensor Warning reported during shift checks,34,2050,S. Mthembu,In Progress
+MNT-1111,EQ-ROB-101,2026-10-05,Corrective,Weld Tip Wear,Weld Tip Wear reported during shift checks,46,4100,S. Mthembu,In Progress
+MNT-1112,EQ-CMP-1001,2026-09-01,Preventive,Sensor Warning,Sensor Warning reported during shift checks,41,1350,L. Jacobs,Closed
+MNT-1113,EQ-PNT-302,2026-07-08,Corrective,Calibration Check,Calibration Check reported during shift checks,36,1200,P. Dlamini,Completed
+MNT-1114,EQ-ROB-101,2026-10-01,Corrective,Servo Overheat,Servo Overheat reported during shift checks,39,3400,L. Jacobs,Closed
+MNT-1115,EQ-CNV-203,2026-07-29,Corrective,Sensor Warning,Sensor Warning reported during shift checks,18,150,A. Naidoo,Completed
+MNT-1116,EQ-PRS-601,2026-09-13,Preventive,Unexpected Stop,Unexpected Stop reported during shift checks,12,700,S. Mthembu,In Progress
+MNT-1117,EQ-ROB-102,2026-09-26,Corrective,Unexpected Stop,Unexpected Stop reported during shift checks,11,650,S. Mthembu,Closed
+MNT-1118,EQ-PRS-602,2026-09-09,Preventive,Lubrication Required,Lubrication Required reported during shift checks,23,1650,L. Jacobs,Closed
+MNT-1119,EQ-TOR-402,2026-08-18,Preventive,Unexpected Stop,Unexpected Stop reported during shift checks,18,2300,L. Jacobs,In Progress
+MNT-1120,EQ-ENG-502,2026-09-16,corrective,Motor Vibration,Motor Vibration reported during shift checks,22,400,L. Jacobs,Completed
+MNT-1121,EQ-CMP-1001,2026-09-30,Preventive,Unexpected Stop,Unexpected Stop reported during shift checks,10,200,N. Singh,Completed
+MNT-1122,EQ-FLT-902,2026-07-07,Corrective,Lubrication Required,Lubrication Required reported during shift checks,13,200,S. Mthembu,In Progress
+MNT-1123,EQ-PRS-602,2026-07-07,Corrective,Sensor Warning,Sensor Warning reported during shift checks,12,2150,N. Singh,Closed
+MNT-1124,EQ-TOR-402,2026-08-23,Preventive,Calibration Check,Calibration Check reported during shift checks,12,700,T. Khumalo,In Progress
+MNT-1125,EQ-TOR-401,2026-08-09,Corrective,Routine Inspection,Routine Inspection reported during shift checks,16,1050,N. Singh,Closed
+MNT-1126,EQ-CMP-1001,2026-10-14,Corrective,Sensor Warning,Sensor Warning reported during shift checks,28,1150,N. Singh,Closed
+MNT-1127,EQ-ROB-101,2026-09-18,Corrective,Servo Overheat,Servo Overheat reported during shift checks,79,3300,A. Naidoo,Closed
+MNT-1128,EQ-ROB-104,2026-08-15,Corrective,Lubrication Required,Lubrication Required reported during shift checks,26,1100,A. Naidoo,Closed
+MNT-1129,EQ-ENG-501,2026-07-13,Corrective,Routine Inspection,Routine Inspection reported during shift checks,13,400,P. Dlamini,Closed
+MNT-1130,EQ-ROB-104,2026-07-24,Preventive,Unexpected Stop,Unexpected Stop reported during shift checks,25,1800,P. Dlamini,Completed
+MNT-1131,EQ-ROB-102,2026-07-06,Corrective,Calibration Check,Calibration Check reported during shift checks,10,2300,P. Dlamini,Completed
+MNT-1132,EQ-ROB-102,2026-08-13,Preventive,Lubrication Required,Lubrication Required reported during shift checks,26,850,P. Dlamini,Completed
+MNT-1133,EQ-CNV-202,2026-08-23,Corrective,Calibration Check,Calibration Check reported during shift checks,26,650,S. Mthembu,Closed
+MNT-1134,EQ-ROB-102,2026-07-06,Corrective,Lubrication Required,Lubrication Required reported during shift checks,43,400,P. Dlamini,In Progress
+MNT-1135, EQ-ROB-101 ,2026-09-06,Corrective,Motor Vibration,Motor Vibration reported during shift checks,29,850,N. Singh,Closed
+MNT-1136,EQ-TOR-403,2026-09-08,Preventive,Lubrication Required,Lubrication Required reported during shift checks,44,1850,A. Naidoo,Completed
+MNT-1137,EQ-CNV-202,2026-08-24,Corrective,Sensor Warning,Sensor Warning reported during shift checks,28,2350,T. Khumalo,In Progress
+MNT-1138,EQ-CNV-202,2026-07-11,Preventive,Sensor Warning,Sensor Warning reported during shift checks,22,1700,N. Singh,Completed
+MNT-1139,EQ-INS-702,2026-09-19,Corrective,Routine Inspection,Routine Inspection reported during shift checks,32,2250,A. Naidoo,Closed
+MNT-1140,EQ-TOR-401,2026-09-17,Preventive,Calibration Check,Calibration Check reported during shift checks,38,750,P. Dlamini,In Progress
+MNT-1141,EQ-PNT-303,2026-08-26,Preventive,Motor Vibration,Motor Vibration reported during shift checks,7,1600,A. Naidoo,Closed
+MNT-1142,EQ-PKG-801,2026-09-24,Corrective,Unexpected Stop,Unexpected Stop reported during shift checks,23,1250,T. Khumalo,Completed
+MNT-1143,EQ-ROB-101,2026-10-01,Corrective,Weld Tip Wear,Weld Tip Wear reported during shift checks,54,2100,L. Jacobs,Closed
+MNT-1144,EQ-INS-702,2026-07-27,Corrective,Calibration Check,Calibration Check reported during shift checks,15,600,N. Singh,Closed
+MNT-1145,EQ-FLT-902,2026-08-24,Corrective,Lubrication Required,Lubrication Required reported during shift checks,16,950,T. Khumalo,Completed
+MNT-1146,EQ-SCN-1101,2026-08-23,Preventive,Routine Inspection,Routine Inspection reported during shift checks,16,1500,S. Mthembu,Completed
+MNT-1147,EQ-PNT-303,2026-10-14,Corrective,Lubrication Required,Lubrication Required reported during shift checks,33,750,L. Jacobs,Completed
+MNT-1148,EQ-CNV-202,2026-08-03,Corrective,Unexpected Stop,Unexpected Stop reported during shift checks,6,1150,S. Mthembu,In Progress
+MNT-1149,EQ-ROB-101,2026-09-21,Corrective,Servo Overheat,Servo Overheat reported during shift checks,93,3800,T. Khumalo,Closed
+MNT-1150,EQ-ROB-103,2026-09-26,Preventive,Lubrication Required,Lubrication Required reported during shift checks,45,900,A. Naidoo,Completed
+MNT-1151,EQ-FLT-901,2026-10-04,Inspection,Routine Inspection,Routine Inspection reported during shift checks,33,1750,L. Jacobs,Completed
+MNT-1152,EQ-ROB-101,2026-10-08,Corrective,Alignment Drift,Alignment Drift reported during shift checks,35,3000,A. Naidoo,Completed
+MNT-1153,EQ-TOR-402,2026-07-22,Corrective,Unexpected Stop,Unexpected Stop reported during shift checks,43,400,S. Mthembu,Completed
+MNT-1154,EQ-ROB-104,2026-07-27,Corrective,Calibration Check,Calibration Check reported during shift checks,42,600,A. Naidoo,In Progress
+MNT-1155,EQ-PRS-601,2026-09-29,Preventive,Unexpected Stop,Unexpected Stop reported during shift checks,36,1600,A. Naidoo,Closed
+MNT-1156,EQ-PRS-602,2026-08-01,Corrective,Sensor Warning,Sensor Warning reported during shift checks,39,2050,N. Singh,Completed
+MNT-1157,EQ-SCN-1101,2026-08-22,Corrective,Unexpected Stop,Unexpected Stop reported during shift checks,12,1600,T. Khumalo,Closed
+MNT-1158,EQ-INS-701,2026-09-19,Inspection,Motor Vibration,Motor Vibration reported during shift checks,15,350,S. Mthembu,In Progress
+MNT-1159,EQ-PRS-601,2026-08-03,Inspection,Motor Vibration,Motor Vibration reported during shift checks,12,1100,A. Naidoo,Completed
+MNT-1160,EQ-ROB-101,2026-09-17,Corrective,Servo Overheat,Servo Overheat reported during shift checks,54,2700,L. Jacobs,In Progress
+MNT-1161,EQ-PNT-303,2026-07-18,Inspection,Unexpected Stop,Unexpected Stop reported during shift checks,26,1800,T. Khumalo,In Progress
+MNT-1162,EQ-ENG-502,2026-10-04,Corrective,Unexpected Stop,Unexpected Stop reported during shift checks,7,1750,P. Dlamini,In Progress
+MNT-1163,EQ-PNT-302,2026-07-31,Corrective,Lubrication Required,Lubrication Required reported during shift checks,27,1050,L. Jacobs,Completed
+MNT-1164,EQ-PRS-602,2026-07-16,Corrective,Routine Inspection,Routine Inspection reported during shift checks,41,1800,A. Naidoo,Completed
+MNT-1165,EQ-TOR-403,2026-08-23,Corrective,Lubrication Required,Lubrication Required reported during shift checks,13,1800,P. Dlamini,In Progress
+MNT-1166,EQ-PNT-303,2026-08-27,Inspection,Motor Vibration,Motor Vibration reported during shift checks,6,300,P. Dlamini,In Progress
+MNT-1167,EQ-ROB-101,2026-09-24,Corrective,Position Sensor Fault,Position Sensor Fault reported during shift checks,92,3600,N. Singh,Closed
+MNT-1168,EQ-TOR-402,2026-07-25,Corrective,Calibration Check,Calibration Check reported during shift checks,5,1450,L. Jacobs,Completed
+MNT-1169,EQ-ENG-502,2026-07-31,Preventive,Calibration Check,Calibration Check reported during shift checks,24,550,T. Khumalo,Completed
+MNT-1170,EQ-ROB-101,2026-09-17,Corrective,Alignment Drift,Alignment Drift reported during shift checks,83,2400,S. Mthembu,Completed
+MNT-1171,EQ-CNV-202,2026-07-20,Corrective,Unexpected Stop,Unexpected Stop reported during shift checks,28,2050,L. Jacobs,Closed
+MNT-1172,EQ-ROB-101,2026-09-07,Corrective,Servo Overheat,Servo Overheat reported during shift checks,64,1800,P. Dlamini,In Progress
+MNT-1173,EQ-PNT-303,2026-07-11,Corrective,Sensor Warning,Sensor Warning reported during shift checks,34,350,P. Dlamini,Completed
+MNT-1174,EQ-PRS-601,2026-09-13,Corrective,Sensor Warning,Sensor Warning reported during shift checks,44,2050,N. Singh,Completed
+MNT-1175,EQ-ROB-101,2026-09-22,Corrective,Position Sensor Fault,Position Sensor Fault reported during shift checks,60,3300,L. Jacobs,In Progress
+MNT-1176,EQ-TOR-403,2026-07-28,Preventive,Unexpected Stop,Unexpected Stop reported during shift checks,23,250,T. Khumalo,Closed
+MNT-1177,EQ-CNV-203,2026-08-16,Inspection,Calibration Check,Calibration Check reported during shift checks,23,200,T. Khumalo,In Progress
+MNT-1178,EQ-PRS-602,2026-07-25,Preventive,Motor Vibration,Motor Vibration reported during shift checks,45,1150,N. Singh,In Progress
+MNT-1179,EQ-ROB-104,2026-09-20,Preventive,Calibration Check,Calibration Check reported during shift checks,26,2350,N. Singh,Completed
+MNT-1180,EQ-CNV-203,2026-07-16,Corrective,Calibration Check,Calibration Check reported during shift checks,19,1650,S. Mthembu,Closed
+MNT-1052,EQ-CNV-203,2026-07-12,Inspection,Unexpected Stop,Unexpected Stop reported during shift checks,20,350,S. Mthembu,Closed

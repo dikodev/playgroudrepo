@@ -1,0 +1,482 @@
+﻿InspectionID,InspectionDate,Plant,ProductionLine,EquipmentID,InspectionType,UnitsInspected,DefectCount,DefectCategory,Severity,Result
+INS-2001,2026-07-05,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,27,3,Torque Variance,Medium,Pass
+INS-2002,2026-08-28,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,50,3,Edge Crack,High,Pass
+INS-2003,2026-09-18,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,29,0,Panel Dent,Low,Pass
+INS-2004,2026-08-18,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,28,4,Uneven Coating,Medium,Pass
+INS-2005,2026-10-07,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,23,7,Incomplete Weld,High,Fail
+INS-2006,2026-08-07,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,51,4,Torque Variance,Low,Pass
+INS-2007,2026-07-13,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,39,4,Dimensional Variance,Medium,Pass
+INS-2008,2026-07-17,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,21,4,Panel Gap,Medium,Pass
+INS-2009,2026-10-02,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,53,0,Color Variation,Low,Pass
+INS-2010,2026-09-30,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,48,3,Edge Crack,High,Pass
+INS-2011,2026-07-17,Durban,Body Shop,EQ-CNV-202,End-of-Line Inspection,27,4,Weld Alignment,Medium,Pass
+INS-2012,2026-09-27,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,26,6,Weld Alignment,High,Fail
+INS-2013,2026-10-07,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,52,3,Electrical Check,Medium,Pass
+INS-2014,2026-10-16,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,33,11,Surface Dent,High,Fail
+INS-2015,2026-08-03,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,43,2,Dimensional Variance,Low,Pass
+INS-2016,2026-09-07,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,21,1,Uneven Coating,Medium,Pass
+INS-2017,2026-10-08,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,42,1,Paint Blemish,Low,Pass
+INS-2018,2026-07-13,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,52,4,Weld Alignment,High,Pass
+INS-2019,2026-09-13,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,32,1,Fitment Issue,Medium,Pass
+INS-2020,2026-08-01,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,32,0,Surface Dent,Low,Pass
+INS-2021,2026-07-26,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,24,0,Dimensional Variance,Low,Pass
+INS-2022,2026-08-18,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,38,2,Incomplete Weld,High,Pass
+INS-2023,2026-09-08,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,50,9,Weld Alignment,Critical,Fail
+INS-2024,2026-08-31,Durban,Final Assembly,EQ-TOR-402,End-of-Line Inspection,38,1,Fitment Issue,Low,Pass
+INS-2025,2026-08-30,Durban,Paint Shop,EQ-PNT-302,End-of-Line Inspection,54,3,Surface Contamination,Medium,Pass
+INS-2026,2026-08-26,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,53,3,Electrical Check,High,Pass
+INS-2027,2026-10-01,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,31,4,Panel Dent,Low,Pass
+INS-2028,2026-09-21,Durban,Body Shop,EQ-CNV-202,End-of-Line Inspection,23,1,Weld Alignment,Low,Pass
+INS-2029,2026-08-02,Durban Plant,Paint Shop,EQ-PNT-303,End-of-Line Inspection,47,3,Paint Blemish,Medium,Pass
+INS-2030,2026-08-13,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,35,3,Panel Dent,Low,Pass
+INS-2031,2026-10-11,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,39,2,Electrical Check,Low,Pass
+INS-2032,2026-08-11,Durban,Final Assembly,EQ-TOR-402,End-of-Line Inspection,33,3,Missing Fastener,Low,Pass
+INS-2033,2026-08-08,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,55,2,Panel Dent,High,Pass
+INS-2034,2026-07-24,Durban,Final Assembly,EQ-TOR-402,End-of-Line Inspection,27,1,Fitment Issue,Low,Pass
+INS-2035,2026-09-27,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,36,6,Panel Gap,Critical,Fail
+INS-2036,2026-07-18,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,37,4,Weld Alignment,Medium,Pass
+INS-2037,2026-07-20,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,42,4,Surface Mark,Medium,Pass
+INS-2038,2026-09-10,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,18,3,Edge Crack,Medium,Pass
+INS-2039,2026-07-14,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,23,4,Surface Contamination,Medium,Pass
+INS-2040,2026-07-19,Durban,Paint Shop,EQ-PNT-302,End-of-Line Inspection,18,0,Color Variation,Low,Pass
+INS-2041,2026-08-12,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,53,2,Weld Alignment,Low,Pass
+INS-2042,2026-09-19,Durban,Final Assembly,EQ-TOR-402,End-of-Line Inspection,38,0,Torque Variance,Low,Pass
+INS-2043,2026-07-02,Durban,Body Shop,EQ-ROB-102,End-of-Line Inspection,24,1,Incomplete Weld,High,Pass
+INS-2044,2026-08-01,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,20,0,Weld Alignment,Low,Pass
+INS-2045,2026-08-08,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,57,4,Panel Gap,Low,Pass
+INS-2046,2026-08-05,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,28,2,Surface Mark,Medium,Pass
+INS-2047,2026-09-19,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,47,2,Surface Mark,High,Pass
+INS-2048,2026-08-25,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,51,1,Panel Dent,Medium,Pass
+INS-2049,2026-09-13,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,22,3,Paint Blemish,Low,Pass
+INS-2050,2026-07-03,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,59,4,Electrical Check,High,Pass
+INS-2051,2026-07-30,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,33,2,Panel Dent,Medium,Pass
+INS-2052,2026-08-20,Durban,Body Shop,EQ-ROB-102,End-of-Line Inspection,18,4,Weld Alignment,High,Pass
+INS-2053,2026-09-22,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,26,13,Surface Dent,Critical,Fail
+INS-2054,2026-10-12,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,55,2,Surface Dent,Medium,Pass
+INS-2055,2026-09-08,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,23,0,Weld Alignment,Low,Pass
+INS-2056,2026-07-03,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,34,4,Panel Dent,Medium,Pass
+INS-2057,2026-08-15,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,20,0,Surface Mark,Low,Pass
+INS-2058,2026-08-08,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,23,2,Fitment Issue,Low,Pass
+INS-2059,2026-09-08,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,39,2,Weld Alignment,High,Pass
+INS-2060,2026-09-02,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,29,0,Electrical Check,Low,Pass
+INS-2061,2026-08-31,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,60,4,Color Variation,Medium,Pass
+INS-2062,2026-09-02,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,52,13,Surface Dent,Critical,Fail
+INS-2063,2026-10-05,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,60,3,Panel Dent,Medium,Pass
+INS-2064,2026-07-03,Durban,Body Shop,EQ-ROB-102,End-of-Line Inspection,36,1,Panel Gap,Medium,Pass
+INS-2065,2026-07-20,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,55,0,Edge Crack,Low,Pass
+INS-2066,2026-09-20,Durban,paint shop,EQ-PNT-302,End-of-Line Inspection,37,4,Uneven Coating,Low,Pass
+INS-2067,2026-07-08,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,26,0,Electrical Check,Low,Pass
+INS-2068,2026-10-04,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,27,1,Torque Variance,Low,Pass
+INS-2069,2026-08-04,Durban,Final Assembly,EQ-TOR-402,End-of-Line Inspection,54,3,Torque Variance,High,Pass
+INS-2070,2026-07-22,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,37,4,Incomplete Weld,High,Pass
+INS-2071,2026-09-06,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,41,4,Torque Variance,Medium,Pass
+INS-2072,2026-09-24,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,25,1,Edge Crack,Low,Pass
+INS-2073,2026-08-14,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,43,1,Missing Fastener,Medium,Pass
+INS-2074,2026-08-10,Durban,Body Shop,EQ-ROB-102,End-of-Line Inspection,33,1,Weld Alignment,Medium,Pass
+INS-2075,2026-10-01,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,42,2,Dimensional Variance,Medium,Pass
+INS-2076,2026-07-26,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,39,1,Edge Crack,Low,Pass
+INS-2077,2026-07-30,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,36,2,Surface Mark,Low,Pass
+INS-2078,2026-09-28,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,40,8,Weld Alignment,High,Fail
+INS-2079,2026-08-19,Durban,Body Shop,EQ-CNV-202,End-of-Line Inspection,54,2,Weld Alignment,Low,Pass
+INS-2080,2026-08-30,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,33,1,Surface Mark,Low,Pass
+INS-2081,2026-10-12,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,51,1,Torque Variance,Low,Pass
+INS-2082,2026-08-27,Durban,Body Shop,EQ-ROB-102,End-of-Line Inspection,38,3,Surface Dent,High,Pass
+INS-2083,2026-10-16,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,41,0,Missing Fastener,Low,Pass
+INS-2084,2026-07-31,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,44,3,Torque Variance,High,Pass
+INS-2085,2026-10-05,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,49,7,Weld Alignment,Critical,Fail
+INS-2086,2026-08-14,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,47,1,Color Variation,Low,Pass
+INS-2087,2026-08-21,Durban,Final Assembly,EQ-TOR-402,End-of-Line Inspection,48,3,Electrical Check,Low,Pass
+INS-2088,2026-09-08,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,47,0,Panel Gap,Low,Pass
+INS-2089,2026-09-10,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,26,2,Surface Mark,Low,Pass
+INS-2090,2026-10-02,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,38,10,Incomplete Weld,Critical,Fail
+INS-2091,2026-08-17,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,50,4,Dimensional Variance,Low,Pass
+INS-2092,2026-09-26,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,39,6,Incomplete Weld,Critical,Fail
+INS-2093,2026-09-05,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,31,3,Incomplete Weld,Medium,Pass
+INS-2094,2026-07-20,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,23,1,Edge Crack,Low,Pass
+INS-2095,2026-07-12,Durban,Body Shop,EQ-ROB-102,End-of-Line Inspection,37,2,Panel Gap,Medium,Pass
+INS-2096,2026-09-05,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,41,0,Weld Alignment,Low,Pass
+INS-2097,2026-07-01,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,23,4,Missing Fastener,Low,Pass
+INS-2098,2026-09-13,Durban,Body Shop,EQ-CNV-202,End-of-Line Inspection,35,3,Weld Alignment,Low,Pass
+INS-2099,2026-07-28,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,57,3,Missing Fastener,Low,Pass
+INS-2100,2026-10-14,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,35,0,Torque Variance,Low,Pass
+INS-2101,2026-08-01,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,31,2,Electrical Check,Medium,Pass
+INS-2102,2026-10-01,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,37,3,Panel Dent,Medium,Pass
+INS-2103,2026-07-08,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,38,1,Surface Mark,Low,Pass
+INS-2104,2026-08-25,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,27,4,Panel Gap,High,Pass
+INS-2105,2026-08-19,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,19,1,Paint Blemish,Low,Pass
+INS-2106,2026-08-18,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,18,3,Incomplete Weld,Medium,Pass
+INS-2107,2026-10-03,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,44,10,Incomplete Weld,High,Fail
+INS-2108,2026-09-19,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,50,6,Panel Gap,High,Fail
+INS-2109,2026-07-25,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,38,4,Uneven Coating,High,Pass
+INS-2110,2026-09-03,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,36,4,Surface Dent,Low,Pass
+INS-2111,2026-08-08,Durban,Body Shop,EQ-CNV-202,End-of-Line Inspection,37,1,Panel Gap,Low,Pass
+INS-2112,08/21/2026,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,25,4,Surface Mark,Low,Pass
+INS-2113,2026-07-02,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,46,2,Color Variation,High,Pass
+INS-2114,2026-10-05,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,51,5,Surface Dent,Critical,Fail
+INS-2115,2026-09-12,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,18,1,Panel Gap,Medium,Pass
+INS-2116,2026-09-19,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,23,4,Paint Blemish,Medium,Pass
+INS-2117,2026-09-26,Durban,Body Shop,EQ-CNV-202,End-of-Line Inspection,19,1,Incomplete Weld,Medium,Pass
+INS-2118,2026-10-09,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,29,10,Weld Alignment,Critical,Fail
+INS-2119,2026-10-05,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,56,1,Incomplete Weld,High,Pass
+INS-2120,2026-09-19,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,55,4,Panel Gap,Medium,Pass
+INS-2121,2026-07-07,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,35,4,Electrical Check,Low,Pass
+INS-2122,2026-08-18,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,19,4,Surface Contamination,Low,Pass
+INS-2123,2026-07-21,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,23,4,Surface Dent,Low,Pass
+INS-2124,2026-07-12,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,19,0,Surface Contamination,Low,Pass
+INS-2125,2026-07-21,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,59,1,Panel Gap,Medium,Pass
+INS-2126,2026-07-28,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,33,4,Incomplete Weld,Medium,Pass
+INS-2127,2026-09-19,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,42,0,Color Variation,Low,Pass
+INS-2128,2026-08-05,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,43,2,Surface Mark,Medium,Pass
+INS-2129,2026-08-05,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,24,1,Missing Fastener,Medium,Pass
+INS-2130,2026-07-06,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,37,2,Surface Dent,Low,Pass
+INS-2131,2026-09-14,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,54,10,Surface Dent,High,Fail
+INS-2132,2026-07-21,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,59,4,Missing Fastener,Low,Pass
+INS-2133,2026-08-14,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,19,1,Fitment Issue,High,Pass
+INS-2134,2026-07-03,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,49,0,Surface Mark,Low,Pass
+INS-2135,2026-07-12,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,25,4,Paint Blemish,Low,Pass
+INS-2136,2026-10-07,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,18,3,Uneven Coating,Medium,Pass
+INS-2137,2026-07-03,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,22,2,Torque Variance,Medium,Pass
+INS-2138,2026-09-25,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,25,9,Surface Dent,High,Fail
+INS-2139,2026-10-16,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,40,3,Electrical Check,Low,Pass
+INS-2140,2026-09-13,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,47,0,Missing Fastener,Low,Pass
+INS-2141,2026-07-17,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,35,2,Electrical Check,Low,Pass
+INS-2142,2026-07-31,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,28,3,Color Variation,Medium,Pass
+INS-2143,2026-07-13,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,25,0,Edge Crack,Low,Pass
+INS-2144,2026-09-23,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,34,0,Surface Mark,Low,Pass
+INS-2145,2026-08-22,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,41,0,Panel Gap,Low,Pass
+INS-2146,2026-08-26,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,40,1,Surface Mark,Low,Pass
+INS-2147,2026-10-09,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,44,4,Panel Dent,Medium,Pass
+INS-2148,2026-08-03,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,18,0,Edge Crack,Low,Pass
+INS-2149,2026-08-12,Durban,Body Shop,EQ-ROB-102,End-of-Line Inspection,24,4,Weld Alignment,Medium,Pass
+INS-2150,2026-08-05,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,25,1,Surface Mark,Low,Pass
+INS-2151,2026-08-16,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,47,3,Panel Dent,Low,Pass
+INS-2152,2026-09-01,Durban,Body Shop, EQ-ROB-101 ,End-of-Line Inspection,24,6,Incomplete Weld,High,Fail
+INS-2153,2026-09-07,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,60,3,Weld Alignment,Low,Pass
+INS-2154,2026-09-02,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,38,10,Panel Gap,High,Fail
+INS-2155,2026-08-12,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,27,4,Dimensional Variance,Low,Pass
+INS-2156,2026-09-24,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,21,6,Panel Gap,High,Fail
+INS-2157,2026-10-11,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,23,1,Surface Contamination,Medium,Pass
+INS-2158,2026-09-18,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,40,1,Electrical Check,Medium,Pass
+INS-2159,2026-09-26,Durban,Paint Shop,EQ-PNT-302,End-of-Line Inspection,39,3,Paint Blemish,High,Pass
+INS-2160,2026-07-03,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,53,4,Surface Mark,High,Pass
+INS-2161,2026-08-23,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,40,2,Panel Dent,Medium,Pass
+INS-2162,2026-10-01,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,47,0,Surface Dent,Low,Pass
+INS-2163,2026-10-05,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,34,2,Panel Gap,Low,Pass
+INS-2164,2026-10-01,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,33,2,Surface Contamination,High,Pass
+INS-2165,2026-08-19,Durban,Paint Shop,EQ-PNT-302,End-of-Line Inspection,42,4,Surface Contamination,Medium,Pass
+INS-2166,2026-07-07,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,29,4,Uneven Coating,Medium,Pass
+INS-2167,2026-10-12,Durban,Body Shop,EQ-ROB-102,End-of-Line Inspection,23,0,Panel Gap,Low,Pass
+INS-2168,2026-08-12,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,28,1,Fitment Issue,High,Pass
+INS-2169,2026-09-02,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,39,4,Torque Variance,High,Pass
+INS-2170,2026-09-21,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,29,10,Weld Alignment,High,Fail
+INS-2171,2026-09-24,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,31,4,Torque Variance,Medium,Pass
+INS-2172,2026-08-18,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,31,3,Fitment Issue,Low,Pass
+INS-2173,2026-08-10,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,52,0,Missing Fastener,Low,Pass
+INS-2174,2026-10-01,DBN,Paint Shop,EQ-PNT-302,End-of-Line Inspection,57,3,Paint Blemish,Medium,Pass
+INS-2175,2026-07-27,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,36,0,Surface Mark,Low,Pass
+INS-2176,2026-09-13,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,55,4,Surface Contamination,Low,Pass
+INS-2177,2026-07-24,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,60,0,Uneven Coating,Low,Pass
+INS-2178,2026-07-08,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,24,2,Panel Dent,Medium,Pass
+INS-2179,2026-08-18,Durban,Paint Shop,EQ-PNT-302,End-of-Line Inspection,50,3,Uneven Coating,Medium,Pass
+INS-2180,2026-09-08,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,26,12,Surface Dent,High,Fail
+INS-2181,2026-08-13,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,25,4,Torque Variance,Low,Pass
+INS-2182,2026-07-15,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,53,3,Incomplete Weld,Low,Pass
+INS-2183,2026-10-05,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,28,4,Uneven Coating,Low,Pass
+INS-2184,2026-10-09,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,23,1,Surface Contamination,Medium,Pass
+INS-2185,2026-08-19,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,58,2,Fitment Issue,Low,Pass
+INS-2186,2026-08-24,Durban,Final Assembly,EQ-TOR-402,End-of-Line Inspection,18,4,Electrical Check,Low,Pass
+INS-2187,2026-09-07,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,55,4,Surface Contamination,Low,Pass
+INS-2188,2026-08-04,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,18,4,Torque Variance,High,Pass
+INS-2189,2026-09-24,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,57,1,Surface Contamination,Medium,Pass
+INS-2190,2026-08-10,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,38,0,Surface Contamination,Low,Pass
+INS-2191,2026-08-30,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,55,4,Surface Dent,Medium,Pass
+INS-2192,2026-08-02,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,37,0,Missing Fastener,Low,Pass
+INS-2193,2026-08-20,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,56,1,Edge Crack,Medium,Pass
+INS-2194,2026-07-09,Durban,Body Shop,EQ-ROB-102,End-of-Line Inspection,59,1,Surface Dent,Low,Pass
+INS-2195,2026-07-21,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,41,2,Surface Mark,Low,Pass
+INS-2196,2026-08-17,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,20,2,Panel Gap,Medium,Pass
+INS-2197,2026-08-03,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,26,2,Surface Mark,Medium,Pass
+INS-2198,2026-07-12,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,43,2,Color Variation,Medium,Pass
+INS-2199,2026-07-27,Durban,Paint Shop,EQ-PNT-302,End-of-Line Inspection,53,1,Surface Contamination,Low,Pass
+INS-2200,2026-10-12,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,25,4,Panel Dent,Medium,Pass
+INS-2201,2026-09-13,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,40,3,Surface Contamination,Medium,Pass
+INS-2202,2026-07-29,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,45,1,Missing Fastener,Low,Pass
+INS-2203,2026-09-24,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,48,1,Surface Mark,High,Pass
+INS-2204,2026-08-15,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,25,2,Edge Crack,Medium,Pass
+INS-2205,2026-07-26,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,47,1,Weld Alignment,Low,Pass
+INS-2206,2026-07-16,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,,1,Electrical Check,Medium,Pass
+INS-2207,2026-07-30,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,25,3,Surface Mark,Medium,Pass
+INS-2208,2026-07-29,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,23,3,Panel Gap,Low,Pass
+INS-2209,2026-08-08,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,29,0,Weld Alignment,Low,Pass
+INS-2210,2026-07-12,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,42,2,Electrical Check,Medium,Pass
+INS-2211,2026-09-13,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,19,0,Color Variation,Low,Pass
+INS-2212,2026-07-04,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,38,4,Fitment Issue,Medium,Pass
+INS-2213,2026-08-09,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,31,3,Edge Crack,High,Pass
+INS-2214,2026-10-02,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,46,0,Missing Fastener,Low,Pass
+INS-2215,2026-08-27,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,27,2,Panel Dent,High,Pass
+INS-2216,2026-09-07,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,60,0,Fitment Issue,Low,Pass
+INS-2217,2026-10-01,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,22,3,Fitment Issue,Medium,Pass
+INS-2218,2026-10-15,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,46,3,Fitment Issue,Medium,Pass
+INS-2219,2026-08-17,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,22,4,Surface Dent,Low,Pass
+INS-2220,2026-08-16,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,50,1,Surface Dent,Low,Pass
+INS-2221,2026-09-11,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,60,3,Incomplete Weld,Low,Pass
+INS-2222,2026-09-20,Durban,Paint Shop,EQ-PNT-302,End-of-Line Inspection,43,2,Uneven Coating,Medium,Pass
+INS-2223,2026-09-25,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,32,10,Weld Alignment,High,Fail
+INS-2224,2026-07-01,Durban,Body Shop,EQ-CNV-202,End-of-Line Inspection,32,0,Incomplete Weld,Low,Pass
+INS-2225,2026-08-31,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,30,2,Uneven Coating,Low,Pass
+INS-2226,2026-08-14,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,27,1,Dimensional Variance,High,Pass
+INS-2227,2026-08-24,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,51,0,Paint Blemish,Low,Pass
+INS-2228,2026-07-22,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,48,3,Fitment Issue,High,Pass
+INS-2229,2026-09-17,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,55,4,Electrical Check,Medium,Pass
+INS-2230,2026-08-29,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,43,4,Uneven Coating,Medium,Pass
+INS-2231,2026-09-19,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,42,0,Fitment Issue,Low,Pass
+INS-2232,2026-08-30,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,26,1,Surface Contamination,Low,Pass
+INS-2233,2026-07-24,Durban,Body Shop,EQ-ROB-102,End-of-Line Inspection,44,1,Surface Dent,Medium,Pass
+INS-2234,2026-09-28,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,47,0,Panel Dent,Low,Pass
+INS-2235,2026-10-13,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,55,3,Edge Crack,High,Pass
+INS-2236,2026-07-25,Durban,Final Assembly,EQ-TOR-402,End-of-Line Inspection,39,1,Missing Fastener,Low,Pass
+INS-2237,2026-08-25,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,29,1,Fitment Issue,Medium,Pass
+INS-2238,2026-09-25,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,18,3,Edge Crack,Low,Pass
+INS-2239,2026-07-02,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,32,1,Electrical Check,Low,Pass
+INS-2240,2026-10-04,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,28,0,Incomplete Weld,Low,Pass
+INS-2241,2026-07-30,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,41,1,Panel Dent,High,Pass
+INS-2242,2026-08-12,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,31,2,Electrical Check,Low,Pass
+INS-2243,2026-08-10,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,43,0,Uneven Coating,Low,Pass
+INS-2244,2026-10-12,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,59,1,Missing Fastener,High,Pass
+INS-2245,2026-09-18,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,32,2,Panel Gap,Low,Pass
+INS-2246,2026-08-04,Durban,Body Shop,EQ-CNV-202,End-of-Line Inspection,54,0,Incomplete Weld,Low,Pass
+INS-2247,2026-08-21,Durban,Final Assembly,EQ-TOR-402,End-of-Line Inspection,60,4,Torque Variance,Medium,Pass
+INS-2248,2026-09-01,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,50,13,Surface Dent,Critical,Fail
+INS-2249,2026-09-10,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,35,2,Weld Alignment,Low,Pass
+INS-2250,2026-09-11,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,46,14,Surface Dent,High,Fail
+INS-2251,2026-07-22,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,59,2,Surface Dent,Medium,Pass
+INS-2252,2026-09-13,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,54,14,Weld Alignment,High,Fail
+INS-2253,2026-07-26,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,52,2,Surface Contamination,Low,Pass
+INS-2254,2026-07-31,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,26,2,Color Variation,Low,Pass
+INS-2255,2026-07-08,Durban,Paint Shop,EQ-PNT-302,End-of-Line Inspection,36,4,Paint Blemish,Medium,Pass
+INS-2256,2026-07-24,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,54,2,Surface Mark,Low,Pass
+INS-2257,2026-09-16,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,27,4,Surface Mark,Medium,Pass
+INS-2258,2026-08-21,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,30,0,Incomplete Weld,Low,Pass
+INS-2259,2026-09-11,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,39,2,Surface Contamination,Medium,Pass
+INS-2260,2026-08-07,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,60,4,Panel Gap,Low,Pass
+INS-2261,2026-07-17,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,35,2,Missing Fastener,Low,Pass
+INS-2262,2026-07-10,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,46,4,Torque Variance,Medium,Pass
+INS-2263,2026-07-03,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,18,0,Incomplete Weld,Low,Pass
+INS-2264,2026-10-16,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,59,4,Weld Alignment,Low,Pass
+INS-2265,2026-07-20,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,20,1,Surface Mark,Low,Pass
+INS-2266,2026-08-05,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,41,2,Edge Crack,High,Pass
+INS-2267,2026-07-05,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,56,2,Torque Variance,Medium,Pass
+INS-2268,2026-08-13,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,29,2,Paint Blemish,High,Pass
+INS-2269,2026-08-04,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,48,4,Dimensional Variance,Low,Pass
+INS-2270,2026-07-09,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,50,1,Surface Dent,High,Pass
+INS-2271,2026-07-31,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,20,3,Edge Crack,Medium,Pass
+INS-2272,2026-09-30,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,52,3,Edge Crack,High,Pass
+INS-2273,2026-08-25,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,27,1,Panel Dent,Medium,Pass
+INS-2274,2026-08-04,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,58,2,Edge Crack,Medium,Pass
+INS-2275,2026-08-03,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,60,0,Color Variation,Low,Pass
+INS-2276,2026-08-28,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,42,0,Missing Fastener,Low,Pass
+INS-2277,2026-09-30,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,28,1,Electrical Check,Medium,Pass
+INS-2278,2026-08-08,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,34,3,Missing Fastener,High,Pass
+INS-2279,2026-10-02,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,43,3,Panel Dent,Low,Pass
+INS-2280,2026-10-15,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,44,0,Missing Fastener,Low,Pass
+INS-2281,2026-07-16,Durban,Body Shop,EQ-ROB-102,End-of-Line Inspection,39,4,Weld Alignment,Medium,Pass
+INS-2282,2026-07-30,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,51,0,Electrical Check,Low,Pass
+INS-2283,2026-08-17,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,38,4,Surface Contamination,Low,Pass
+INS-2284,2026-08-06,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,50,1,Surface Contamination,Medium,Pass
+INS-2285,2026-07-17,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,49,1,Fitment Issue,Low,Pass
+INS-2286,2026-07-11,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,58,2,Paint Blemish,Medium,Pass
+INS-2287,2026-09-04,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,27,2,Surface Contamination,Low,Pass
+INS-2288,2026-09-04,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,38,3,Edge Crack,Medium,Pass
+INS-2289,2026-08-21,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,30,2,Surface Mark,Medium,Pass
+INS-2290,2026-10-11,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,45,0,Torque Variance,Low,Pass
+INS-2291,2026-08-02,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,24,4,Surface Contamination,Medium,Pass
+INS-2292,2026-09-08,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,21,2,Surface Mark,Medium,Pass
+INS-2293,2026-07-26,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,20,1,Incomplete Weld,Medium,Pass
+INS-2294,2026-10-09,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,42,3,Torque Variance,High,Pass
+INS-2295,2026-09-05,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,43,4,Fitment Issue,Low,Pass
+INS-2296,2026-08-28,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,47,2,Color Variation,Medium,Pass
+INS-2297,2026-07-17,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,18,0,Surface Contamination,Low,Pass
+INS-2298,2026-08-09,Durban,Body Shop,EQ-ROB-102,End-of-Line Inspection,39,3,Incomplete Weld,Medium,Pass
+INS-2299,2026-09-27,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,24,0,Dimensional Variance,Low,Pass
+INS-2300,2026-07-17,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,29,4,Missing Fastener,Low,Pass
+INS-2301,2026-08-30,Durban,Paint Shop,EQ-PNT-302,End-of-Line Inspection,54,0,Color Variation,Low,Pass
+INS-2302,2026-09-24,Durban,stamping,EQ-PRS-602,End-of-Line Inspection,60,0,Dimensional Variance,Low,Pass
+INS-2303,2026-09-21,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,48,3,Color Variation,Medium,Pass
+INS-2304,2026-10-13,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,33,4,Surface Mark,Medium,Pass
+INS-2305,2026-07-06,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,45,3,Panel Dent,Medium,Pass
+INS-2306,2026-08-28,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,54,0,Surface Contamination,Low,Pass
+INS-2307,2026-07-13,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,33,4,Dimensional Variance,Medium,Pass
+INS-2308,2026-09-02,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,39,13,Incomplete Weld,Critical,Fail
+INS-2309,2026-09-08,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,24,4,Missing Fastener,Medium,Pass
+INS-2310,2026-09-20,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,24,9,Panel Gap,High,Fail
+INS-2311,2026-09-19,Durban,Body Shop,EQ-ROB-102,End-of-Line Inspection,22,4,Panel Gap,Medium,Pass
+INS-2312,2026-08-03,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,18,1,Electrical Check,High,Pass
+INS-2313,2026-09-14,Durban,Body Shop,EQ-CNV-202,End-of-Line Inspection,21,2,Panel Gap,Medium,Pass
+INS-2314,2026-10-02,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,44,2,Color Variation,High,Pass
+INS-2315,2026-08-24,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,58,4,Edge Crack,Medium,Pass
+INS-2316,2026-09-15,Durban,Paint Shop,EQ-PNT-302,End-of-Line Inspection,24,1,Uneven Coating,Low,Pass
+INS-2317,2026-08-01,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,59,1,Color Variation,Low,Pass
+INS-2318,2026-08-09,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,31,0,Color Variation,Low,Pass
+INS-2319,2026-08-27,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,38,2,Color Variation,Medium,Pass
+INS-2320,2026-09-20,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,48,10,Panel Gap,Critical,Fail
+INS-2321,2026-09-24,Durban,Body Shop,EQ-CNV-202,End-of-Line Inspection,32,0,Surface Dent,Low,Pass
+INS-2322,2026-07-20,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,23,3,Paint Blemish,Medium,Pass
+INS-2323,2026-08-22,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,53,3,Edge Crack,Low,Pass
+INS-2324,2026-09-19,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,21,0,Electrical Check,Low,Pass
+INS-2325,2026-07-23,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,43,3,Surface Contamination,Medium,Pass
+INS-2326,2026-10-05,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,55,2,Missing Fastener,Medium,Pass
+INS-2327,2026-09-08,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,47,2,Panel Dent,Medium,Pass
+INS-2328,2026-08-09,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,58,1,Panel Gap,Medium,Pass
+INS-2329,2026-08-16,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,35,3,Electrical Check,Medium,Pass
+INS-2330,2026-08-06,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,35,3,Paint Blemish,Low,Pass
+INS-2331,2026-07-19,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,30,4,Surface Contamination,Medium,Pass
+INS-2332,2026-07-02,Durban,Body Shop,EQ-CNV-202,End-of-Line Inspection,21,4,Panel Gap,High,Pass
+INS-2333,2026-09-13,Durban,Body Shop,EQ-CNV-202,End-of-Line Inspection,37,1,Surface Dent,Low,Pass
+INS-2334,2026-07-28,Durban,Paint Shop,EQ-PNT-302,End-of-Line Inspection,29,2,Surface Contamination,Low,Pass
+INS-2335,2026-07-13,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,54,4,Electrical Check,High,Pass
+INS-2336,2026-10-09,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,41,1,Surface Mark,Low,Pass
+INS-2337,2026-10-13,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,36,1,Paint Blemish,Low,Pass
+INS-2338,2026-07-18,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,44,2,Edge Crack,Medium,Pass
+INS-2339,2026-08-22,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,52,1,Surface Mark,Low,Pass
+INS-2340,2026-07-26,Durban,Paint Shop,EQ-PNT-302,End-of-Line Inspection,50,3,Color Variation,Low,Pass
+INS-2341,2026-07-20,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,50,2,Fitment Issue,Medium,Pass
+INS-2342,2026-09-26,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,45,0,Dimensional Variance,Low,Pass
+INS-2343,2026-08-29,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,27,0,Dimensional Variance,Low,Pass
+INS-2344,2026-07-17,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,38,4,Weld Alignment,Medium,Pass
+INS-2345,2026-09-09,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,35,2,Color Variation,Medium,Pass
+INS-2346,2026-07-04,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,41,1,Paint Blemish,High,Pass
+INS-2347,2026-07-20,Durban,Paint Shop,EQ-PNT-302,End-of-Line Inspection,39,2,Uneven Coating,Low,Pass
+INS-2348,2026-09-18,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,46,10,Weld Alignment,Critical,Fail
+INS-2349,2026-08-19,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,29,1,Surface Mark,Low,Pass
+INS-2350,2026-09-14,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,30,,Electrical Check,Low,Pass
+INS-2351,2026-09-05,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,36,3,Electrical Check,Low,Pass
+INS-2352,2026-07-02,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,31,4,Weld Alignment,Medium,Pass
+INS-2353,2026-09-19,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,29,6,Panel Gap,High,Fail
+INS-2354,2026-07-07,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,51,0,Uneven Coating,Low,Pass
+INS-2355,2026-09-20,Durban,Paint Shop,EQ-PNT-302,End-of-Line Inspection,54,4,Color Variation,Low,Pass
+INS-2356,2026-09-09,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,22,4,Fitment Issue,Low,Pass
+INS-2357,2026-10-02,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,41,0,Panel Dent,Low,Pass
+INS-2358,2026-08-02,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,41,0,Color Variation,Low,Pass
+INS-2359,2026-08-21,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,48,3,Missing Fastener,Low,Pass
+INS-2360,2026-10-01,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,29,4,Torque Variance,High,Pass
+INS-2361,2026-07-26,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,38,1,Dimensional Variance,Low,Pass
+INS-2362,2026-08-12,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,47,4,Uneven Coating,High,Pass
+INS-2363,2026-07-07,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,60,2,Dimensional Variance,Low,Pass
+INS-2364,2026-09-03,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,34,4,Edge Crack,High,Pass
+INS-2365,2026-08-31,Durban,Final Assembly,EQ-TOR-402,End-of-Line Inspection,27,3,Missing Fastener,High,Pass
+INS-2366,2026-08-25,Durban,Body Shop,EQ-ROB-102,End-of-Line Inspection,44,2,Incomplete Weld,Low,Pass
+INS-2367,2026-07-09,Durban,Final Assembly,EQ-TOR-402,End-of-Line Inspection,49,0,Missing Fastener,Low,Pass
+INS-2368,2026-09-23,Durban,Body Shop,EQ-ROB-102,End-of-Line Inspection,26,0,Panel Gap,Low,Pass
+INS-2369,2026-10-10,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,52,14,Surface Dent,High,Fail
+INS-2370,2026-09-12,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,51,5,Panel Gap,High,Pass
+INS-2371,2026-09-01,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,59,1,Missing Fastener,Low,Pass
+INS-2372,2026-07-13,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,34,2,Surface Mark,Low,Pass
+INS-2373,2026-07-03,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,25,0,Color Variation,Low,Pass
+INS-2374,2026-07-15,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,24,1,Missing Fastener,Low,Pass
+INS-2375,2026-07-23,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,24,2,Torque Variance,Low,Pass
+INS-2376,2026-10-13,Durban,Body Shop,EQ-CNV-202,End-of-Line Inspection,36,4,Incomplete Weld,Medium,Pass
+INS-2377,2026-07-07,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,28,3,Panel Gap,Medium,Pass
+INS-2378,2026-08-13,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,58,4,Panel Gap,Low,Pass
+INS-2379,2026-09-14,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,57,2,Missing Fastener,Medium,Pass
+INS-2380,2026-08-01,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,18,2,Incomplete Weld,Medium,Pass
+INS-2381,2026-10-09,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,60,0,Dimensional Variance,Low,Pass
+INS-2382,2026-08-24,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,31,2,Surface Contamination,Medium,Pass
+INS-2383,2026-09-05,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,21,1,Torque Variance,Medium,Pass
+INS-2384,2026-09-23,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,21,2,Missing Fastener,Low,Pass
+INS-2385,2026-07-31,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,60,3,Surface Contamination,Low,Pass
+INS-2386,2026-10-04,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,47,6,Surface Dent,Critical,Fail
+INS-2387,2026-10-15,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,47,3,Surface Dent,Low,Pass
+INS-2388,2026-07-11,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,27,2,Electrical Check,Medium,Pass
+INS-2389,2026-08-02,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,54,4,Uneven Coating,Low,Pass
+INS-2390,2026-09-30,Durban,Paint Shop,EQ-PNT-302,End-of-Line Inspection,55,2,Color Variation,Low,Pass
+INS-2391,2026-07-14,Durban Plant,Stamping,EQ-PRS-602,End-of-Line Inspection,20,0,Edge Crack,Low,Pass
+INS-2392,2026-08-21,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,48,1,Surface Contamination,High,Pass
+INS-2393,2026-09-25,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,35,2,Fitment Issue,Low,Pass
+INS-2394,2026-09-06,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,46,4,Incomplete Weld,Medium,Pass
+INS-2395,2026-07-10,Durban,Paint Shop,EQ-PNT-302,End-of-Line Inspection,20,1,Color Variation,Medium,Pass
+INS-2396,2026-10-08,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,29,2,Surface Dent,Low,Pass
+INS-2397,2026-07-07,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,25,0,Missing Fastener,Low,Pass
+INS-2398,2026-08-15,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,32,4,Missing Fastener,High,Pass
+INS-2399,2026-09-28,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,47,4,Uneven Coating,High,Pass
+INS-2400,2026-08-11,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,28,2,Panel Dent,Low,Pass
+INS-2401,2026-08-18,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,46,1,Edge Crack,Medium,Pass
+INS-2402,2026-09-30,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,51,0,Dimensional Variance,Low,Pass
+INS-2403,2026-07-13,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,57,3,Uneven Coating,Low,Pass
+INS-2404,2026-07-16,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,28,4,Surface Dent,Low,Pass
+INS-2405,2026-09-24,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,19,4,Uneven Coating,High,Pass
+INS-2406,2026-10-04,Durban,Body Shop,EQ-CNV-202,End-of-Line Inspection,37,0,Panel Gap,Low,Pass
+INS-2407,2026-07-16,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,19,2,Torque Variance,High,Pass
+INS-2408,2026-08-12,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,26,1,Color Variation,Medium,Pass
+INS-2409,2026-07-14,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,60,3,Edge Crack,Medium,Pass
+INS-2410,2026-07-08,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,40,2,Panel Gap,Low,Pass
+INS-2411,2026-09-23,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,55,8,Surface Dent,High,Fail
+INS-2412,2026-07-09,Durban,Final Assembly,EQ-TOR-402,End-of-Line Inspection,23,3,Electrical Check,Medium,Pass
+INS-2413,2026-07-31,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,39,0,Incomplete Weld,Low,Pass
+INS-2414,2026-08-27,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,53,4,Edge Crack,Medium,Pass
+INS-2415,2026-08-04,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,21,0,Electrical Check,Low,Pass
+INS-2416,2026-09-17,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,56,1,Panel Gap,Medium,Pass
+INS-2417,2026-08-28,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,18,4,Panel Gap,Medium,Pass
+INS-2418,2026-07-18,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,44,4,Surface Contamination,High,Pass
+INS-2419,2026-07-24,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,29,1,Color Variation,Low,Pass
+INS-2420,2026-10-05,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,36,1,Surface Contamination,Low,Pass
+INS-2421,2026-08-01,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,53,1,Surface Mark,high,Pass
+INS-2422,2026-08-03,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,38,2,Surface Contamination,Medium,Pass
+INS-2423,2026-09-04,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,47,2,Edge Crack,High,Pass
+INS-2424,2026-10-04,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,53,3,Electrical Check,High,Pass
+INS-2425,2026-09-14,Durban,Final Assembly,EQ-TOR-402,End-of-Line Inspection,32,2,Electrical Check,Medium,Pass
+INS-2426,2026-07-30,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,59,3,Incomplete Weld,Low,Pass
+INS-2427,2026-08-09,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,47,0,Uneven Coating,Low,Pass
+INS-2428,2026-07-29,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,30,3,Electrical Check,Low,Pass
+INS-2429,2026-08-04,Durban,Final Assembly,EQ-TOR-402,End-of-Line Inspection,25,0,Missing Fastener,Low,Pass
+INS-2430,2026-07-14,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,43,1,Surface Dent,High,Pass
+INS-2431,2026-07-14,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,50,1,Panel Dent,High,Pass
+INS-2432,2026-08-14,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,45,1,Electrical Check,Medium,Pass
+INS-2433,2026-07-13,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,23,2,Torque Variance,Medium,Pass
+INS-2434,2026-08-05,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,31,2,Incomplete Weld,High,Pass
+INS-2435,2026-07-08,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,46,0,Fitment Issue,Low,Pass
+INS-2436,2026-08-07,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,26,1,Incomplete Weld,Low,Pass
+INS-2437,2026-08-25,Durban,Body Shop,EQ-CNV-202,End-of-Line Inspection,32,0,Incomplete Weld,Low,Pass
+INS-2438,2026-07-09,Durban,Body Shop,EQ-ROB-102,End-of-Line Inspection,30,3,Surface Dent,High,Pass
+INS-2439,2026-10-12,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,44,3,Panel Gap,High,Pass
+INS-2440,2026-09-07,Durban,Final Assembly,EQ-TOR-402,End-of-Line Inspection,20,4,Fitment Issue,Low,Pass
+INS-2441,2026-07-29,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,31,1,Dimensional Variance,Medium,Pass
+INS-2442,2026-08-06,Durban,Paint Shop,EQ-CNV-203,End-of-Line Inspection,59,3,Color Variation,Low,Pass
+INS-2443,2026-08-04,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,33,2,Uneven Coating,Low,Pass
+INS-2444,2026-08-17,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,41,0,Color Variation,Low,Pass
+INS-2445,2026-10-06,Durban,Final Assembly,EQ-TOR-402,End-of-Line Inspection,47,4,Electrical Check,Low,Pass
+INS-2446,2026-09-11,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,55,0,Missing Fastener,Low,Pass
+INS-2447,2026-07-21,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,57,2,Weld Alignment,Medium,Pass
+INS-2448,2026-10-03,Durban,Body Shop,EQ-ROB-103,End-of-Line Inspection,22,1,Weld Alignment,Low,Pass
+INS-2449,2026-08-26,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,34,1,Incomplete Weld,Medium,Pass
+INS-2450,2026-10-04,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,56,2,Edge Crack,High,Pass
+INS-2451,2026-07-22,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,24,2,Torque Variance,Low,Pass
+INS-2452,2026-08-08,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,30,2,Paint Blemish,Medium,Pass
+INS-2453,2026-09-07,Durban,Paint Shop,EQ-PNT-301,End-of-Line Inspection,52,2,Uneven Coating,Medium,Pass
+INS-2454,2026-09-12,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,34,2,Torque Variance,High,Pass
+INS-2455,2026-09-25,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,48,4,Surface Dent,Low,Pass
+INS-2456,2026-09-11,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,49,4,Missing Fastener,Low,Pass
+INS-2457,2026-09-27,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,19,0,Surface Dent,Low,Pass
+INS-2458,2026-08-15,Durban,Body Shop,EQ-CNV-202,End-of-Line Inspection,20,3,Incomplete Weld,Low,Pass
+INS-2459,2026-10-11,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,28,5,Panel Gap,Critical,Fail
+INS-2460,2026-07-06,Durban,Body Shop,EQ-ROB-104,End-of-Line Inspection,56,3,Incomplete Weld,High,Pass
+INS-2461,2026-09-27,Durban,Body Shop,EQ-ROB-101,End-of-Line Inspection,54,10,Panel Gap,High,Fail
+INS-2462,2026-10-11,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,37,0,Torque Variance,Low,Pass
+INS-2463,2026-09-06,Durban,Final Assembly,EQ-ENG-502,End-of-Line Inspection,29,0,Missing Fastener,Low,Pass
+INS-2464,2026-07-02,Durban,Body Shop,EQ-CNV-202,End-of-Line Inspection,59,1,Panel Gap,Low,Pass
+INS-2465,2026-09-11,Durban,Final Assembly,EQ-PKG-801,End-of-Line Inspection,29,1,Torque Variance,Medium,Pass
+INS-2466,2026-10-11,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,49,0,Color Variation,Low,Pass
+INS-2467,2026-09-24,Durban,Body Shop,EQ-ROB-102,End-of-Line Inspection,33,2,Weld Alignment,High,Pass
+INS-2468,2026-09-23,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,26,4,Electrical Check,High,Pass
+INS-2469,2026-07-01,Durban,Body Shop,EQ-CNV-202,End-of-Line Inspection,39,4,Surface Dent,Medium,Pass
+INS-2470,2026-07-20,Durban,Final Assembly,EQ-ENG-501,End-of-Line Inspection,35,1,Fitment Issue,Medium,Pass
+INS-2471,2026-08-16,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,22,1,Edge Crack,High,Pass
+INS-2472,2026-09-01,Durban,Final Assembly,EQ-TOR-403,End-of-Line Inspection,60,1,Fitment Issue,Low,Pass
+INS-2473,2026-09-07,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,59,1,Electrical Check,Low,Pass
+INS-2474,2026-08-10,Durban,Stamping,EQ-PRS-602,End-of-Line Inspection,21,1,Panel Dent,Medium,Pass
+INS-2475,2026-10-16,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,49,0,Weld Alignment,Low,Pass
+INS-2476,2026-07-15,Durban,Body Shop,EQ-CNV-201,End-of-Line Inspection,41,3,Weld Alignment,Medium,Pass
+INS-2477,2026-07-19,Durban,Paint Shop,EQ-PNT-302,End-of-Line Inspection,48,1,Color Variation,High,Pass
+INS-2478,2026-08-05,Durban,Paint Shop,EQ-PNT-303,End-of-Line Inspection,44,1,Uneven Coating,Medium,Pass
+INS-2479,2026-09-18,Durban,Stamping,EQ-PRS-601,End-of-Line Inspection,22,4,Surface Mark,Medium,Pass
+INS-2480,2026-08-30,Durban,Final Assembly,EQ-TOR-402,End-of-Line Inspection,57,2,Torque Variance,Low,Pass
+INS-2073,2026-08-14,Durban,Final Assembly,EQ-TOR-401,End-of-Line Inspection,43,1,Missing Fastener,Medium,Pass
