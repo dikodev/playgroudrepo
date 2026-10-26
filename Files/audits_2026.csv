@@ -1,0 +1,33 @@
+audit_id,supplier_id,audit_date,audit_type,score,outcome,findings_count,critical_findings,corrective_action_status,auditing_body
+AUD-2026-001-07,SUP-008,2026-02-05,Quality Systems,93,Pass,2,0,Closed,Contoso Quality Assurance Services
+AUD-2026-001-08,SUP-008,2026-08-12,Traceability,88,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2026-002-07,SUP-014,2026-02-16,Traceability,98,Pass,0,0,Closed,Contoso Quality Assurance Services
+AUD-2026-003-07,SUP-021,2026-02-27,Hygiene and Sanitation,85,Pass,6,0,Closed,Contoso Quality Assurance Services
+AUD-2026-004-07,SUP-027,2026-02-03,Supplier Compliance,88,Pass,5,0,Closed,Contoso Quality Assurance Services
+AUD-2026-004-08,SUP-027,2026-08-10,Food Safety,87,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2026-005-07,SUP-031,2026-02-14,Food Safety,87,Pass,5,0,Closed,Contoso Quality Assurance Services
+AUD-2026-006-07,SUP-032,2026-02-25,Quality Systems,93,Pass,3,0,Closed,Contoso Quality Assurance Services
+AUD-2026-007-07,SUP-033,2026-02-01,Traceability,93,Pass,2,0,Closed,Contoso Quality Assurance Services
+AUD-2026-007-08,SUP-033,2026-08-08,Hygiene and Sanitation,87,Pass,3,0,Closed,Contoso Quality Assurance Services
+AUD-2026-008-07,SUP-034,2026-02-12,Hygiene and Sanitation,87,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2026-009-07,SUP-035,2026-02-23,Supplier Compliance,89,Pass,5,0,Closed,Contoso Quality Assurance Services
+AUD-2026-010-07,SUP-036,2026-01-30,Food Safety,93,Pass,1,0,Closed,Contoso Quality Assurance Services
+AUD-2026-010-08,SUP-036,2026-08-06,Quality Systems,98,Pass,2,0,Closed,Contoso Quality Assurance Services
+AUD-2026-011-07,SUP-037,2026-02-10,Quality Systems,89,Pass,2,0,Closed,Contoso Quality Assurance Services
+AUD-2026-012-07,SUP-038,2026-02-21,Traceability,88,Pass,2,0,Closed,Contoso Quality Assurance Services
+AUD-2026-013-07,SUP-039,2026-03-04,Hygiene and Sanitation,94,Pass,2,0,Closed,Contoso Quality Assurance Services
+AUD-2026-013-08,SUP-039,2026-08-04,Supplier Compliance,93,Pass,1,0,Closed,Contoso Quality Assurance Services
+AUD-2026-014-07,SUP-040,2026-02-08,Supplier Compliance,85,Pass,6,0,Closed,Contoso Quality Assurance Services
+AUD-2026-015-07,SUP-041,2026-02-19,Food Safety,97,Pass,1,0,Closed,Contoso Quality Assurance Services
+AUD-2026-016-07,SUP-042,2026-03-02,Quality Systems,92,Pass,1,0,Closed,Contoso Quality Assurance Services
+AUD-2026-016-08,SUP-042,2026-08-02,Traceability,86,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2026-017-07,SUP-043,2026-02-06,Traceability,90,Pass,3,0,Closed,Contoso Quality Assurance Services
+AUD-2026-018-07,SUP-044,2026-02-17,Hygiene and Sanitation,90,Pass,3,0,Closed,Contoso Quality Assurance Services
+AUD-2026-019-07,SUP-045,2026-02-28,Supplier Compliance,84,Conditional Pass,3,0,In Progress,Contoso Quality Assurance Services
+AUD-2026-019-08,SUP-045,2026-07-31,Food Safety,85,Pass,5,0,Closed,Contoso Quality Assurance Services
+AUD-2026-020-07,SUP-046,2026-02-04,Food Safety,86,Pass,3,0,Closed,Contoso Quality Assurance Services
+AUD-2026-021-07,SUP-047,2026-02-15,Quality Systems,97,Pass,1,0,Closed,Contoso Quality Assurance Services
+AUD-2026-022-07,SUP-048,2026-02-26,Traceability,89,Pass,3,0,Closed,Contoso Quality Assurance Services
+AUD-2026-022-08,SUP-048,2026-07-29,Hygiene and Sanitation,88,Pass,2,0,Closed,Contoso Quality Assurance Services
+AUD-2026-023-07,SUP-049,2026-02-02,Hygiene and Sanitation,88,Pass,2,0,Closed,Contoso Quality Assurance Services
+AUD-2026-024-07,SUP-050,2026-02-13,Supplier Compliance,88,Pass,4,0,Closed,Contoso Quality Assurance Services

@@ -1,0 +1,25 @@
+supplier_id,supplier_name,country,category,region,risk_level,active,onboarded_date,primary_contact_email
+SUP-008,Fabrikam Produce Partners,South Africa,Fresh Produce,Western Cape,Medium,True,2022-04-18,procurement@fabrikamproduce.example
+SUP-014,Alpine Valley Dairy Cooperative,South Africa,Dairy,KwaZulu-Natal,Low,True,2021-09-06,quality@alpinevalleydairy.example
+SUP-021,Northwind Frozen Foods,United Kingdom,Frozen Foods,Yorkshire,High,True,2020-02-12,compliance@northwindfrozen.example
+SUP-027,Woodgrove Creamery,Netherlands,Dairy,Gelderland,High,True,2019-07-29,qa@woodgrovecreamery.example
+SUP-031,Contoso Grain Milling,South Africa,Grains and Milling,Gauteng,Medium,True,2023-01-16,quality@contosograin.example
+SUP-032,Litware Packaging Solutions,South Africa,Food Packaging,Gauteng,Low,True,2022-08-08,compliance@litwarepack.example
+SUP-033,Adventure Works Citrus,South Africa,fresh produce,Limpopo,Medium,True,2021-05-24,qa@adventurecitrus.example
+SUP-034,Tailspin Spice Traders,India,Spices and Seasonings,Kerala,High,True,2020-11-02,quality@tailspinspice.example
+SUP-035,Blue Yonder Cold Storage,South Africa,Cold Chain Logistics,Western Cape,Medium,True,2023-03-13,operations@blueyondercold.example
+SUP-036,Proseware Bakery Ingredients,France,BAKERY INGREDIENTS,Brittany,Low,True,2022-02-21,qa@prosewarebakery.example
+SUP-037,Wide World Importers Seafood,Norway,Seafood,Vestland,High,True,2019-10-14,compliance@wwiseafood.example
+SUP-038,Consolidated Coffee Estates,kenya,Coffee and Beverages,Kiambu,Medium,True,2021-06-07,quality@consolidatedcoffee.example
+SUP-039,A Datum Edible Oils,South Africa,Oils and Fats,KwaZulu-Natal,Medium,True,2023-07-03,qa@adatumoils.example
+SUP-040,Lucerne Valley Poultry,South Africa,Poultry,Free State,High,True,2020-08-17,compliance@lucernepoultry.example
+SUP-041,Humongous Insurance Foods,Germany,Processed Foods,Bavaria,Low,False,2018-04-09,quality@humongousfoods.example
+SUP-042,Fourth Coffee Roasters,Ethiopia,Coffee and Beverages,Oromia,Medium,True,2022-10-10,qa@fourthcoffee.example
+SUP-043,City Power Confectionery,Belgium,Confectionery ,Flanders,Low,True,2021-12-01,quality@cityconfectionery.example
+SUP-044,Margies Travel Herbs,MOROCCO,Herbs and Botanicals,Souss-Massa,Medium,True,2023-05-15,compliance@margiesherbs.example
+SUP-045,Graphic Design Institute Canning,South Africa,Canned Foods,Eastern Cape,High,True,2020-01-27,qa@gdicanning.example
+SUP-046,Nod Publishers Bottling,South Africa,Beverages,Gauteng,Medium,True,2022-06-20,quality@nodbottling.example
+SUP-047,School of Fine Art Organics,Spain,Organic Produce,Andalusia,Low,True,2021-03-08,certification@sfaorganics.example
+SUP-048,Southridge Video Ingredients,Italy,food ingredients,Lombardy,Medium,True,2019-09-23,qa@southridgeingredients.example
+SUP-049,Trey Research Meats,South Africa,Meat Products,Mpumalanga,High,True,2020-06-15,compliance@treyresearchmeats.example
+SUP-050,Coho Winery Ingredients,South Africa,Beverage Ingredients,Western Cape,,True,2024-02-05,quality@cohowinery.example

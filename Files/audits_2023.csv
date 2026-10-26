@@ -1,0 +1,49 @@
+audit_id,supplier_id,audit_date,audit_type,score,outcome,findings_count,critical_findings,corrective_action_status,auditing_body
+AUD-2023-001-01,SUP-008,2023-01-29,Food Safety,89,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-001-02,SUP-008,2023-08-05,Quality Systems,86,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-002-01,SUP-014,2023-02-09,Quality Systems,89,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-002-02,SUP-014,2023-08-16,Traceability,87,Pass,2,0,Closed,Contoso Quality Assurance Services
+AUD-2023-003-01,SUP-021,2023-02-20,Traceability,79,Conditional Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-003-02,SUP-021,2023-08-27,Hygiene and Sanitation,80,Conditional Pass,5,0,Closed,Contoso Quality Assurance Services
+AUD-2023-004-01,SUP-027,2023-03-03,Hygiene and Sanitation,80,Conditional Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-004-02,SUP-027,2023-08-03,Supplier Compliance,79,Conditional Pass,7,0,Closed,Contoso Quality Assurance Services
+AUD-2023-005-01,SUP-031,2023-02-07,Supplier Compliance,91,Pass,1,0,Closed,Contoso Quality Assurance Services
+AUD-2023-005-02,SUP-031,2023-08-14,Food Safety,83,Conditional Pass,6,0,Closed,Contoso Quality Assurance Services
+AUD-2023-006-01,SUP-032,2023-02-18,Food Safety,88,Pass,3,0,Closed,Contoso Quality Assurance Services
+AUD-2023-006-02,SUP-032,2023-08-25,Quality Systems,90,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-007-01,SUP-033,2023-03-01,Quality Systems,89,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-007-02,SUP-033,2023-08-01,Traceability,89,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-008-01,SUP-034,2023-02-05,Traceability,86,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-008-02,SUP-034,2023-08-12,Hygiene and Sanitation,85,Pass,5,0,Closed,Contoso Quality Assurance Services
+AUD-2023-009-01,SUP-035,2023-02-16,Hygiene and Sanitation,87,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-009-02,SUP-035,2023-08-23,Supplier Compliance,83,Conditional Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-010-01,SUP-036,2023-02-27,Supplier Compliance,91,Pass,3,0,Closed,Contoso Quality Assurance Services
+AUD-2023-010-02,SUP-036,2023-07-30,Food Safety,89,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-011-01,SUP-037,2023-02-03,Food Safety,85,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-011-02,SUP-037,2023-08-10,Quality Systems,85,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-012-01,SUP-038,2023-02-14,Quality Systems,86,Pass,6,0,Closed,Contoso Quality Assurance Services
+AUD-2023-012-02,SUP-038,2023-08-21,Traceability,90,Pass,3,0,Closed,Contoso Quality Assurance Services
+AUD-2023-013-01,SUP-039,2023-02-25,Traceability,91,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-013-02,SUP-039,2023-09-01,Hygiene and Sanitation,83,Conditional Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-014-01,SUP-040,2023-02-01,Hygiene and Sanitation,86,Pass,3,0,Closed,Contoso Quality Assurance Services
+AUD-2023-014-02,SUP-040,2023-08-08,Supplier Compliance,81,Conditional Pass,6,0,Closed,Contoso Quality Assurance Services
+AUD-2023-015-01,SUP-041,2023-02-12,Supplier Compliance,88,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-015-02,SUP-041,2023-08-19,Food Safety,94,Pass,3,0,Closed,Contoso Quality Assurance Services
+AUD-2023-016-01,SUP-042,2023-02-23,Food Safety,87,Pass,3,0,Closed,Contoso Quality Assurance Services
+AUD-2023-016-02,SUP-042,2023-08-30,Quality Systems,84,Conditional Pass,3,0,Closed,Contoso Quality Assurance Services
+AUD-2023-017-01,SUP-043,2023-01-30,Quality Systems,91,Pass,3,0,Closed,Contoso Quality Assurance Services
+AUD-2023-017-02,SUP-043,2023-08-06,Traceability,92,Pass,2,0,Closed,Contoso Quality Assurance Services
+AUD-2023-018-01,SUP-044,2023-02-10,Traceability,91,Pass,1,0,Closed,Contoso Quality Assurance Services
+AUD-2023-018-02,SUP-044,2023-08-17,Hygiene and Sanitation,86,Pass,5,0,Closed,Contoso Quality Assurance Services
+AUD-2023-019-01,SUP-045,2023-02-21,Hygiene and Sanitation,80,Conditional Pass,7,0,Closed,Contoso Quality Assurance Services
+AUD-2023-019-02,SUP-045,2023-08-28,Supplier Compliance,86,Pass,3,0,Closed,Contoso Quality Assurance Services
+AUD-2023-020-01,SUP-046,2023-03-04,Supplier Compliance,83,Conditional Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-020-02,SUP-046,2023-08-04,Food Safety,90,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-021-01,SUP-047,2023-02-08,Food Safety,91,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-021-02,SUP-047,2023-08-15,Quality Systems,93,Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-022-01,SUP-048,2023-02-19,Quality Systems,88,Pass,2,0,Closed,Contoso Quality Assurance Services
+AUD-2023-022-02,SUP-048,2023-08-26,Traceability,91,Pass,2,0,Closed,Contoso Quality Assurance Services
+AUD-2023-023-01,SUP-049,2023-03-02,Traceability,79,Conditional Pass,4,0,Closed,Contoso Quality Assurance Services
+AUD-2023-023-02,SUP-049,2023-08-02,Hygiene and Sanitation,82,Conditional Pass,5,0,Closed,Contoso Quality Assurance Services
+AUD-2023-024-01,SUP-050,2023-02-06,Hygiene and Sanitation,84,Conditional Pass,3,0,Closed,Contoso Quality Assurance Services
+AUD-2023-024-02,SUP-050,2023-08-13,Supplier Compliance,91,Pass,1,0,Closed,Contoso Quality Assurance Services
